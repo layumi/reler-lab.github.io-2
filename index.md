@@ -4,7 +4,7 @@ title: The ReLER Lab
 
 <!--![alt text](./images/home.jpg "Logo Title Text 1")-->
 
-The **ReLER** (Recognition, Learning, Reasoning) Lab, directed by [Prof. Yi Yang](https://www.uts.edu.au/staff/yi.yang), is committed to enable machines to
+The **ReLER** (Recognition, LEarning, Reasoning) Lab, directed by [Prof. Yi Yang](https://www.uts.edu.au/staff/yi.yang), is committed to enable machines to
 accurately recognize the environment, adaptively understand the human interactions, and
 autonomously analyze the behavior through reasoning. To this end, we work on computer
 vision, learning algorithms, natural language, and their intersections. Concretely, we aim at
