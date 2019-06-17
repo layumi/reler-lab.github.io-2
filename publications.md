@@ -7,26 +7,14 @@ permalink: /publication/
 
 This is the full publication list of ReLER since 2016.
 
+Conferences: [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
+
+Journals: [2019](#19), [2018](#18), [2017](#17), [2016](#16)
+
 <hr>
 
+## Conferences
 ### 2019
-
-_Contrastive Adaptation Network for Unsupervised Domain Adaptation_<br>
-Kang, G., Jiang, L., Yang, Y. and Hauptmann, A.G.<br>
-CVPR, 2019
-
-_A Bottom-Up Clustering Approach to Unsupervised Person Re-identification_<br>
-Lin, Y., Dong, X., Zheng, L., Yan, Y. and Yang, Y.<br>
-AAAI, 2019
-
-_Transductive propagation network for few-shot learning_<br>
-Liu, Y., Lee, J., Park, M., Kim, S. and Yang, Y.<br>
-ICLR, 2019
-
-_Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation_<br>
-Luo, Y., Zheng, L., Guan, T., Yu, J. and Yang, Y.<br>
-CVPR, 2019
-
 _Video Interactive Captioning with Human Prompts_<br>
 Wu, A., Ha, Y. and Yang, Y.<br>
 IJCAI, 2019
@@ -35,35 +23,10 @@ _Generalized Majorization-Minimization for Non-Convex Optimization_<br>
 Zhang, H., Zhou, P., Yang, Y. and Feng, J.<br>
 IJCAI, 2019
 
-_Sim-Real Joint Reinforcement Transfer for 3D Indoor Navigation_<br>
-Zhu, F., Zhu, L. and Yang, Y.<br>
-CVPR, 2019
-
-
-
-_A Dual-Network Progressive Approach to Weakly Supervised Object Detection_<br>
-Xuanyi Dong, Deyu Meng, Fan Ma, Yi Yang<br>
-ACM MM, 2019 ([URL](http://xuanyidong.com/pdf/a-dual-network.pdf))
-
-_Cubic LSTMs for Video Prediction_<br>
-Hehe Fan, Linchao Zhu, Yi Yang<br>
-AAAI, 2019 ([URL](https://arxiv.org/pdf/1904.09412.pdf))
-
-_Pedestrian alignment network for large-scale person re-identification_<br>
-Zhedong Zheng, Liang Zheng, Yi Yang<br>
-TCSVT, 2019 ([URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8481710))
-
 _Joint discriminative and generative learning for person re-identification_<br>
 Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz<br>
 CVPR, 2019 ([URL](https://arxiv.org/pdf/1904.07223.pdf))
 
-_Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning_<br>
-Yanbin Liu, Juho Lee, Minseop Park, Saehoon Kim, Eunho Yang, Sungju Hwang and Yi Yang<br>
-ICLR, 2019 ([URL](https://openreview.net/pdf?id=SyVuRiC5K7))
-
-_Adaptive Sparse Confidence-Weighted Learning for Online Feature Selection_<br>
-Yanbin Liu, Yan Yan, Ling Chen, Yahong Han and Yi Yang<br>
-AAAI, 2019 ([URL](https://csyanbin.github.io/papers/AAAI2019_ASCW.pdf))
 
 _Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration_<br>
 Yang He, Ping Liu, Ziwei Wang, Zhilan Hu, Yi Yang<br>
@@ -76,6 +39,236 @@ CVPR, 2019 ([URL](https://arxiv.org/pdf/1904.01310))
 _Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identiﬁcation_<br>
 Zhun Zhong, Liang Zheng, Zhiming Luo, Shaozi Li, Yi Yang<br>
 CVPR, 2019 ([URL](https://arxiv.org/abs/1904.01990))
+
+_Searching for A Robust Neural Architecture in Four GPU Hours_<br>
+Xuanyi Dong, Yi Yang<br>
+CVPR, 2019 ([URL](https://raw.githubusercontent.com/D-X-Y/GDAS/master/data/GDAS.pdf))
+
+_Contrastive Adaptation Network for Unsupervised Domain Adaptation_<br>
+Kang, G., Jiang, L., Yang, Y. and Hauptmann, A.G.<br>
+CVPR, 2019
+
+_Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation_<br>
+Luo, Y., Zheng, L., Guan, T., Yu, J. and Yang, Y.<br>
+CVPR, 2019
+
+_Sim-Real Joint Reinforcement Transfer for 3D Indoor Navigation_<br>
+Zhu, F., Zhu, L. and Yang, Y.<br>
+CVPR, 2019
+
+
+_A Bottom-Up Clustering Approach to Unsupervised Person Re-identification_<br>
+Lin, Y., Dong, X., Zheng, L., Yan, Y. and Yang, Y.<br>
+AAAI, 2019
+
+_Cubic LSTMs for Video Prediction_<br>
+Hehe Fan, Linchao Zhu, Yi Yang<br>
+AAAI, 2019 ([URL](https://arxiv.org/pdf/1904.09412.pdf))
+
+
+_Adaptive Sparse Confidence-Weighted Learning for Online Feature Selection_<br>
+Yanbin Liu, Yan Yan, Ling Chen, Yahong Han and Yi Yang<br>
+AAAI, 2019 ([URL](https://csyanbin.github.io/papers/AAAI2019_ASCW.pdf))
+
+_Transductive propagation network for few-shot learning_<br>
+Liu, Y., Lee, J., Park, M., Kim, S. and Yang, Y.<br>
+ICLR, 2019
+
+
+
+### 2018
+_Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation: the Benefit of Target Expectation Maximization_<br>
+Kang, G., Zheng, L., Yan Yan, Liu, Z. and Yang, Y.<br>
+ECCV, 2018
+
+_RCAA: Relational Context-Aware Agents for Person Search_<br>
+Chang, X., Huang, P.-Y., Liang, X., Yang, Y. and Hauptmann, A.<br>
+ECCV, 2018
+
+_Self-produced Guidance for Weakly-supervised Object Localization_<br>
+Xiaolin Zhang,Yunchao Wei, Guoliang Kang, Yi Yang, Thomas Huang<br>
+ECCV, 2018 ([URL](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaolin_Zhang_Self-produced_Guidance_for_ECCV_2018_paper.pdf))
+
+_Macro-Micro Adversarial Network for Human Parsing_<br>
+Luo, Y., Zheng, Z., Zheng, L., Tao, G., Junqing, Y. and Yang, Y.<br>
+ECCV, 2018
+
+_Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline)_<br>
+Sun, Y., Zheng, L., Yang, Y., Tian, Q. and Wang, S.<br>
+ECCV, 2018
+
+_Compound Memory Networks for Few-shot Video Classification_<br>
+Zhu, L. and Yang, Y.<br>
+ECCV, 2018
+
+_Generalizing A Person Retrieval Model Hetero- and Homogeneously_<br>
+Zhun Zhong, Liang Zheng, Shaozi Li, Yi Yang<br>
+ECCV, 2018 ([URL](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhun_Zhong_Generalizing_A_Person_ECCV_2018_paper.html))
+
+_Balanced Clustering via Exclusive Lasso: A Pragmatic Approach_<br>
+Li, Z., Chang, X., Ma, Z. and Yang, Y.<br>
+AAAI, 2018
+
+_Semi-supervised Bayesian Attribute Learning for Person Re-identification_<br>
+Liu, W., Chang, X., Chen, L. and Yang, Y.<br>
+AAAI, 2018
+
+_A Unified Analysis of Stochastic Momentum Methods for Deep Learning._<br>
+Yan, Y., Yang, T., Li, Z., Lin, Q. and Yang, Y.<br>
+IJCAI, 2018
+
+_Uncertainty Sampling for Action Recognition via Maximizing Expected Average Precision._<br>
+Wang, H., Chang, X., Shi, L. and Yang, Y.<br>
+IJCAI, 2018
+
+_Watching a Small Portion could be as Good as Watching All: Towards Efficient Video Classification_<br>
+Hehe Fan, Zhongwen Xu, Linchao Zhu, Chenggang Yan, Jianjun Ge, Yi Yang<br>
+IJCAI, 2018 ([URL](https://www.ijcai.org/proceedings/2018/0098.pdf))
+
+_Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks_<br>
+Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang<br>
+IJCAI, 2018 ([URL](https://arxiv.org/abs/1808.06866))
+
+
+_Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning_<br>
+Wu, Y., Lin, Y., Dong, X., Yan, Y., Ouyang, W. and Yang, Y.<br>
+CVPR, 2018
+
+_Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification_<br>
+Deng, W., Zheng, L., Kang, G., Yang, Y., Ye, Q. and Jiao, J.<br>
+CVPR, 2018
+
+_Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors_<br>
+Xuanyi Dong, Shoou-I Yu, Xinshuo Weng, Shih-En Wei, Yi Yang, Yaser Sheikh<br>
+CVPR, 2018 ([URL](https://arxiv.org/pdf/1807.00966.pdf))
+
+_Style Aggregated Network for Facial Landmark Detection_<br>
+Xuanyi Dong, Yan Yan, Wanli Ouyang, Yi Yang<br>
+CVPR, 2018 ([URL](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Style_Aggregated_Network_CVPR_2018_paper.pdf))
+
+_Camera Style Adaptation for Person Re-identification_<br>
+Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang<br>
+CVPR, 2018 ([URL](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhong_Camera_Style_Adaptation_CVPR_2018_paper.pdf))
+
+_Adversarial Complementary Learning for Weakly Supervised Object Localization_<br>
+Xiaolin Zhang,Yunchao Wei, Jiashi Feng, Yi Yang, Thomas Huang<br>
+CVPR, 2018 ([URL](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Adversarial_Complementary_Learning_CVPR_2018_paper.pdf))
+
+_Fast Parameter Adaptation for Few-shot Image Captioning and Visual Question Answering_<br>
+Xuanyi Dong, Linchao Zhu, De Zhang, Yi Yang, Fei Wu<br>
+ACM MM, 2018 ([URL](http://xuanyidong.com/pdf/FPAIT-MM-18.pdf))
+
+_Decoupled Novel Object Captioner_<br>
+Wu, Y., Zhu, L., Jiang, L. and Yang, Y.<br>
+ACM MM, 2018
+
+
+
+### 2017
+_Few-Shot Object Recognition from Machine-Labeled Web Images_<br>
+Xu, Z., Zhu, L. and Yang, Y.<br>
+CVPR, 2017
+
+_Person Re-identification in the Wild_<br>
+Zheng, L., Zhang, H., Sun, S., Chandraker, M., Yang, Y. and Tian, Q.<br>
+CVPR, 2017
+
+_Bidirectional Multirate Reconstruction for Temporal Modeling in Videos_<br>
+Zhu, L., Xu, Z. and Yang, Y.<br>
+CVPR, 2017
+
+_Re-ranking Person Re-identification with k-reciprocal Encoding_<br>
+Zhun Zhong, Liang Zheng, Donglin Cao,Shaozi Li<br>
+CVPR, 2017 ([URL](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhong_Re-Ranking_Person_Re-Identification_CVPR_2017_paper.pdf))
+
+
+_Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in Vitro_<br>
+Zheng, Z., Zheng, L. and Yang, Y.<br>
+ICCV, 2017
+
+_Complex Event Detection by Identifying Reliable Shots from Untrimmed Videos_<br>
+Hehe Fan, Xiaojun Chang, De Cheng, Yi Yang, Dong Xu, Alexander G. Hauptmann<br>
+ICCV, 2017 ([URL](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fan_Complex_Event_Detection_ICCV_2017_paper.pdf))
+
+_Unlabeled samples generated by gan improve the person re-identification baseline in vitro_<br>
+Zhedong Zheng, Liang Zheng, Yi Yang<br>
+ICCV, 2017 ([URL](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Unlabeled_Samples_Generated_ICCV_2017_paper.pdf))
+
+_Online Compressed Robust PCA_<br>
+Pingbo Pan, Jiashi Feng, Ling Chen, Yi Yang<br>
+IJCNN, 2017 ([URL](https://ieeexplore.ieee.org/document/7965967))
+
+_A Dual-Network Progressive Approach to Weakly Supervised Object Detection_<br>
+Xuanyi Dong, Deyu Meng, Fan Ma, Yi Yang<br>
+ACM MM, 2017 ([URL](http://xuanyidong.com/pdf/a-dual-network.pdf))
+
+_FastShrinkage: Perceptually-aware Retargeting Toward Mobile Platforms_<br>
+Liu, Z., Wang, Z., Zhang, L., Shah, R.R., Xia, Y., Yang, Y. and Li, X.<br>
+ACM MM, 2017
+
+_Robust Top-k Multiclass SVM for Visual Category Recognition_<br>
+Chang, X., Yu, Y.-L. and Yang, Y.<br>
+ACM SIGKDD, 2017
+
+_Early Active Learning with Pairwise Constraint for Person Re-identification_<br>
+Liu, W., Chang, X., Chen, L. and Yang, Y.<br>
+Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2017
+
+_Probabilistic Non-Negative Matrix Factorization and Its Robust Extensions for Topic Modeling._<br>
+Luo, M., Nie, F., Chang, X., Yang, Y., Hauptmann, A.G. and Zheng, Q.<br>
+AAAI, 2017
+
+_A Framework of Online Learning with Imbalanced Streaming Data._<br>
+Yan, Y., Yang, T., Yang, Y. and Chen, J.<br>
+AAAI, 2017
+
+
+
+
+### 2016
+
+_Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning_<br>
+Pingbo Pan, Zhongwen Xu, Yi Yang, Fei Wu, Yueting Zhuang<br>
+CVPR, 2016 ([URL](https://ieeexplore.ieee.org/document/7780486))
+
+_They are not equally reliable: Semantic event search using differentiated concept classifiers_<br>
+Chang, X., Yu, Y.-L., Yang, Y. and Xing, E.P.<br>
+CVPR, 2016
+
+_You lead, we exceed: Labor-free video concept learning by jointly exploiting web videos and images_<br>
+Gan, C., Yao, T., Yang, K., Yang, Y. and Mei, T.<br>
+CVPR, 2016
+
+_Hierarchical recurrent neural encoder for video representation with application to captioning_<br>
+Pan, P., Xu, Z., Yang, Y., Wu, F. and Zhuang, Y.<br>
+CVPR, 2016
+
+_More is Less: A More Complicated Network with Less Inference Complexity_<br>
+Xuanyi Dong, Junshi Huang, Yi Yang, Shuicheng Yan<br>
+CVPR, 2016 ([URL](https://arxiv.org/pdf/1703.08651.pdf))
+
+_Dynamic Concept Composition for Zero-Example Event Detection._<br>
+Chang, X., Yang, Y., Long, G., Zhang, C. and Hauptmann, A.G.<br>
+AAAI, 2016
+
+_Concepts Not Alone: Exploring Pairwise Relationships for Zero-Shot Video Activity Recognition._<br>
+Gan, C., Lin, M., Yang, Y., de Melo, G. and Hauptmann, A.G.<br>
+AAAI, 2016
+
+_Robust Semi-Supervised Learning through Label Aggregation._<br>
+Yan, Y., Xu, Z., Tsang, I.W., Long, G. and Yang, Y.<br>
+AAAI, 2016
+
+_Avoiding Optimal Mean Robust PCA/2DPCA with Non-greedy L1-Norm Maximization_<br>
+Luo, M., Nie, F., Chang, X., Yang, Y., Hauptmann, A.G. and Zheng, Q.<br>
+IJCAI, 2016
+
+
+## Journals
+### 19
+_Pedestrian alignment network for large-scale person re-identification_<br>
+Zhedong Zheng, Liang Zheng, Yi Yang<br>
+TCSVT, 2019 ([URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8481710))
 
 _CamStyle: A Novel Data Augmentation Method for Person Re-identification_<br>
 Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang<br>
@@ -105,72 +298,7 @@ _Pose Invariant Embedding for Deep Person Re-identification_<br>
 Zheng, L., Huang, Y., Lu, H. and Yang, Y.<br>
 IEEE Transactions on Image Processing, 2019
 
-
-
-### 2018
-_Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification_<br>
-Deng, W., Zheng, L., Kang, G., Yang, Y., Ye, Q. and Jiao, J.<br>
-CVPR, 2018
-
-_Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation: the Benefit of Target Expectation Maximization_<br>
-Kang, G., Zheng, L., Yan Yan, Liu, Z. and Yang, Y.<br>
-ECCV, 2018
-
-_RCAA: Relational Context-Aware Agents for Person Search_<br>
-Chang, X., Huang, P.-Y., Liang, X., Yang, Y. and Hauptmann, A.<br>
-ECCV, 2018
-
-_Balanced Clustering via Exclusive Lasso: A Pragmatic Approach_<br>
-Li, Z., Chang, X., Ma, Z. and Yang, Y.<br>
-AAAI, 2018
-
-_Semi-supervised Bayesian Attribute Learning for Person Re-identification_<br>
-Liu, W., Chang, X., Chen, L. and Yang, Y.<br>
-AAAI, 2018
-
-_Macro-Micro Adversarial Network for Human Parsing_<br>
-Luo, Y., Zheng, Z., Zheng, L., Tao, G., Junqing, Y. and Yang, Y.<br>
-ECCV, 2018
-
-_Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline)_<br>
-Sun, Y., Zheng, L., Yang, Y., Tian, Q. and Wang, S.<br>
-ECCV, 2018
-
-_Uncertainty Sampling for Action Recognition via Maximizing Expected Average Precision._<br>
-Wang, H., Chang, X., Shi, L. and Yang, Y.<br>
-IJCAI, 2018
-
-_Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning_<br>
-Wu, Y., Lin, Y., Dong, X., Yan, Y., Ouyang, W. and Yang, Y.<br>
-CVPR, 2018
-
-_Decoupled Novel Object Captioner_<br>
-Wu, Y., Zhu, L., Jiang, L. and Yang, Y.<br>
-ACM MM, 2018
-
-_A Unified Analysis of Stochastic Momentum Methods for Deep Learning._<br>
-Yan, Y., Yang, T., Li, Z., Lin, Q. and Yang, Y.<br>
-IJCAI, 2018
-
-_Compound Memory Networks for Few-shot Video Classification_<br>
-Zhu, L. and Yang, Y.<br>
-ECCV, 2018
-
-
-
-
-_Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors_<br>
-Xuanyi Dong, Shoou-I Yu, Xinshuo Weng, Shih-En Wei, Yi Yang, Yaser Sheikh<br>
-CVPR, 2018 ([URL](https://arxiv.org/pdf/1807.00966.pdf))
-
-_Style Aggregated Network for Facial Landmark Detection_<br>
-Xuanyi Dong, Yan Yan, Wanli Ouyang, Yi Yang<br>
-CVPR, 2018 ([URL](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Style_Aggregated_Network_CVPR_2018_paper.pdf))
-
-_More is Less: A More Complicated Network with Less Inference Complexity_<br>
-Xuanyi Dong, Junshi Huang, Yi Yang, Shuicheng Yan<br>
-CVPR, 2018 ([URL](https://arxiv.org/pdf/1703.08651.pdf))
-
+### 18
 _Few-Example Object Detection with Model Communication_<br>
 Xuanyi Dong, Liang Zheng, Fan Ma, Yi Yang, Deyu Meng<br>
 TPAMI, 2018 ([URL](https://ieeexplore.ieee.org/document/8374906/))
@@ -178,14 +306,6 @@ TPAMI, 2018 ([URL](https://ieeexplore.ieee.org/document/8374906/))
 _Late Fusion via Subspace Search with Consistency Preservation_<br>
 Xuanyi Dong, Yan Yan, Mingkui Tan, Yi Yang, Ivor W. Tsang<br>
 TIP, 2018 ([URL](https://ieeexplore.ieee.org/document/8451915/))
-
-_Fast Parameter Adaptation for Few-shot Image Captioning and Visual Question Answering_<br>
-Xuanyi Dong, Linchao Zhu, De Zhang, Yi Yang, Fei Wu<br>
-ACM MM, 2018 ([URL](http://xuanyidong.com/pdf/FPAIT-MM-18.pdf))
-
-_Watching a Small Portion could be as Good as Watching All: Towards Efficient Video Classification_<br>
-Hehe Fan, Zhongwen Xu, Linchao Zhu, Chenggang Yan, Jianjun Ge, Yi Yang<br>
-IJCAI, 2018 ([URL](https://www.ijcai.org/proceedings/2018/0098.pdf))
 
 _Unsupervised Person Re-identification: Clustering and Fine-tuning_<br>
 Hehe Fan, Liang Zheng, Chenggang Yan, Yi Yang<br>
@@ -195,33 +315,6 @@ _A discriminatively learned cnn embedding for person reidentification_<br>
 Zhedong Zheng, Liang Zheng, Yi Yang<br>
 TOMM, 2018 ([URL](https://arxiv.org/pdf/1611.05666.pdf))
 
-_Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks_<br>
-Yang He, Guoliang Kang, Xuanyi Dong, Yanwei Fu, Yi Yang<br>
-IJCAI, 2018 ([URL](https://arxiv.org/abs/1808.06866))
-
-_Generalizing A Person Retrieval Model Hetero- and Homogeneously_<br>
-Zhun Zhong, Liang Zheng, Shaozi Li, Yi Yang<br>
-ECCV, 2018 ([URL](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhun_Zhong_Generalizing_A_Person_ECCV_2018_paper.html))
-
-_Camera Style Adaptation for Person Re-identification_<br>
-Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang<br>
-CVPR, 2018 ([URL](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhong_Camera_Style_Adaptation_CVPR_2018_paper.pdf))
-
-_Adversarial Complementary Learning for Weakly Supervised Object Localization_<br>
-Xiaolin Zhang,Yunchao Wei, Jiashi Feng, Yi Yang, Thomas Huang<br>
-CVPR, 2018 ([URL](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Adversarial_Complementary_Learning_CVPR_2018_paper.pdf))
-
-_Self-produced Guidance for Weakly-supervised Object Localization_<br>
-Xiaolin Zhang,Yunchao Wei, Guoliang Kang, Yi Yang, Thomas Huang<br>
-ECCV, 2018 ([URL](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaolin_Zhang_Self-produced_Guidance_for_ECCV_2018_paper.pdf))
-
-_Personalized Video Recommendation Using Rich Contents from Videos_<br>
-Du, X., Yin, H., Chen, L., Wang, Y., Yang, Y. and Zhou, X.<br>
-IEEE Transcations on Knowledge and Data Engineering, 2018
-
-_Unsupervised Person Re-identification: Clustering and Fine-tuning_<br>
-Fan, H., Zheng, L., Yan, C. and Yang, Y.<br>
-ACM Transcations on Multimedia Computing, Communications, and Applications, 2018
 
 _Twitter100k: A Real-world Dataset for Weakly Supervised Cross-Media Retrieval_<br>
 Hu, Y., Zheng, L., Yang, Y. and Huang, Y.<br>
@@ -276,68 +369,18 @@ Zheng, L., Yang, Y. and Tian, Q.<br>
 IEEE Transcations on Pattern Analysis and Machine Intelligence, 2018
 
 
+_Unsupervised Person Re-identification: Clustering and Fine-tuning_<br>
+Fan, H., Zheng, L., Yan, C. and Yang, Y.<br>
+ACM Transcations on Multimedia Computing, Communications, and Applications, 2018
 
-### 2017
-_Online compressed robust PCA_<br>
-Pan, P., Feng, J., Chen, L. and Yang, Y.<br>
-IJCNN, 2017
+_Personalized Video Recommendation Using Rich Contents from Videos_<br>
+Du, X., Yin, H., Chen, L., Wang, Y., Yang, Y. and Zhou, X.<br>
+IEEE Transcations on Knowledge and Data Engineering, 2018
 
-_Robust Top-k Multiclass SVM for Visual Category Recognition_<br>
-Chang, X., Yu, Y.-L. and Yang, Y.<br>
-ACM SIGKDD, 2017
-
-_Early Active Learning with Pairwise Constraint for Person Re-identification_<br>
-Liu, W., Chang, X., Chen, L. and Yang, Y.<br>
-Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2017
-
-_FastShrinkage: Perceptually-aware Retargeting Toward Mobile Platforms_<br>
-Liu, Z., Wang, Z., Zhang, L., Shah, R.R., Xia, Y., Yang, Y. and Li, X.<br>
-ACM MM, 2017
-
-_Probabilistic Non-Negative Matrix Factorization and Its Robust Extensions for Topic Modeling._<br>
-Luo, M., Nie, F., Chang, X., Yang, Y., Hauptmann, A.G. and Zheng, Q.<br>
-AAAI, 2017
-
-_Few-Shot Object Recognition from Machine-Labeled Web Images_<br>
-Xu, Z., Zhu, L. and Yang, Y.<br>
-CVPR, 2017
-
-_A Framework of Online Learning with Imbalanced Streaming Data._<br>
-Yan, Y., Yang, T., Yang, Y. and Chen, J.<br>
-AAAI, 2017
-
-_Person Re-identification in the Wild_<br>
-Zheng, L., Zhang, H., Sun, S., Chandraker, M., Yang, Y. and Tian, Q.<br>
-CVPR, 2017
-
-_Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in Vitro_<br>
-Zheng, Z., Zheng, L. and Yang, Y.<br>
-ICCV, 2017
-
-_Bidirectional Multirate Reconstruction for Temporal Modeling in Videos_<br>
-Zhu, L., Xu, Z. and Yang, Y.<br>
-CVPR, 2017
-
-
-_Searching for A Robust Neural Architecture in Four GPU Hours_<br>
-Xuanyi Dong, Yi Yang<br>
-CVPR, 2017 ([URL](https://raw.githubusercontent.com/D-X-Y/GDAS/master/data/GDAS.pdf))
-
-_Complex Event Detection by Identifying Reliable Shots from Untrimmed Videos_<br>
-Hehe Fan, Xiaojun Chang, De Cheng, Yi Yang, Dong Xu, Alexander G. Hauptmann<br>
-ICCV, 2017 ([URL](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fan_Complex_Event_Detection_ICCV_2017_paper.pdf))
-
-_Unlabeled samples generated by gan improve the person re-identification baseline in vitro_<br>
-Zhedong Zheng, Liang Zheng, Yi Yang<br>
-ICCV, 2017 ([URL](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Unlabeled_Samples_Generated_ICCV_2017_paper.pdf))
-
-_Re-ranking Person Re-identification with k-reciprocal Encoding_<br>
-Zhun Zhong, Liang Zheng, Donglin Cao,Shaozi Li<br>
-CVPR, 2017 ([URL](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhong_Re-Ranking_Person_Re-Identification_CVPR_2017_paper.pdf))
-
-_Online Compressed Robust PCA_<br>
-Pingbo Pan, Jiashi Feng, Ling Chen, Yi Yang<br>
-IJCNN, 2017 ([URL](https://ieeexplore.ieee.org/document/7965967))
+### 17
+_Bag-of-Discriminative-Words (BoDW) Representation via Topic Modeling_<br>
+Zhuang, Y., Wang, H., Xiao, J., Wu, F., Yang, Y., Lu, W. and Zhang, Z.<br>
+IEEE Transcations on Knowledge and Data Engineering, 2017
 
 _Feature Interaction Augmented Sparse Learning for Fast Kinect Motion Detection_<br>
 Chang, X., Ma, Z., Lin, M., Yang, Y. and Hauptmann, A.G.<br>
@@ -403,51 +446,10 @@ _Uncovering the temporal context for video question answering_<br>
 Zhu, L., Xu, Z., Yang, Y. and Hauptmann, A.G.<br>
 International Journal of Computer Vision, 2017
 
-_Bag-of-Discriminative-Words (BoDW) Representation via Topic Modeling_<br>
-Zhuang, Y., Wang, H., Xiao, J., Wu, F., Yang, Y., Lu, W. and Zhang, Z.<br>
-IEEE Transcations on Knowledge and Data Engineering, 2017
-
-
-
-### 2016
-
-_Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning_<br>
-Pingbo Pan, Zhongwen Xu, Yi Yang, Fei Wu, Yueting Zhuang<br>
-CVPR, 2016 ([URL](https://ieeexplore.ieee.org/document/7780486))
-
-_They are not equally reliable: Semantic event search using differentiated concept classifiers_<br>
-Chang, X., Yu, Y.-L., Yang, Y. and Xing, E.P.<br>
-CVPR, 2016
-
-_You lead, we exceed: Labor-free video concept learning by jointly exploiting web videos and images_<br>
-Gan, C., Yao, T., Yang, K., Yang, Y. and Mei, T.<br>
-CVPR, 2016
-
-_Avoiding Optimal Mean Robust PCA/2DPCA with Non-greedy L1-Norm Maximization_<br>
-Luo, M., Nie, F., Chang, X., Yang, Y., Hauptmann, A.G. and Zheng, Q.<br>
-IJCAI, 2016
-
-_Hierarchical recurrent neural encoder for video representation with application to captioning_<br>
-Pan, P., Xu, Z., Yang, Y., Wu, F. and Zhuang, Y.<br>
-CVPR, 2016
-
-_Dynamic Concept Composition for Zero-Example Event Detection._<br>
-Chang, X., Yang, Y., Long, G., Zhang, C. and Hauptmann, A.G.<br>
-AAAI, 2016
-
-_Concepts Not Alone: Exploring Pairwise Relationships for Zero-Shot Video Activity Recognition._<br>
-Gan, C., Lin, M., Yang, Y., de Melo, G. and Hauptmann, A.G.<br>
-AAAI, 2016
-
-_Robust Semi-Supervised Learning through Label Aggregation._<br>
-Yan, Y., Xu, Z., Tsang, I.W., Long, G. and Yang, Y.<br>
-AAAI, 2016
-
+### 16
 _Using detected visual objects to index video database_<br>
 Du, X., Yin, H., Huang, Z., Yang, Y. and Zhou, X.<br>
 Australasian Database Conference, 2016
-
-
 
 _Compound Rank- k Projections for Bilinear Analysis_<br>
 Chang, X., Nie, F., Wang, S., Yang, Y., Zhou, X. and Zhang, C.<br>
@@ -488,5 +490,3 @@ ITE Transcations on Media Technology and Applications, 2016
 _Weakly supervised human fixations prediction_<br>
 Zhang, L., Li, X., Nie, L., Yang, Y. and Xia, Y.<br>
 IEEE Transcations on Cybernetics, 2016
-
-
