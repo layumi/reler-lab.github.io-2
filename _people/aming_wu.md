@@ -1,7 +1,7 @@
 ---
 name: Aming Wu
 position: visiting
-avatar: default.jpeg
+avatar: aming_wu.jpg
 ---
 
 <img width="200" height="275" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
