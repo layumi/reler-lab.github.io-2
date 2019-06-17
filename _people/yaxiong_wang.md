@@ -1,7 +1,7 @@
 ---
-name: Bingwen Hu
+name: Yaxiong Wang
 position: visiting
-avatar: bingwen_hu.JPG
+avatar: yaxiong_wang.jpg
 ---
 
 <img width="200" height="275" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -9,6 +9,6 @@ avatar: bingwen_hu.JPG
 - _Visiting student, University of Technology Sydney_<br>
 <!--- _Science coach. Collaborator. Transdisciplinary optimist._-->
 
-<i class="fa fa-envelope-o"></i> `hubw.sky@gmail.com`
+<i class="fa fa-envelope-o"></i> `wangyx15@stu.xjtu.edu.cn`
 
-Bingwen Hu is a visiting student at UTS.
+Yaxiong Wang is a visiting student at UTS.

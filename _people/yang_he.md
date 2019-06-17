@@ -1,7 +1,7 @@
 ---
 name: Yang He
 position: gradstudent
-avatar: yanghe.jpeg
+avatar: yanghe.jpg
 ---
 
 <img width="200" height="275" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

@@ -1,7 +1,7 @@
 ---
 name: Xiaohan Wang
 position: gradstudent
-avatar: default.jpeg
+avatar: wxh_pic.jpeg
 ---
 
 <img width="200" height="275" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

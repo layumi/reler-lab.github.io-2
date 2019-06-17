@@ -1,7 +1,7 @@
 ---
 name: Tianqi Tang
 position: gradstudent
-avatar: default.jpeg
+avatar: tianqi_tang.jpg
 ---
 
 <img width="200" height="275" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

@@ -1,7 +1,7 @@
 ---
 name: Peike Li
 position: gradstudent
-avatar: default.jpeg
+avatar: peike_li.jpg
 ---
 
 <img width="200" height="275" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
