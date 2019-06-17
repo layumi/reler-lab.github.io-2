@@ -12,5 +12,5 @@ avatar: xuanyi.jpg
 
 <i class="fa fa-envelope-o"></i> `xuanyi.dong@student.uts.edu.au`
 
-[Xuanyi Dong](https://xuanyidong.com/) currently is a third-year PhD candidate at Centre for Artificial Intelligence, University of Technology Sydney (UTS). My academic advisor is Prof. Yi Yang. He received the B.Eng. degree from School of Computer Science and Technology, Beihang University in 2016.
+[Xuanyi Dong](https://xuanyidong.com/) currently is a third-year PhD candidate at Centre for Artificial Intelligence, University of Technology Sydney (UTS). His academic advisor is Prof. Yi Yang. He received the B.Eng. degree from School of Computer Science and Technology, Beihang University in 2016.
 

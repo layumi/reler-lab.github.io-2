@@ -94,7 +94,7 @@ Liu, W., Gong, D., Tan, M., Yang, Y. and Hauptmann, A.G.<br>
 IEEE Transcations on Knowledge and Data Engineering, 2019
 
 _Progressive Learning for Person Re-Identification with One Example_<br>
-Wu, Y., Lin, Y., Dong, X., Yan, Y., Bian, W., Yang, Y. and Zhou, X.<br>
+Wu, Y., Lin, Y., Dong, X., Yan, Y., Bian, W., Yang, Y.<br>
 IEEE Transcations on Image Processing, 2019
 
 _Multiview Consensus Graph Clustering_<br>

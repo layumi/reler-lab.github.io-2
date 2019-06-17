@@ -12,7 +12,7 @@ developing novel methods for object, face, action, and event recognition, locali
 positions, segmenting the instances in images and videos. Additionally, we also study model
 acceleration algorithms to speed up the recognition process.
 
-In real-world scenarios, data
+In the real-world scenarios, data
 hungry methods can probably fail due to fewer labeled data. We study weakly supervised
 learning, unsupervised learning, zero-shot learning, few-shot learning to adapt the model in
 this circumstance. Besides recognition, it is also essential for the machines to understand
@@ -22,7 +22,7 @@ and reasoning. For more sophisticated human language comprehension, we target at
 knowledge extraction, relation mapping, structural graph reasoning.
 
 Our ReLER Lab actively
-collaborates with industry partners to build effective systems and make impacts in real-
+collaborates with the industry partners to build effective systems and make impacts in real-
 world.
 
 
@@ -33,7 +33,7 @@ world.
     {% if post.categories contains 'blog' %}
     <div class="list-item">
     <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+        <a href="{{ site.baseurl }}{{ post.url }}"><span style="color:#268bd2;">- {{ post.title }}</span></a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
         </p>
     </div>
     {% endif %}
@@ -44,7 +44,7 @@ world.
 
 ### Visiting Us
 ReLER Lab,
-Rooms 11.10.122, Building 11,
+Level 10, Building 11,
 [81 Broadway, University of Technology Sydney](https://www.google.com/maps/place/UTS+Faculty+of+Engineering+and+IT/@-33.8840299,151.199234,15z/data=!4m5!3m4!1s0x0:0x5aa7383337c73213!8m2!3d-33.8840299!4d151.199234),
 Ultimo, Sydney
 

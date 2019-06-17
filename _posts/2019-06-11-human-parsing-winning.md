@@ -1,5 +1,5 @@
 ---
-title: Congrats Baidu-UTS team on their winning in three tracks in LIP.
+title: Congratulation to Peike, Yunqiu on their winning in three tracks in LIP.
 categories: blog
 ---
 

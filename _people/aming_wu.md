@@ -11,4 +11,4 @@ avatar: default.jpeg
 
 <i class="fa fa-envelope-o"></i> `zhunzhong007@gmail.com`
 
-Aming Wu is currently a visiting student at University of Technology Sydney under the supervision of Prof. Yi Yang.
+Aming Wu is currently a visiting student at University of Technology Sydney from Tianjin University.
