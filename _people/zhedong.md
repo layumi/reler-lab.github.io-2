@@ -1,7 +1,7 @@
 ---
 name: Zhedong Zheng
 position: gradstudent
-avatar: zhedong.jpeg
+avatar: zhedong_zheng.png
 <!--twitter: KordingLab-->
 ---
 
