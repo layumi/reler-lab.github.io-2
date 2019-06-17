@@ -12,5 +12,5 @@ avatar: zhedong.jpeg
 
 <i class="fa fa-envelope-o"></i> `zhedong.zheng@student.uts.edu.au`
 
-[Zhedong Zheng](http://zdzheng.xyz/) is currently a third-year Ph.D. student at University of Technology Sydney, under the supervision of Prof. Yi Yang and Dr. Liang Zheng. I received my Bachelor's degree from Fudan University in 2016, under the supervision of Prof. Xiangyang Xue. 
+[Zhedong Zheng](http://zdzheng.xyz/) is currently a third-year Ph.D. student at University of Technology Sydney, under the supervision of Prof. Yi Yang and Dr. Liang Zheng. He received his Bachelor's degree from Fudan University in 2016, under the supervision of Prof. Xiangyang Xue. 
 

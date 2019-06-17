@@ -9,4 +9,4 @@ joined: 2013
 <i class="fa fa-envelope-o"></i> `zhongwen.s.xu@gmail.com`
 
 
-[Zhongwen Xu](http://zhongwen.ai/) is a senior Research Scientist at DeepMind, focusing on Deep Reinforcement Learning. He pursued his Ph.D. at University of Technology Sydney (UTS), advised by Prof. Yi Yang. He received my Bachelor's degree from Zhejiang University in 2013, under the supervision of Prof. Yueting Zhuang and Prof. Fei Wu.
+[Zhongwen Xu](http://zhongwen.ai/) is a senior Research Scientist at DeepMind, focusing on Deep Reinforcement Learning. He pursued his Ph.D. at University of Technology Sydney (UTS), advised by Prof. Yi Yang. He received his Bachelor's degree from Zhejiang University in 2013, under the supervision of Prof. Yueting Zhuang and Prof. Fei Wu.

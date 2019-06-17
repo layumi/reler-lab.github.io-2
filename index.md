@@ -2,30 +2,58 @@
 title: Home
 ---
 
-![alt text](./images/home.jpg "Logo Title Text 1")
+<!--![alt text](./images/home.jpg "Logo Title Text 1")-->
 
-The ReLER (Recognition, Learning, Reasoning) Lab is committed to enable machines to
+The **ReLER** (Recognition, Learning, Reasoning) Lab, directed by [Prof. Yi Yang](https://www.uts.edu.au/staff/yi.yang), is committed to enable machines to
 accurately recognize the environment, adaptively understand the human interactions, and
 autonomously analyze the behavior through reasoning. To this end, we work on computer
 vision, learning algorithms, natural language, and their intersections. Concretely, we aim at
 developing novel methods for object, face, action, and event recognition, localizing the
 positions, segmenting the instances in images and videos. Additionally, we also study model
-acceleration algorithms to speed up the recognition process. In real-world scenarios, data
+acceleration algorithms to speed up the recognition process.
+
+In real-world scenarios, data
 hungry methods can probably fail due to fewer labeled data. We study weakly supervised
 learning, unsupervised learning, zero-shot learning, few-shot learning to adapt the model in
 this circumstance. Besides recognition, it is also essential for the machines to understand
 natural language instructions and queries, as well as communicate with humans fluently.
 We develop captioning, question answering, dialog systems for better visual understanding
 and reasoning. For more sophisticated human language comprehension, we target at
-knowledge extraction, relation mapping, structural graph reasoning. Our ReLER Lab actively
+knowledge extraction, relation mapping, structural graph reasoning.
+
+Our ReLER Lab actively
 collaborates with industry partners to build effective systems and make impacts in real-
 world.
 
-Our research focus is to enable machines to accurately recognize the environment, adaptively understand the human interactions, and autonomously analyze the behavior through reasoning. To that end, we work on computer vision, learning algorithms, natural language, and their intersections.
 
-To achieve our goals, we will develop novel methods for object, face, action, and event recognition, localize the positions, segment the instances in images and videos. We also study model acceleration algorithms to speed up the recognition process. In real-world scenarios, data hungry methods can probably fail due to fewer labeled data. We study weakly supervised learning, unsupervised learning, zero-shot learning, few-shot learning to adapt the model in this circumstance. Besides recognition, it is also essential for the machines to understand natural language instructions and queries, as well as communicate with humans fluently. We develop captioning, question answering, dialog systems for better visual understanding and reasoning. For more sophisticated human language comprehension, we target at knowledge extraction, relation mapping, structural graph reasoning.
+### **Lab News**
 
-The ReLER lab’s research thrust will lie on the representation learning of the visual world, the understanding of natural language, and intelligence reasoning components that incorporate visual information to make interactive inferences. We actively collaborate with industry partners to build effective systems and make impacts in real-world.
+<div class="content list">
+  {% for post in site.posts %}
+    {% if post.categories contains 'blog' %}
+    <div class="list-item">
+    <p class="list-post-title">
+        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+        </p>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<br>
+
+### Visiting Us
+ReLER Lab,
+Rooms 11.10.122, Building 11,
+[81 Broadway, University of Technology Sydney](https://www.google.com/maps/place/UTS+Faculty+of+Engineering+and+IT/@-33.8840299,151.199234,15z/data=!4m5!3m4!1s0x0:0x5aa7383337c73213!8m2!3d-33.8840299!4d151.199234),
+Ultimo, Sydney
+
+
+
+<!--Our research focus is to enable machines to accurately recognize the environment, adaptively understand the human interactions, and autonomously analyze the behavior through reasoning. To that end, we work on computer vision, learning algorithms, natural language, and their intersections.-->
+
+<!--To achieve our goals, we will develop novel methods for object, face, action, and event recognition, localize the positions, segment the instances in images and videos. We also study model acceleration algorithms to speed up the recognition process. In real-world scenarios, data hungry methods can probably fail due to fewer labeled data. We study weakly supervised learning, unsupervised learning, zero-shot learning, few-shot learning to adapt the model in this circumstance. Besides recognition, it is also essential for the machines to understand natural language instructions and queries, as well as communicate with humans fluently. We develop captioning, question answering, dialog systems for better visual understanding and reasoning. For more sophisticated human language comprehension, we target at knowledge extraction, relation mapping, structural graph reasoning.-->
+
 
 
 

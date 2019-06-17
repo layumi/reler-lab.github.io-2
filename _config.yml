@@ -9,7 +9,7 @@ description:        "this is a page for ReLER lab, we are xxxx."
 
 
 # URL
-url:                http://kordinglab.github.io
+url:                http://ffmpbgrnn.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -28,8 +28,8 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name:           "news"
-    href:           "/news"
+  #- name:           "news"
+    #href:           "/news"
 
 # Sass
 sass:

@@ -1,7 +1,7 @@
 ---
-name: Yu Wu 
+name: Yutian Lin
 position: gradstudent
-avatar: wuyu.jpg
+avatar: yutian_lin.jpg
 <!--twitter: KordingLab-->
 ---
 
@@ -12,5 +12,5 @@ avatar: wuyu.jpg
 
 <i class="fa fa-envelope-o"></i> `Yu.Wu-3@student.uts.edu.au`
 
-[Yu Wu](https://xuanyidong.com/) is a first-year Ph.D student at University of Technology Sydney (UTS). He started his Ph.D. course in July 2017 under the supervision of Prof.Yi Yang. He received the B.Eng degree in Mechanical Engineering from Shanghai Jiao Tong University in 2015. 
+[Yutian Lin](https://vana77.github.io/) a third year PhD student at University of Technology Sydeney(UTS), under the supervision of Prof. Yi Yang and Dr. Liang Zheng. She received her B.E from School of Computer Science and Technology, Zhejiang University in 2016.
 

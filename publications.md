@@ -10,6 +10,37 @@ This is the full publication list of ReLER since 2016.
 <hr>
 
 ### 2019
+
+_Contrastive Adaptation Network for Unsupervised Domain Adaptation_<br>
+Kang, G., Jiang, L., Yang, Y. and Hauptmann, A.G.<br>
+CVPR, 2019
+
+_A Bottom-Up Clustering Approach to Unsupervised Person Re-identification_<br>
+Lin, Y., Dong, X., Zheng, L., Yan, Y. and Yang, Y.<br>
+AAAI, 2019
+
+_Transductive propagation network for few-shot learning_<br>
+Liu, Y., Lee, J., Park, M., Kim, S. and Yang, Y.<br>
+ICLR, 2019
+
+_Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation_<br>
+Luo, Y., Zheng, L., Guan, T., Yu, J. and Yang, Y.<br>
+CVPR, 2019
+
+_Video Interactive Captioning with Human Prompts_<br>
+Wu, A., Ha, Y. and Yang, Y.<br>
+IJCAI, 2019
+
+_Generalized Majorization-Minimization for Non-Convex Optimization_<br>
+Zhang, H., Zhou, P., Yang, Y. and Feng, J.<br>
+IJCAI, 2019
+
+_Sim-Real Joint Reinforcement Transfer for 3D Indoor Navigation_<br>
+Zhu, F., Zhu, L. and Yang, Y.<br>
+CVPR, 2019
+
+
+
 _A Dual-Network Progressive Approach to Weakly Supervised Object Detection_<br>
 Xuanyi Dong, Deyu Meng, Fan Ma, Yi Yang<br>
 ACM MM, 2019 ([URL](http://xuanyidong.com/pdf/a-dual-network.pdf))
@@ -50,9 +81,83 @@ _CamStyle: A Novel Data Augmentation Method for Person Re-identification_<br>
 Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang<br>
 TIP, 2019 ([URL](https://ieeexplore.ieee.org/document/8485427))
 
+_Exploiting Combination Effect for Unsupervised Feature Selection by l2,0 Norm_<br>
+Du, X., Nie, F., Wang, W., Yang, Y. and Zhou, X.<br>
+IEEE Transcations on Neural Networks and Learning Systems, 2019
+
+_Modality-Invariant Image-Text Embedding for Image-Sentence Matching_<br>
+Liu, R., Zhao, Y., Wei, S., Zheng, L. and Yang, Y.<br>
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2019
+
+_Learning Distilled Graph for Large-scale Social Network Data Clustering_<br>
+Liu, W., Gong, D., Tan, M., Yang, Y. and Hauptmann, A.G.<br>
+IEEE Transcations on Knowledge and Data Engineering, 2019
+
+_Progressive Learning for Person Re-Identification with One Example_<br>
+Wu, Y., Lin, Y., Dong, X., Yan, Y., Bian, W., Yang, Y. and Zhou, X.<br>
+IEEE Transcations on Image Processing, 2019
+
+_Multiview Consensus Graph Clustering_<br>
+Zhan, K., Nie, F., Wang, J. and Yang, Y.<br>
+IEEE Transcations on Image Processing, 2019
+
+_Pose Invariant Embedding for Deep Person Re-identification_<br>
+Zheng, L., Huang, Y., Lu, H. and Yang, Y.<br>
+IEEE Transactions on Image Processing, 2019
+
 
 
 ### 2018
+_Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification_<br>
+Deng, W., Zheng, L., Kang, G., Yang, Y., Ye, Q. and Jiao, J.<br>
+CVPR, 2018
+
+_Deep Adversarial Attention Alignment for Unsupervised Domain Adaptation: the Benefit of Target Expectation Maximization_<br>
+Kang, G., Zheng, L., Yan Yan, Liu, Z. and Yang, Y.<br>
+ECCV, 2018
+
+_RCAA: Relational Context-Aware Agents for Person Search_<br>
+Chang, X., Huang, P.-Y., Liang, X., Yang, Y. and Hauptmann, A.<br>
+ECCV, 2018
+
+_Balanced Clustering via Exclusive Lasso: A Pragmatic Approach_<br>
+Li, Z., Chang, X., Ma, Z. and Yang, Y.<br>
+AAAI, 2018
+
+_Semi-supervised Bayesian Attribute Learning for Person Re-identification_<br>
+Liu, W., Chang, X., Chen, L. and Yang, Y.<br>
+AAAI, 2018
+
+_Macro-Micro Adversarial Network for Human Parsing_<br>
+Luo, Y., Zheng, Z., Zheng, L., Tao, G., Junqing, Y. and Yang, Y.<br>
+ECCV, 2018
+
+_Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline)_<br>
+Sun, Y., Zheng, L., Yang, Y., Tian, Q. and Wang, S.<br>
+ECCV, 2018
+
+_Uncertainty Sampling for Action Recognition via Maximizing Expected Average Precision._<br>
+Wang, H., Chang, X., Shi, L. and Yang, Y.<br>
+IJCAI, 2018
+
+_Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identification by Stepwise Learning_<br>
+Wu, Y., Lin, Y., Dong, X., Yan, Y., Ouyang, W. and Yang, Y.<br>
+CVPR, 2018
+
+_Decoupled Novel Object Captioner_<br>
+Wu, Y., Zhu, L., Jiang, L. and Yang, Y.<br>
+ACM MM, 2018
+
+_A Unified Analysis of Stochastic Momentum Methods for Deep Learning._<br>
+Yan, Y., Yang, T., Li, Z., Lin, Q. and Yang, Y.<br>
+IJCAI, 2018
+
+_Compound Memory Networks for Few-shot Video Classification_<br>
+Zhu, L. and Yang, Y.<br>
+ECCV, 2018
+
+
+
 
 _Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors_<br>
 Xuanyi Dong, Shoou-I Yu, Xinshuo Weng, Shih-En Wei, Yi Yang, Yaser Sheikh<br>
@@ -110,7 +215,109 @@ _Self-produced Guidance for Weakly-supervised Object Localization_<br>
 Xiaolin Zhang,Yunchao Wei, Guoliang Kang, Yi Yang, Thomas Huang<br>
 ECCV, 2018 ([URL](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaolin_Zhang_Self-produced_Guidance_for_ECCV_2018_paper.pdf))
 
+_Personalized Video Recommendation Using Rich Contents from Videos_<br>
+Du, X., Yin, H., Chen, L., Wang, Y., Yang, Y. and Zhou, X.<br>
+IEEE Transcations on Knowledge and Data Engineering, 2018
+
+_Unsupervised Person Re-identification: Clustering and Fine-tuning_<br>
+Fan, H., Zheng, L., Yan, C. and Yang, Y.<br>
+ACM Transcations on Multimedia Computing, Communications, and Applications, 2018
+
+_Twitter100k: A Real-world Dataset for Weakly Supervised Cross-Media Retrieval_<br>
+Hu, Y., Zheng, L., Yang, Y. and Huang, Y.<br>
+IEEE Transcations on Multimedia, 2018
+
+_Rank-Constrained Spectral Clustering With Flexible Embedding_<br>
+Li, Z., Nie, F., Chang, X., Nie, L., Zhan, H. and Yang, Y.<br>
+IEEE Transcations on Neural Networks and Learning Systems, 2018
+
+_Dynamic Affinity Graph Construction for Spectral Clustering Using Multiple Features_<br>
+Li, Z., Nie, F., Chang, X., Yang, Y., Zhang, C. and Sebe, N.<br>
+IEEE Transcations on Neural Networks and Learning Systems, 2018
+
+_Few-shot Text and Image Classification via Analogical Transfer Learning_<br>
+Liu, W., Chang, X., Yan, Y., Yang, Y. and Hauptmann, A.<br>
+ACM Transcations on Intelligent Systems and Technology, 2018
+
+_An adaptive semisupervised feature analysis for video semantic recognition_<br>
+Luo, M., Chang, X., Nie, L., Yang, Y., Hauptmann, A.G. and Zheng, Q.<br>
+IEEE Transcations on Cybernetics, 2018
+
+_Adaptive unsupervised feature selection with structure regularization_<br>
+Luo, M., Nie, F., Chang, X., Yang, Y., Hauptmann, A.G. and Zheng, Q.<br>
+IEEE Transcations on neural networks and learning systems, 2018
+
+_Fast and Low Memory Cost Matrix Factorization: Algorithm, Analysis and Case Study_<br>
+Yan, Y., Tan, M., Ivor, T., Yang, Y., Shi, Q. and Zhang, C.<br>
+IEEE Transcations on Knowledge and Data Engineering, 2018
+
+_Two-Stream Multi-Rate Recurrent Neural Network for Video-Based Pedestrian Re-Identification_<br>
+Zeng, Z., Li, Z., Cheng, D., Zhang, H., Zhan, K. and Yang, Y.<br>
+IEEE Transcations on Industrial Informatics, 2018
+
+_Adaptive Structure Discovery for Multimedia Analysis Using Multiple Features_<br>
+Zhan, K., Chang, X., Guan, J., Chen, L., Ma, Z. and Yang, Y.<br>
+IEEE Transcations on Cybernetics, 2018
+
+_Graph Structure Fusion for Multiview Clustering_<br>
+Zhan, K., Niu, C., Chen, C., Nie, F., Zhang, C. and Yang, Y.<br>
+IEEE Transcations on Knowledge and Data Engineering, 2018
+
+_Fusing Geometric Features for Skeleton-Based Action Recognition using Multilayer LSTM Networks_<br>
+Zhang, S., Yang, Y., Xiao, J., Liu, X., Yang, Y., Xie, D. and Zhuang, Y.<br>
+IEEE Transcations on Multimedia, 2018
+
+_Fusing Geometric Features for Skeleton-Based Action Recognition using Multilayer LSTM Networks_<br>
+Zhang, S., Yang, Y., Xiao, J., Liu, X., Yang, Y., Xie, D. and Zhuang, Y.<br>
+IEEE Transcations on Multimedia, 2018
+
+_SIFT meets CNN: A decade survey of instance retrieval_<br>
+Zheng, L., Yang, Y. and Tian, Q.<br>
+IEEE Transcations on Pattern Analysis and Machine Intelligence, 2018
+
+
+
 ### 2017
+_Online compressed robust PCA_<br>
+Pan, P., Feng, J., Chen, L. and Yang, Y.<br>
+IJCNN, 2017
+
+_Robust Top-k Multiclass SVM for Visual Category Recognition_<br>
+Chang, X., Yu, Y.-L. and Yang, Y.<br>
+ACM SIGKDD, 2017
+
+_Early Active Learning with Pairwise Constraint for Person Re-identification_<br>
+Liu, W., Chang, X., Chen, L. and Yang, Y.<br>
+Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2017
+
+_FastShrinkage: Perceptually-aware Retargeting Toward Mobile Platforms_<br>
+Liu, Z., Wang, Z., Zhang, L., Shah, R.R., Xia, Y., Yang, Y. and Li, X.<br>
+ACM MM, 2017
+
+_Probabilistic Non-Negative Matrix Factorization and Its Robust Extensions for Topic Modeling._<br>
+Luo, M., Nie, F., Chang, X., Yang, Y., Hauptmann, A.G. and Zheng, Q.<br>
+AAAI, 2017
+
+_Few-Shot Object Recognition from Machine-Labeled Web Images_<br>
+Xu, Z., Zhu, L. and Yang, Y.<br>
+CVPR, 2017
+
+_A Framework of Online Learning with Imbalanced Streaming Data._<br>
+Yan, Y., Yang, T., Yang, Y. and Chen, J.<br>
+AAAI, 2017
+
+_Person Re-identification in the Wild_<br>
+Zheng, L., Zhang, H., Sun, S., Chandraker, M., Yang, Y. and Tian, Q.<br>
+CVPR, 2017
+
+_Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in Vitro_<br>
+Zheng, Z., Zheng, L. and Yang, Y.<br>
+ICCV, 2017
+
+_Bidirectional Multirate Reconstruction for Temporal Modeling in Videos_<br>
+Zhu, L., Xu, Z. and Yang, Y.<br>
+CVPR, 2017
+
 
 _Searching for A Robust Neural Architecture in Four GPU Hours_<br>
 Xuanyi Dong, Yi Yang<br>
@@ -132,11 +339,154 @@ _Online Compressed Robust PCA_<br>
 Pingbo Pan, Jiashi Feng, Ling Chen, Yi Yang<br>
 IJCNN, 2017 ([URL](https://ieeexplore.ieee.org/document/7965967))
 
+_Feature Interaction Augmented Sparse Learning for Fast Kinect Motion Detection_<br>
+Chang, X., Ma, Z., Lin, M., Yang, Y. and Hauptmann, A.G.<br>
+IEEE Transcations on Image Processing, 2017
+
+_Bi-level semantic representation analysis for multimedia event detection_<br>
+Chang, X., Ma, Z., Yang, Y., Zeng, Z. and Hauptmann, A.G.<br>
+IEEE Transcations on Cybernetics, 2017
+
+_Semisupervised feature analysis by mining correlations among multiple tasks_<br>
+Chang, X. and Yang, Y.<br>
+IEEE Transcations on Neural Networks and Learning Systems, 2017
+
+_Semantic Pooling for Complex Event Analysis in Untrimmed Videos_<br>
+Chang, X., Yu, Y., Yang, Y. and Xing, E.P.<br>
+IEEE Transcations on Pattern Analysis and Machine Intelligence, 2017
+
+_Exploiting detected visual objects for frame-level video filtering_<br>
+Du, X., Yin, H., Huang, Z., Yang, Y. and Zhou, X.<br>
+World Wide Web, 2017
+
+_Beyond Trace Ratio: Weighted Harmonic Mean of Trace Ratios for Multiclass Discriminant Analysis_<br>
+Li, Z., Nie, F., Chang, X. and Yang, Y.<br>
+IEEE Transcations Knowledge and Data Engineering, 2017
+
+_An Adaptive Semisupervised Feature Analysis for Video Semantic Recognition_<br>
+Luo, M., Chang, X., Nie, L., Yang, Y., Hauptmann, A.G. and Zheng, Q.<br>
+IEEE Transcations on Cybernetics, 2017
+
+_Adaptive Unsupervised Feature Selection With Structure Regularization_<br>
+Luo, M., Nie, F., Chang, X., Yang, Y., Hauptmann, A.G. and Zheng, Q.<br>
+IEEE Transcations on Neural Networks and Learning Systems, 2017
+
+_Avoiding Optimal Mean ł 2, 1-Norm Maximization-%Based Robust PCA for Reconstruction_<br>
+Luo, M., Nie, F., Chang, X., Yang, Y., Hauptmann, A.G. and Zheng, Q.<br>
+Neural Computation, 2017
+
+_The Many Shades of Negativity_<br>
+Ma, Z., Chang, X., Yang, Y., Sebe, N. and Hauptmann, A.G.<br>
+IEEE Transcations on Multimedia, 2017
+
+_Data-Driven Answer Selection in Community QA Systems_<br>
+Nie, L., Wei, X., Zhang, D., Wang, X., Gao, Z. and Yang, Y.<br>
+IEEE Transcations on Knowledge and Data Engineering, 2017
+
+_Identifying Objective and Subjective Words via Topic Modeling_<br>
+Wang, H., Wu, F., Lu, W., Yang, Y., Li, X., Li, X. and Zhuang, Y.<br>
+IEEE Transcations on Neural Networks and Learning Systems, 2017
+
+_Regularized Deep Belief Network for Image Attribute Detection_<br>
+Wu, F., Wang, Z., Lu, W., Li, X., Yang, Y., Luo, J. and Zhuang, Y.<br>
+IEEE Transcations on Circuits and Systems for Video Technology, 2017
+
+_Two-Stream Multi-Rate Recurrent Neural Network for Video-Based Pedestrian Re-Identification_<br>
+Zeng, Z., Li, Z., Cheng, D., Zhang, H., Zhan, K. and Yang, Y.<br>
+IEEE Transcations on Industrial Informatics, 2017
+
+_A Discriminatively Learned CNN Embedding for Person Reidentification_<br>
+Zheng, Z., Zheng, L. and Yang, Y.<br>
+ACM Transcations on Multimedia Computing, Communications, and Applications, 2017
+
+_Uncovering the temporal context for video question answering_<br>
+Zhu, L., Xu, Z., Yang, Y. and Hauptmann, A.G.<br>
+International Journal of Computer Vision, 2017
+
+_Bag-of-Discriminative-Words (BoDW) Representation via Topic Modeling_<br>
+Zhuang, Y., Wang, H., Xiao, J., Wu, F., Yang, Y., Lu, W. and Zhang, Z.<br>
+IEEE Transcations on Knowledge and Data Engineering, 2017
+
+
 
 ### 2016
 
 _Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning_<br>
 Pingbo Pan, Zhongwen Xu, Yi Yang, Fei Wu, Yueting Zhuang<br>
 CVPR, 2016 ([URL](https://ieeexplore.ieee.org/document/7780486))
+
+_They are not equally reliable: Semantic event search using differentiated concept classifiers_<br>
+Chang, X., Yu, Y.-L., Yang, Y. and Xing, E.P.<br>
+CVPR, 2016
+
+_You lead, we exceed: Labor-free video concept learning by jointly exploiting web videos and images_<br>
+Gan, C., Yao, T., Yang, K., Yang, Y. and Mei, T.<br>
+CVPR, 2016
+
+_Avoiding Optimal Mean Robust PCA/2DPCA with Non-greedy L1-Norm Maximization_<br>
+Luo, M., Nie, F., Chang, X., Yang, Y., Hauptmann, A.G. and Zheng, Q.<br>
+IJCAI, 2016
+
+_Hierarchical recurrent neural encoder for video representation with application to captioning_<br>
+Pan, P., Xu, Z., Yang, Y., Wu, F. and Zhuang, Y.<br>
+CVPR, 2016
+
+_Dynamic Concept Composition for Zero-Example Event Detection._<br>
+Chang, X., Yang, Y., Long, G., Zhang, C. and Hauptmann, A.G.<br>
+AAAI, 2016
+
+_Concepts Not Alone: Exploring Pairwise Relationships for Zero-Shot Video Activity Recognition._<br>
+Gan, C., Lin, M., Yang, Y., de Melo, G. and Hauptmann, A.G.<br>
+AAAI, 2016
+
+_Robust Semi-Supervised Learning through Label Aggregation._<br>
+Yan, Y., Xu, Z., Tsang, I.W., Long, G. and Yang, Y.<br>
+AAAI, 2016
+
+_Using detected visual objects to index video database_<br>
+Du, X., Yin, H., Huang, Z., Yang, Y. and Zhou, X.<br>
+Australasian Database Conference, 2016
+
+
+
+_Compound Rank- k Projections for Bilinear Analysis_<br>
+Chang, X., Nie, F., Wang, S., Yang, Y., Zhou, X. and Zhang, C.<br>
+IEEE Transcations on Neural Networks and Learning Systems, 2016
+
+_Convex sparse PCA for unsupervised feature learning_<br>
+Chang, X., Nie, F., Yang, Y., Zhang, C. and Huang, H.<br>
+ACM Transcations on Knowledge Discovery from Data, 2016
+
+_Personal health indexing based on medical examinations: a data mining approach_<br>
+Chen, L., Li, X., Yang, Y., Kurniawati, H., Sheng, Q.Z., Hu, H.-Y. and Huang, N.<br>
+Decision Support Systems, 2016
+
+_Recognizing an action using its name: A knowledge-based approach_<br>
+Gan, C., Yang, Y., Zhu, L., Zhao, D. and Zhuang, Y.<br>
+International Journal of Computer Vision, 2016
+
+_Guest editorial: web multimedia semantic inference using multi-cues_<br>
+Han, Y., Yang, Y. and Zhou, X.<br>
+World Wide Web, 2016
+
+_Aspect Learning for Multimedia Summarization via Nonparametric Bayesian_<br>
+Wu, F., Fang, H., Li, X., Tang, S., Lu, W., Yang, Y., Zhu, W. and Zhuang, Y.<br>
+IEEE Transcations on Circuits and Systems for Video Technology, 2016
+
+_Weakly supervised multilabel clustering and its applications in computer vision_<br>
+Xia, Y., Nie, L., Zhang, L., Yang, Y., Hong, R. and Li, X.<br>
+IEEE Transcations on Cybernetics, 2016
+
+_Image classification by cross-media active learning with privileged information_<br>
+Yan, Y., Nie, F., Li, W., Gao, C., Yang, Y. and Xu, D.<br>
+IEEE Transcations on Multimedia, 2016
+
+_Strategies for searching video content with text queries or video examples_<br>
+Yu, S.-I., Yang, Y., Xu, Z., Xu, S., Meng, D., Mao, Z., Ma, Z., Lin, M., Li, X., Li, H. and others<br>
+ITE Transcations on Media Technology and Applications, 2016
+
+_Weakly supervised human fixations prediction_<br>
+Zhang, L., Li, X., Nie, L., Yang, Y. and Xia, Y.<br>
+IEEE Transcations on Cybernetics, 2016
 
 
