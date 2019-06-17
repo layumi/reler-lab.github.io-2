@@ -1,5 +1,5 @@
 ---
-title: Home
+title: The ReLER Lab
 ---
 
 <!--![alt text](./images/home.jpg "Logo Title Text 1")-->
