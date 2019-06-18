@@ -9,4 +9,4 @@ joined: 2014
 <!--<i class="fa fa-envelope-o"></i> `zhongwen.s.xu@gmail.com`-->
 
 
-Guoliang Kang is now a Postdoc at CMU. He pursued his Ph.D. at University of Technology Sydney (UTS), advised by Prof. Yi Yang.
+Guoliang Kang is now a post-doc at CMU. He pursued his Ph.D. at University of Technology Sydney (UTS), advised by Prof. Yi Yang.

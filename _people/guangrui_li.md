@@ -4,7 +4,7 @@ position: gradstudent
 avatar: guangrui_li.jpeg
 ---
 
-<img width="200" height="275" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _PhD, University of Technology Sydney_<br>
 <!--- _Science coach. Collaborator. Transdisciplinary optimist._-->

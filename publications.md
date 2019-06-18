@@ -70,7 +70,7 @@ _Adaptive Sparse Confidence-Weighted Learning for Online Feature Selection_<br>
 Yanbin Liu, Yan Yan, Ling Chen, Yahong Han and Yi Yang<br>
 AAAI, 2019 ([URL](https://csyanbin.github.io/papers/AAAI2019_ASCW.pdf))
 
-_Transductive propagation network for few-shot learning_<br>
+_Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning_<br>
 Liu, Y., Lee, J., Park, M., Kim, S. and Yang, Y.<br>
 ICLR, 2019
 
