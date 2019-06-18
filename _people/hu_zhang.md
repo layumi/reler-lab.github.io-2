@@ -9,6 +9,6 @@ avatar: hu_zhang.jpg
 - _PhD, University of Technology Sydney_<br>
 <!--- _Science coach. Collaborator. Transdisciplinary optimist._-->
 
-<i class="fa fa-envelope-o"></i> `raoqi1219@gmail.com`
+<i class="fa fa-envelope-o"></i> `xiaofanustc@gmail.com`
 
 Hu Zhang is currently a first-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
