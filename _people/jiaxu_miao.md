@@ -1,7 +1,7 @@
 ---
 name: Jiaxu Miao
 position: gradstudent
-avatar: default.jpeg
+avatar: jiaxu_miao.jpeg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
