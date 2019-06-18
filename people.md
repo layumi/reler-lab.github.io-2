@@ -30,7 +30,11 @@ permalink: /people/
     <div class="list-item-people">
       <p class="list-post-title">
         {% if profile.avatar %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img width="130" height="166" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+            {% if profile.position == "pi" %}
+                <a href="{{ site.baseurl }}{{ profile.url }}"><img width="160" height="204" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+            {% else %}
+                <a href="{{ site.baseurl }}{{ profile.url }}"><img width="130" height="166" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+            {% endif %}
         {% else %}
         <a href="{{ site.baseurl }}{{ profile.url }}"><img width="200" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
         {% endif %}
