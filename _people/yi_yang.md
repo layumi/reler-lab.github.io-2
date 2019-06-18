@@ -1,7 +1,7 @@
 ---
 name: Yi Yang
 position: pi
-avatar: yi.jpg
+avatar: yi_yang.jpeg
 <!--twitter: KordingLab-->
 ---
 
