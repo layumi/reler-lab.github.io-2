@@ -1,7 +1,7 @@
 ---
 name: Qianyu Feng
 position: gradstudent
-avatar: QYFeng.jpg
+avatar: QYFeng.jpeg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
