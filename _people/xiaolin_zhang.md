@@ -1,7 +1,7 @@
 ---
 name: Xiaolin Zhang
 position: gradstudent
-avatar: xiaolinzhang.jpeg
+avatar: Xiaolin.jpg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
