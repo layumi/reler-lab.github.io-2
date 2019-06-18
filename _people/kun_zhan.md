@@ -1,6 +1,6 @@
 ---
 name: Kun Zhan
-position: visiting
+position: alumni
 avatar: kzhan.jpg
 ---
 
