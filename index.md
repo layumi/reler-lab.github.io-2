@@ -4,7 +4,7 @@ title: The ReLER Lab
 
 <!--![alt text](./images/home.jpg "Logo Title Text 1")-->
 
-The **ReLER** (Recognition, LEarning, Reasoning) Lab, directed by [Prof. Yi Yang](https://www.uts.edu.au/staff/yi.yang), is committed to enable machines to
+The **ReLER** (Recognition, LEarning, Reasoning) Lab is affiliated with CAI, University of Technology Sydney. The lab directed by [Prof. Yi Yang](https://www.uts.edu.au/staff/yi.yang) is committed to enable machines to
 accurately recognize the environment, adaptively understand the human interactions, and
 autonomously analyze the behavior through reasoning. To this end, we work on computer
 vision, learning algorithms, natural language, and their intersections. Concretely, we aim at
@@ -43,7 +43,7 @@ world.
 <br>
 
 ### Visiting Us
-ReLER Lab,
+CAI,
 Level 10, Building 11,
 [81 Broadway, University of Technology Sydney](https://www.google.com/maps/place/UTS+Faculty+of+Engineering+and+IT/@-33.8840299,151.199234,15z/data=!4m5!3m4!1s0x0:0x5aa7383337c73213!8m2!3d-33.8840299!4d151.199234),
 Ultimo, Sydney
