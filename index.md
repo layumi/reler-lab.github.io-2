@@ -45,6 +45,5 @@ world.
 ### Visiting Us
 CAI,
 Level 10, Building 11,
-[81 Broadway, University of Technology Sydney](https://www.google.com/maps/place/UTS+Faculty+of+Engineering+and+IT/@-33.8840299,151.199234,15z/data=!4m5!3m4!1s0x0:0x5aa7383337c73213!8m2!3d-33.8840299!4d151.199234),
+[81 Broadway, UTS](https://www.google.com/maps/place/UTS+Faculty+of+Engineering+and+IT/@-33.8840299,151.199234,15z/data=!4m5!3m4!1s0x0:0x5aa7383337c73213!8m2!3d-33.8840299!4d151.199234),
 Ultimo, Sydney
-
