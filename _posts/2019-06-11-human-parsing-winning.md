@@ -33,11 +33,24 @@ The third large-scale Look Into Person (LIP) challenges which include five compe
 ![alt text](/images/post/human_parsing5.png "Logo Title Text 1")
 
 
-
-Human Parsing is the sub-task of semantic segmentation which need to assign a semantic label (like leg or arm) to each pixel in a human image—is very resource-hungry, but one of the driving workhorses on our mission of understanding the human. However, due to our recently developed technological innovation "In-Place Activated BatchNorm", we are able to mitigate the memory impact of our segmentation models by ~50% during training. The key contribution of the solution is memory optimization in modern deep learning architectures by dropping some of the intermediate results from the forward pass. We proposed a novel SPHP (Single Person Human Parsing) network, which consists of three key modules to learn for parsing in an end-to-end manner including high resolution embedding module, global context embedding module and edge perceiving module.
+Human Parsing is the sub-task of semantic segmentation which need to assign a semantic label (like leg or arm) to each pixel in a human image. We proposed a novel SPHP(Single Person Human Parsing) network, which consists of three key modules to learn for parsing in an end-to-end manner including high resolution embedding module, global context embedding module and edge perceiving module.
 
 ### Framework of our winning solution
 
 ![alt text](/images/post/human_parsing6.png "Logo Title Text 1")
 
-Finally, we applied some of the usual bells and whistles (such as multi-scale training and multi-model testing) and model ensemble, with the final combination allowing us to significantly surpass all competitors on the leaderboard.
+
+#### Some Qualitative Results of Our Single Person Human Parsing Solution
+
+![alt text](/images/post/human_parsing7.png "Logo Title Text 1")
+
+
+#### Some Qualitative Results of Our Multi-Person Human Parsing Solution
+
+![alt text](/images/post/human_parsing8.png "Logo Title Text 1")
+
+#### Some Qualitative Results of Our Video Multi-Person Human Parsing Solution
+
+![alt text](/images/post/human_parsing9.png "Logo Title Text 1")
+
+The detailed report and code will be released later.
