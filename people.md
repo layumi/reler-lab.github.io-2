@@ -3,14 +3,16 @@ title: People
 permalink: /people/
 ---
 
+
+ <!--{% elsif item == 'ap' %}-->
+<!--<h3>Lecturer</h3>-->
+
 {% assign people_sorted = (site.people | sort: 'joined' %}
 {% assign people_array = "pi|ap|postdoc|gradstudent|visiting|alumni" | split: "|" %}
 
 {% for item in people_array %}
 
 
- <!--{% elsif item == 'ap' %}-->
-<!--<h3>Lecturer</h3>-->
 
 <div class="pos_header">
 {% if item == 'postdoc' %}
