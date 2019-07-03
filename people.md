@@ -8,13 +8,15 @@ permalink: /people/
 
 {% for item in people_array %}
 
+
+ <!--{% elsif item == 'ap' %}-->
+<!--<h3>Lecturer</h3>-->
+
 <div class="pos_header">
 {% if item == 'postdoc' %}
 <h3>Postdoctoral Fellows</h3>
  {% elsif item == 'pi' %}
 <h3>Professor</h3>
- {% elsif item == 'ap' %}
-<h3>Lecturer</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
  {% elsif item == 'visiting' %}
