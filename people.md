@@ -4,8 +4,6 @@ permalink: /people/
 ---
 
 
- <!--{% elsif item == 'ap' %}-->
-<!--<h3>Lecturer</h3>-->
 
 <!--{% assign people_array = "pi|ap|postdoc|gradstudent|visiting|alumni" | split: "|" %}-->
 
