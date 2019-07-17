@@ -1,6 +1,6 @@
 ---
 name: Ping Liu
-position: postdoc
+position: ap
 avatar: ping.jpeg
 ---
 
