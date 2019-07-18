@@ -1,8 +1,8 @@
 ---
 name: Linchao Zhu
 position: ap
-avatar: linchao_zhu.jpg
-<!--twitter: KordingLab-->
+avatar: default.jpeg
+
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
