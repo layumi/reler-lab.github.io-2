@@ -25,7 +25,7 @@ IJCAI, 2019
 
 _Joint discriminative and generative learning for person re-identification_<br>
 Zhedong Zheng, Xiaodong Yang, Zhiding Yu, Liang Zheng, Yi Yang, Jan Kautz<br>
-CVPR, 2019 ([URL](https://arxiv.org/pdf/1904.07223.pdf))
+CVPR, 2019 ([URL](https://arxiv.org/pdf/1904.07223.pdf)) [[Project]](http://zdzheng.xyz/DG-Net/) [[Paper]](https://arxiv.org/abs/1904.07223) [[YouTube]](https://www.youtube.com/watch?v=ubCrEAIpQs4) [[Bilibili]](https://www.bilibili.com/video/av51439240) [[Poster]](http://zdzheng.xyz/images/DGNet_poster.pdf) 
 
 
 _Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration_<br>
