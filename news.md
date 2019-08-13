@@ -10,7 +10,6 @@ permalink: /news/
 <div class="content list">
 <div class="list-item">
 <p class="list-post-title">
-<small>Congrats to Xuanyi to be one of the 2019 Google PhD Fellows.</small>
 </p>
 </div>
   {% for post in site.posts %}
