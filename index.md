@@ -6,10 +6,10 @@ title: The ReLER Lab
 
 The **ReLER** (Recognition, LEarning, Reasoning) Lab is affiliated with CAI, University of Technology Sydney. The lab is committed to enable machines to
 accurately recognize the environment, adaptively understand the human interactions, and
-autonomously analyze the behavior through reasoning. To this end, we work on computer
-vision, learning algorithms, natural language, and their intersections. Concretely, we aim at
-developing novel methods for object, face, action, and event recognition, localizing the
-positions, segmenting the instances in images and videos. Additionally, we also study model
+autonomously analyze the behavior through reasoning. To this end, we work on learning algorithms, computer
+vision, natural language, and their intersections. Concretely, we aim at
+developing novel methods for object, action, and event recognition, localizing the
+positions, segmenting the instances in images and videos, understanding documents and dialogues. Additionally, we also study model
 acceleration algorithms to speed up the recognition process.
 
 In the real-world scenarios, data
