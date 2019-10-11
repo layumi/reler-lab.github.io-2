@@ -1,6 +1,6 @@
 ---
 name: Yutian Lin
-position: gradstudent
+position: alumni
 avatar: yutian_lin.jpg
 <!--twitter: KordingLab-->
 ---
