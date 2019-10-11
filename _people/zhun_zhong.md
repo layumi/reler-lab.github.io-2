@@ -1,6 +1,6 @@
 ---
 name: Zhun Zhong
-position: visiting
+position: alumni
 avatar: zhunzhong.jpg
 ---
 
