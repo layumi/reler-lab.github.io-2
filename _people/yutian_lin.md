@@ -12,5 +12,5 @@ avatar: yutian_lin.jpg
 
 <i class="fa fa-envelope-o"></i> `Yu.Wu-3@student.uts.edu.au`
 
-[Yutian Lin](https://vana77.github.io/) a third year PhD student at University of Technology Sydeney(UTS), under the supervision of Prof. Yi Yang and Dr. Liang Zheng. She received her B.E from School of Computer Science and Technology, Zhejiang University in 2016.
+[Yutian Lin](https://vana77.github.io/) received her PhD degree from University of Technology Sydeney(UTS), under the supervision of Prof. Yi Yang and Dr. Liang Zheng. She received her B.E from School of Computer Science and Technology, Zhejiang University in 2016.
 
