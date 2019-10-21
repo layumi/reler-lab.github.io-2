@@ -1,6 +1,6 @@
 ---
 name: Yawei Luo
-position: visiting
+position: alumni
 avatar: yawei_luo.jpeg
 ---
 
@@ -11,4 +11,4 @@ avatar: yawei_luo.jpeg
 
 <i class="fa fa-envelope-o"></i> `yaweiluo329@gmail.com`
 
-Yawei Luo is a visiting student at UTS.
+Yawei Luo was a visiting student at UTS from 2017 to 2019.
