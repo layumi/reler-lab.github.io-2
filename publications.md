@@ -17,55 +17,55 @@ Journals: [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 ### 2019
 
 _Pose-Guided Feature Alignment for Occluded Person Re-Identification_<br>
-Jiaxu Miao, Yu Wu, Ping Liu, Yuhang Ding, Yi Yang
+Jiaxu Miao, Yu Wu, Ping Liu, Yuhang Ding, Yi Yang<br>
 ICCV, 2019
 
 _Teacher Supervises Students How to Learn From Partially Labeled Images for Facial Landmark Detection_<br>
-Xuanyi Dong, Yi Yang
+Xuanyi Dong, Yi Yang<br>
 ICCV, 2019
 
 _One-Shot Neural Architecture Search via Self-Evaluated Template Network_<br>
-Xuanyi Dong, Yi Yang
+Xuanyi Dong, Yi Yang<br>
 ICCV, 2019
 
 _Auto-ReID: Searching for a Part-Aware ConvNet for Person Re-Identification_<br>
-Ruijie Quan, Xuanyi Dong, Yu Wu, Linchao Zhu, Yi Yang
+Ruijie Quan, Xuanyi Dong, Yu Wu, Linchao Zhu, Yi Yang<br>
 ICCV, 2019
 
 _Dual Attention Matching for Audio-Visual Event Localization_<br>
-Yu Wu, Linchao Zhu, Yan Yan, Yi Yang
+Yu Wu, Linchao Zhu, Yan Yan, Yi Yang<br>
 ICCV 2019
 
 _Significance-Aware Information Bottleneck for Domain Adaptive Semantic Segmentation_<br>
-Yawei Luo, Ping Liu, Tao Guan, Junqing Yu, Yi Yang
+Yawei Luo, Ping Liu, Tao Guan, Junqing Yu, Yi Yang<br>
 ICCV, 2019
 
 _Attract or Distract: Exploit the Margin of Open Set_<br>
-Qianyu Feng, Guoliang Kang, Hehe Fan, Yi Yang
+Qianyu Feng, Guoliang Kang, Hehe Fan, Yi Yang<br>
 ICCV, 2019
 
 _Entangled Transformer for Image Captioning_<br>
-Guang Li, Linchao Zhu, Ping Liu, Yi Yang
+Guang Li, Linchao Zhu, Ping Liu, Yi Yang<br>
 ICCV, 2019
 
 _Very Long Natural Scenery Image Prediction by Outpainting_<br>
-Zongxin Yang, Jian Dong, Ping Liu, Yi Yang, Shuicheng Yan
+Zongxin Yang, Jian Dong, Ping Liu, Yi Yang, Shuicheng Yan<br>
 ICCV, 2019
 
 _CCNet: Criss-Cross Attention for Semantic Segmentation_<br>
-Zilong Huang, Xinggang Wang, Lichao Huang, Chang Huang, Yunchao Wei, Wenyu Liu
+Zilong Huang, Xinggang Wang, Lichao Huang, Chang Huang, Yunchao Wei, Wenyu Liu<br>
 ICCV, 2019
 
 _Integral Object Mining via Online Attention Accumulation_<br>
-Peng-Tao Jiang, Qibin Hou, Yang Cao, Ming-Ming Cheng, Yunchao Wei, Hong-Kai Xiong
+Peng-Tao Jiang, Qibin Hou, Yang Cao, Ming-Ming Cheng, Yunchao Wei, Hong-Kai Xiong<br>
 ICCV, 2019
 
 _SPGNet: Semantic Prediction Guidance for Scene Parsing_<br>
-Bowen Cheng, Liang-Chieh Chen, Yunchao Wei, Yukun Zhu, Zilong Huang, Jinjun Xiong, Thomas S. Huang, Wen-Mei Hwu, Honghui Shi
+Bowen Cheng, Liang-Chieh Chen, Yunchao Wei, Yukun Zhu, Zilong Huang, Jinjun Xiong, Thomas S. Huang, Wen-Mei Hwu, Honghui Shi<br>
 ICCV, 2019
 
 _Self-Similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-Identification_<br>
-Yang Fu, Yunchao Wei, Guanshuo Wang, Yuqian Zhou, Honghui Shi, Thomas S. Huang
+Yang Fu, Yunchao Wei, Guanshuo Wang, Yuqian Zhou, Honghui Shi, Thomas S. Huang<br>
 ICCV, 2019
 
 _Video Interactive Captioning with Human Prompts_<br>
