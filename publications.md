@@ -14,6 +14,40 @@ Journals: [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 <hr>
 
 ## Conferences
+### 2020
+
+_FASTER Recurrent Networks for Efficient Video Classification_<br>
+Linchao Zhu, Du Tran, Laura Sevilla-Lara, Yi Yang, Matt Feiszli, Heng Wang<br>
+AAAI, 2020
+
+_Person Tube Retrieval via Language Description_<br> 
+Hehe Fan and Yi Yang<br>
+AAAI, 2020
+
+_Symbiotic Attention with Privileged Information for Egocentric Action Recognition_<br> 
+Xiaohan Wang, Yu Wu, Linchao Zhu, Yi Yang<br>
+AAAI, 2020
+
+_Adversarial Localized Energy Network for Structured Prediction_<br>
+Pingbo Pan, Ping Liu, Yan Yan, Tianbao Yang, Yi Yang<br>
+AAAI, 2020
+
+_Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach_<br>
+Bingfeng Zhang, Jimin Xiao, Yunchao Wei, Mingjie Sun, Kaizhu Huang<br>
+AAAI, 2020
+
+_Context Modulated Dynamic Networks for Actor and Action Video Segmentation with Language Queries_<br>
+Hao Wang, Cheng Deng, Fan Ma, Yi Yang<br>
+AAAI, 2020
+
+_EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network_<br>
+Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang<br>
+AAAI, 2020
+
+_Random erasing data augmentation_<br>
+Zhun Zhong, Liang Zheng, Pingbo Pan, Shaozi Li, Yi Yang<br>
+AAAI, 2020
+
 ### 2019
 
 _Pose-Guided Feature Alignment for Occluded Person Re-Identification_<br>
