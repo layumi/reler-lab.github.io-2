@@ -7,7 +7,7 @@ permalink: /publication/
 
 This is the full publication list of ReLER since 2016.
 
-Conferences: [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
+Conferences:  [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
 
 Journals: [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 
