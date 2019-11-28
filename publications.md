@@ -45,7 +45,7 @@ Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang<br>
 AAAI, 2020
 
 _Random erasing data augmentation_<br>
-Zhun Zhong, Liang Zheng, Pingbo Pan, Shaozi Li, Yi Yang<br>
+Zhun Zhong, Liang Zheng, Guoliang Kang, Shaozi Li, Yi Yang<br>
 AAAI, 2020
 
 ### 2019
