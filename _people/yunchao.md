@@ -6,7 +6,7 @@ avatar: yunchao.jpeg
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Lecterer, University of Technology Sydney_<br>
+- _Lecturer, University of Technology Sydney_<br>
 <!--- _Science coach. Collaborator. Transdisciplinary optimist._-->
 
 <i class="fa fa-envelope-o"></i> `wychao1987@gmail.com`
