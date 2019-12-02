@@ -13,7 +13,7 @@ avatar: default.jpeg
 <i class="fa fa-envelope-o"></i> `yi.yang@uts.edu.au`
 
 **Office**<br>
-Level 10, Building 11, UTS <br>
+Level 12, Building 2, UTS <br>
 
 [Yi Yang](https://www.uts.edu.au/staff/yi.yang) is a professor with the Faculty of Engineering and Information Technology, University of Technology Sydney (UTS).  He received the PhD degree in Computer Science from Zhejiang University in 2010. He was a postdoc researcher at the School of Computer Science, Carnegie Mellon University before he came to Australia.
 
