@@ -12,7 +12,7 @@ avatar: yunchao.jpeg
 <i class="fa fa-envelope-o"></i> `wychao1987@gmail.com`
 
 **Office**<br>
-Level 10, Building 11, UTS <br>
+Level 12, Building 2, UTS <br>
 
 [Yunchao Wei](https://weiyc.github.io/) received the ARC Discovery Early Career Researcher Award (DECRA) Fellowship between 2019-2021 and he joined University of Technology Sydney as a Lecturer (Assistant Professor).
 
