@@ -1,6 +1,6 @@
 ---
 name: MinFeng Zhu
-position: visiting
+position: alumni
 avatar: minfengzhu.png
 ---
 
@@ -11,4 +11,4 @@ avatar: minfengzhu.png
 
 <i class="fa fa-envelope-o"></i> `minfeng.zhu@outlook.com`
 
-Minfeng Zhu is a visiting student at UTS.
+Minfeng Zhu was a visiting student at UTS.
