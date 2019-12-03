@@ -9,6 +9,6 @@ avatar: aming_wu.jpg
 - _Visiting student, University of Technology Sydney_<br>
 <!--- _Science coach. Collaborator. Transdisciplinary optimist._-->
 
-<i class="fa fa-envelope-o"></i> `zhunzhong007@gmail.com`
+<i class="fa fa-envelope-o"></i> `tjwam@tju.edu.cn`
 
 Aming Wu is currently a visiting student at University of Technology Sydney from Tianjin University.
