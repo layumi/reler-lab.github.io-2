@@ -24,7 +24,7 @@ permalink: /people/
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
  {% elsif item == 'visiting' %}
-<h3>Visiting Scholars</h3>
+<h3>Visiting Students</h3>
  --stay for more than 12 months 
  {% elsif item == 'alumni' %}
 <h3>Alumni</h3>
