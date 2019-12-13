@@ -349,9 +349,38 @@ IJCAI, 2016
 
 ## Journals
 ### 19
+
+_Progressive Learning for Person Re-Identification with One Example_<br>
+Wu, Y., Lin, Y., Dong, X., Yan, Y., Bian, W., Yang, Y.<br>
+IEEE Transcations on Image Processing, 2019
+
+_Asymptotic Soft Filter Pruning for Deep Convolutional Neural Networks_<br>
+He, Y., Dong,X., Kang, G., Fu, Y., Yan, C., Yang, Y.<br>
+IEEE Transactions on Cybernetics, 2019
+
 _Pedestrian alignment network for large-scale person re-identification_<br>
 Zhedong Zheng, Liang Zheng, Yi Yang<br>
 TCSVT, 2019 ([URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8481710)) [[Code]](https://github.com/layumi/Pedestrian_Alignment)
+
+_Improving person re-identification by attribute and identity learning_<br>
+Lin, Y., Zheng, L., Zheng, Z., Wu, Y., Hu, Z., Yan, C., Yang, Y.<br>
+Pattern Recognition, 2019
+
+_Modality-Invariant Image-Text Embedding for Image-Sentence Matching_<br>
+Liu, R., Zhao, Y.,  Wei, S., Zheng, L., Yang, Y.<br>
+ACM Transactions on Multimedia Computing, Communications, and Applications, 2019
+
+_Adaptive Exploration for Unsupervised Person Re-Identification_<br>
+Ding, Y., Fan, H., Xu, M., Yang, Y.<br>
+ACM Transactions on Multimedia Computing, Communications, and Applications, 2019
+
+_Learning Part-based Convolutional Features for Person Re-identification_<br>
+Sun, Y., Zheng, L., Li, Y., Yang, Y., Tian, Q., Wang, S.<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2018
+
+_Convolutional Reconstruction-to-Sequence for Video Captioning_<br>
+Wu, A., Han, Y., Yang, Y., Hu, Q., Wu, F.<br>
+IEEE Transactions on Circuits and Systems for Video Technology, 2019
 
 _CamStyle: A Novel Data Augmentation Method for Person Re-identification_<br>
 Zhun Zhong, Liang Zheng, Zhedong Zheng, Shaozi Li, Yi Yang<br>
@@ -369,13 +398,13 @@ _Learning Distilled Graph for Large-scale Social Network Data Clustering_<br>
 Liu, W., Gong, D., Tan, M., Yang, Y. and Hauptmann, A.G.<br>
 IEEE Transcations on Knowledge and Data Engineering, 2019
 
-_Progressive Learning for Person Re-Identification with One Example_<br>
-Wu, Y., Lin, Y., Dong, X., Yan, Y., Bian, W., Yang, Y.<br>
-IEEE Transcations on Image Processing, 2019
-
 _Multiview Consensus Graph Clustering_<br>
 Zhan, K., Nie, F., Wang, J. and Yang, Y.<br>
 IEEE Transcations on Image Processing, 2019
+
+_Graph Structure Fusion for Multiview Clustering_<br>
+Zhan, K., Niu, C., Chen, C., Nie, F., Zhang, C., Yang, Y.<br>
+IEEE Transactions on Knowledge and Data Engineering, 2019
 
 _Pose Invariant Embedding for Deep Person Re-identification_<br>
 Zheng, L., Huang, Y., Lu, H. and Yang, Y.<br>
