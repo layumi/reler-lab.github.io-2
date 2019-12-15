@@ -26,7 +26,7 @@ AAAI, 2020
 
 _Symbiotic Attention with Privileged Information for Egocentric Action Recognition_<br> 
 Xiaohan Wang, Yu Wu, Linchao Zhu, Yi Yang<br>
-AAAI, 2020
+AAAI (Oral), 2020
 
 _Adversarial Localized Energy Network for Structured Prediction_<br>
 Pingbo Pan, Ping Liu, Yan Yan, Tianbao Yang, Yi Yang<br>
@@ -68,7 +68,7 @@ ICCV, 2019
 
 _Dual Attention Matching for Audio-Visual Event Localization_<br>
 Yu Wu, Linchao Zhu, Yan Yan, Yi Yang<br>
-ICCV 2019
+ICCV(Oral) 2019
 
 _Significance-Aware Information Bottleneck for Domain Adaptive Semantic Segmentation_<br>
 Yawei Luo, Ping Liu, Tao Guan, Junqing Yu, Yi Yang<br>
@@ -103,11 +103,11 @@ Yang Fu, Yunchao Wei, Guanshuo Wang, Yuqian Zhou, Honghui Shi, Thomas S. Huang<b
 ICCV, 2019
 
 _Video Interactive Captioning with Human Prompts_<br>
-Wu, A., Ha, Y. and Yang, Y.<br>
+Aming Wu, Yahong Han, Yi Yang<br>
 IJCAI, 2019
 
 _Generalized Majorization-Minimization for Non-Convex Optimization_<br>
-Zhang, H., Zhou, P., Yang, Y. and Feng, J.<br>
+Hu Zhang, Pan Zhou, Yi Yang, Jiashi Feng<br>
 IJCAI, 2019
 
 _Joint discriminative and generative learning for person re-identification_<br>
@@ -117,7 +117,7 @@ CVPR (Oral), 2019 ([URL](https://arxiv.org/pdf/1904.07223.pdf)) [[Project]](http
 
 _Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration_<br>
 Yang He, Ping Liu, Ziwei Wang, Zhilan Hu, Yi Yang<br>
-CVPR, 2019 ([URL](https://arxiv.org/abs/1811.00250))
+CVPR (Oral), 2019 ([URL](https://arxiv.org/abs/1811.00250))
 
 _DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis_<br>
 Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang<br>
@@ -137,7 +137,7 @@ CVPR, 2019
 
 _Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation_<br>
 Luo, Y., Zheng, L., Guan, T., Yu, J. and Yang, Y.<br>
-CVPR, 2019
+CVPR (Oral), 2019
 
 _Sim-Real Joint Reinforcement Transfer for 3D Indoor Navigation_<br>
 Zhu, F., Zhu, L. and Yang, Y.<br>
