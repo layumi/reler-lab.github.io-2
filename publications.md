@@ -22,7 +22,7 @@ ICLR, 2020
 
 _Query-efficient Meta Attack to Deep Neural Networks_<br>
 Jiawei Du\*, Hu Zhang\*, Joey Tianyi Zhou, Yi Yang, Jiashi Feng (* equal contribution)<br> 
-ICLR，2020 
+ICLR, 2020 
 
 _Network Pruning via Transformable Architecture Search_<br>
 Xuanyi Dong, Yi Yang<br>
