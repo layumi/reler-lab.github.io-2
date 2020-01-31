@@ -16,6 +16,22 @@ Journals: [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 ## Conferences
 ### 2020
 
+_NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search_<br>
+Xuanyi Dong, Yi Yang<br>
+ICLR, 2020
+
+_Query-efficient Meta Attack to Deep Neural Networks_<br>
+Jiawei Du*, Hu Zhang*, Joey Tianyi Zhou, Yi Yang, Jiashi Feng(* equal contribution)<br> 
+ICLR， 2020 
+
+_Network Pruning via Transformable Architecture Search_<br>
+Xuanyi Dong, Yi Yang<br>
+NeurIPS, 2020
+
+_Connective Cognition Network for Directional Visual Commonsense Reasoning_<br>
+Aming Wu, Linchao Zhu, Yahong Han, Yi Yang<br>
+NeurIPS, 2020
+
 _FASTER Recurrent Networks for Efficient Video Classification_<br>
 Linchao Zhu, Du Tran, Laura Sevilla-Lara, Yi Yang, Matt Feiszli, Heng Wang<br>
 AAAI, 2020
