@@ -364,6 +364,12 @@ IJCAI, 2016
 
 
 ## Journals
+### 20
+_Dual-Path Convolutional Image-Text Embedding_<br>
+Zhedong Zheng, Liang Zheng, Michael Garrett, Yi Yang, Yi-Dong Shen <br>
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2020.
+([URL](https://arxiv.org/abs/1711.05535)) [[Slide]](http://zdzheng.xyz/ZhedongZheng_CA_Talk_DualPath.pdf)[[Code]](https://github.com/layumi/Image-Text-Embedding)
+
 ### 19
 
 _Progressive Learning for Person Re-Identification with One Example_<br>
