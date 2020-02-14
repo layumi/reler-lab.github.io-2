@@ -24,14 +24,6 @@ _Query-efficient Meta Attack to Deep Neural Networks_<br>
 Jiawei Du\*, Hu Zhang\*, Joey Tianyi Zhou, Yi Yang, Jiashi Feng (* equal contribution)<br> 
 ICLR, 2020 
 
-_Network Pruning via Transformable Architecture Search_<br>
-Xuanyi Dong, Yi Yang<br>
-NeurIPS, 2020
-
-_Connective Cognition Network for Directional Visual Commonsense Reasoning_<br>
-Aming Wu, Linchao Zhu, Yahong Han, Yi Yang<br>
-NeurIPS, 2020
-
 _FASTER Recurrent Networks for Efficient Video Classification_<br>
 Linchao Zhu, Du Tran, Laura Sevilla-Lara, Yi Yang, Matt Feiszli, Heng Wang<br>
 AAAI, 2020
@@ -65,6 +57,14 @@ Zhun Zhong, Liang Zheng, Guoliang Kang, Shaozi Li, Yi Yang<br>
 AAAI, 2020
 
 ### 2019
+
+_Network Pruning via Transformable Architecture Search_<br>
+Xuanyi Dong, Yi Yang<br>
+NeurIPS, 2019
+
+_Connective Cognition Network for Directional Visual Commonsense Reasoning_<br>
+Aming Wu, Linchao Zhu, Yahong Han, Yi Yang<br>
+NeurIPS, 2019
 
 _Pose-Guided Feature Alignment for Occluded Person Re-Identification_<br>
 Jiaxu Miao, Yu Wu, Ping Liu, Yuhang Ding, Yi Yang<br>
