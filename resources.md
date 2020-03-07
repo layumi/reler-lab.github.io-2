@@ -7,9 +7,9 @@ permalink: /resources/
 ## Datasets
 <hr>
 
-**University-1652**
-
-University-1652 is a multi-view multi-source benchmark for drone-based geo-localization that contains 1652 buildings of 72 universities around the world. We provide images collected from the virtual drone, the satellite and the street.
+### University-1652
+![](https://github.com/layumi/University1652-Baseline/raw/master/docs/index_files/Data.jpg)
+University-1652 is a multi-view multi-source benchmark for drone-based geo-localization that contains 1652 buildings of 72 universities around the world. We provide images collected from the virtual drone, the satellite and the ground.
 
 [[Paper]](https://arxiv.org/abs/2002.12186)
 [[Dataset]](https://github.com/layumi/University1652-Baseline)
