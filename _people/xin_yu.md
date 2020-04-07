@@ -1,7 +1,7 @@
 ---
 name: Xin Yu
 position: ap
-avatar: default.jpeg
+avatar: xin_yu.jpg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -14,5 +14,5 @@ avatar: default.jpeg
 **Office**<br>
 Level 12, Building 2, UTS <br>
 
-Xin Yu is currently a lecturer at University of Technology Sydney.
+[Xin Yu](https://sites.google.com/view/xinyus-homepage/Home) is currently a lecturer at University of Technology Sydney.
 
