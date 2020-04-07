@@ -1,6 +1,6 @@
 ---
 name: Ping Liu
-position: ap
+position: alumni
 avatar: ping.jpeg
 ---
 
