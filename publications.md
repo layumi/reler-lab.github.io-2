@@ -16,6 +16,14 @@ Journals: [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 ## Conferences
 ### 2020
 
+_Unsupervised Scene Adaptation with Memory Regularization in vivo_<br>
+Zhedong Zheng, Yi Yang<br>
+IJCAI, 2020 [[Code]](https://github.com/layumi/Seg_Uncertainty)
+
+_Real-World Automatic Makeup via Identity Preservation Makeup Net_<br>
+Zhikun Huang, Zhedong Zheng, Chenggang Yan, Hongtao Xie, Yaoqi Sun, Jianzhong Wang, Jiyong Zhang <br>
+IJCAI, 2020
+
 _NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search_<br>
 Xuanyi Dong, Yi Yang<br>
 ICLR, 2020
