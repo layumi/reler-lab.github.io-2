@@ -53,7 +53,11 @@ CVPR, 2020
 
 _Transferring Cross-domain Knowledge for Video Sign Language Recognition._<br>
 Dongxu Li, Xin Yu, Chenchen Xu, Lars Petersson, Hongdong Li<br>
-CVPR, 2020
+CVPR(Oral), 2020
+
+_Copy and Paste GAN: Face Hallucination from Shaded Thumbnails._<br>
+Yang Zhang, Ivor Tsang, Yawei Luo, Changhui Hu, Xiaobo Lu, Xin Yu<br>
+CVPR(Oral), 2020
 
 _Unsupervised Scene Adaptation with Memory Regularization in vivo_<br>
 Zhedong Zheng, Yi Yang<br>
