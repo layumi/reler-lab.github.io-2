@@ -15,6 +15,45 @@ Journals: [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 
 ## Conferences
 ### 2020
+_ActBERT: Learning Global-Local Video-Text Representations._<br> 
+Linchao Zhu, Yi Yang<br>
+CVPR, 2020
+
+_Label-Isolated Memory for Long-Tailed Visual Recognition._<br>
+Linchao Zhu, Yi Yang<br>
+CVPR, 2020
+
+_Memory Aggregation Networks for Efficient Interactive Video Object Segmentation._<br>
+Jiaxu Miao, Yunchao Wei, Yi Yang<br>
+CVPR, 2020
+
+_Imitative Non-Autoregressive Modeling for Sequence Prediction and Imputation._<br>
+Mengshi Qi, Jie Qin, Yu Wu, Yi Yang<br>
+CVPR, 2020
+
+_Gated Channel Transformation for Visual Recognition._<br>
+Zongxin Yang, Linchao Zhu, Yu Wu, Yi Yang<br>
+CVPR, 2020
+
+_Unsupervised Person Re-identification via Softened Similarity Learning._<br>
+Yutian Lin, Lingxi Xie, Yu Wu, Chenggang Yan, Qi Tian<br>
+CVPR, 2020
+
+_Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration._<br>
+Yang He, Yuhang Ding, Ping Liu, Linchao Zhu, Hanwang Zhang, Yi Yang<br>
+CVPR, 2020
+
+_Where am I looking at? Geo-localization by Cross-view Image Alignment._<br>
+Yujiao Shi, Xin Yu, Dylan Campbell, Hongdong Li<br>
+CVPR, 2020
+
+_Weakly-supervised Salient Object Detection via Scribble Annotations._<br>
+Jing Zhang, Xin Yu, Aixuan Li, Peipei Song, Bowen Liu, Yuchao Dai<br>
+CVPR, 2020
+
+_Transferring Cross-domain Knowledge for Video Sign Language Recognition._<br>
+Dongxu Li, Xin Yu, Chenchen Xu, Lars Petersson, Hongdong Li<br>
+CVPR, 2020
 
 _Unsupervised Scene Adaptation with Memory Regularization in vivo_<br>
 Zhedong Zheng, Yi Yang<br>
