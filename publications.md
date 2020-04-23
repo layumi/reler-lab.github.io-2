@@ -35,6 +35,10 @@ _Gated Channel Transformation for Visual Recognition._<br>
 Zongxin Yang, Linchao Zhu, Yu Wu, Yi Yang<br>
 CVPR, 2020
 
+_Semantic Correspondence as an Optimal Transport Problem._<br>
+Yanbin Liu, Linchao Zhu, Makoto Yamada, Yi Yang<br>
+CVPR, 2020
+
 _Unsupervised Person Re-identification via Softened Similarity Learning._<br>
 Yutian Lin, Lingxi Xie, Yu Wu, Chenggang Yan, Qi Tian<br>
 CVPR, 2020
