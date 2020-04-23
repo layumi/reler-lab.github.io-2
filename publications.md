@@ -43,6 +43,27 @@ _Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceler
 Yang He, Yuhang Ding, Ping Liu, Linchao Zhu, Hanwang Zhang, Yi Yang<br>
 CVPR, 2020
 
+_Interactive Object Segmentation with Inside-Outside Guidance._<br>
+Shiyin Zhang, Jun Hao Liew, Yunchao Wei, Shikui Wei, Yao Zhao<br>
+CVPR(Oral), 2020
+
+_Memory Aggregation Networks for Efficient Interactive Video Object Segmentation._<br>
+Jiaxu Miao, Yunchao Wei, Yi Yang<br>
+CVPR, 2020
+
+_Referring Image Segmentation via Cross-Modal Progressive Comprehension._<br>
+Shaofei Huang, Tianrui Hui, Si Liu, Guanbin Li, Yunchao Wei, Jizhong Han, Luoqi Liu, Bo Li<br>
+CVPR, 2020
+
+_Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation._<br>
+Zhonghao Wang, Mo Yu, Yunchao Wei, Rogerio Feris, Jinjun Xiong, Wen-Mei Hwu, Thomas S. Huang, Honghui Shi<br>
+CVPR, 2020
+
+_Agriculture-Vision: A Large Aerial Image Database for Agricultural Pattern Analysis._<br>
+Mang Tik Chiu, Xingqian Xu, Yunchao Wei, Zilong Huang, Alexander Schwing, Robert Brunner, Hrant Khachatrian, Hovnatan Karapetyan, Ivan Dozier, Greg Rose, David Wilson, Adrian Tudor, Naira Hovakimyan, Thomas S. Huang, Honghui Shi<br>
+CVPR, 2020
+
+
 _Where am I looking at? Geo-localization by Cross-view Image Alignment._<br>
 Yujiao Shi, Xin Yu, Dylan Campbell, Hongdong Li<br>
 CVPR, 2020
