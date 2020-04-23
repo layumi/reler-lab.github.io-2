@@ -51,9 +51,6 @@ _Interactive Object Segmentation with Inside-Outside Guidance._<br>
 Shiyin Zhang, Jun Hao Liew, Yunchao Wei, Shikui Wei, Yao Zhao<br>
 CVPR(Oral), 2020
 
-_Memory Aggregation Networks for Efficient Interactive Video Object Segmentation._<br>
-Jiaxu Miao, Yunchao Wei, Yi Yang<br>
-CVPR, 2020
 
 _Referring Image Segmentation via Cross-Modal Progressive Comprehension._<br>
 Shaofei Huang, Tianrui Hui, Si Liu, Guanbin Li, Yunchao Wei, Jizhong Han, Luoqi Liu, Bo Li<br>
