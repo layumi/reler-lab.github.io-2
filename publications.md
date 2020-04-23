@@ -15,6 +15,14 @@ Journals: [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 
 ## Conferences
 ### 2020
+_Unsupervised Scene Adaptation with Memory Regularization in vivo_<br>
+Zhedong Zheng, Yi Yang<br>
+IJCAI, 2020 [[Code]](https://github.com/layumi/Seg_Uncertainty)
+
+_Real-World Automatic Makeup via Identity Preservation Makeup Net_<br>
+Zhikun Huang, Zhedong Zheng, Chenggang Yan, Hongtao Xie, Yaoqi Sun, Jianzhong Wang, Jiyong Zhang <br>
+IJCAI, 2020
+
 _ActBERT: Learning Global-Local Video-Text Representations._<br> 
 Linchao Zhu, Yi Yang<br>
 CVPR(Oral), 2020
@@ -80,14 +88,6 @@ CVPR(Oral), 2020
 _Copy and Paste GAN: Face Hallucination from Shaded Thumbnails._<br>
 Yang Zhang, Ivor Tsang, Yawei Luo, Changhui Hu, Xiaobo Lu, Xin Yu<br>
 CVPR(Oral), 2020
-
-_Unsupervised Scene Adaptation with Memory Regularization in vivo_<br>
-Zhedong Zheng, Yi Yang<br>
-IJCAI, 2020 [[Code]](https://github.com/layumi/Seg_Uncertainty)
-
-_Real-World Automatic Makeup via Identity Preservation Makeup Net_<br>
-Zhikun Huang, Zhedong Zheng, Chenggang Yan, Hongtao Xie, Yaoqi Sun, Jianzhong Wang, Jiyong Zhang <br>
-IJCAI, 2020
 
 _NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search_<br>
 Xuanyi Dong, Yi Yang<br>
