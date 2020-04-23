@@ -17,7 +17,7 @@ Journals: [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 ### 2020
 _ActBERT: Learning Global-Local Video-Text Representations._<br> 
 Linchao Zhu, Yi Yang<br>
-CVPR, 2020
+CVPR(Oral), 2020
 
 _Label-Isolated Memory for Long-Tailed Visual Recognition._<br>
 Linchao Zhu, Yi Yang<br>
