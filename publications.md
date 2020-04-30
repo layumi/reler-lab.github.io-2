@@ -17,11 +17,11 @@ Journals: [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 ### 2020
 _Unsupervised Scene Adaptation with Memory Regularization in vivo_<br>
 Zhedong Zheng, Yi Yang<br>
-IJCAI, 2020 [[Code]](https://github.com/layumi/Seg_Uncertainty)
+IJCAI, 2020 ([URL](https://arxiv.org/abs/1912.11164)) [[Code]](https://github.com/layumi/Seg_Uncertainty)
 
 _Real-World Automatic Makeup via Identity Preservation Makeup Net_<br>
 Zhikun Huang, Zhedong Zheng, Chenggang Yan, Hongtao Xie, Yaoqi Sun, Jianzhong Wang, Jiyong Zhang <br>
-IJCAI, 2020
+IJCAI, 2020 ([URL](https://github.com/huangzhikun1995/IPM-Net/blob/master/Real_World_Automatic_Makeup_via_Identity_Preservation_Makeup_Net.pdf)) [[Code]](https://github.com/huangzhikun1995/IPM-Net)
 
 _ActBERT: Learning Global-Local Video-Text Representations._<br> 
 Linchao Zhu, Yi Yang<br>
