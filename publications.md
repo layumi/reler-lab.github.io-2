@@ -438,6 +438,11 @@ IJCAI, 2016
 
 ## Journals
 ### 20
+_Unsupervised Eyeglasses Removal in the Wild_<br>
+Bingwen Hu, Zhedong Zheng, Ping Liu, Wankou Yang, Mingwu Ren<br>
+IEEE Transactions on Cybernetics, 2020. ([URL](https://arxiv.org/abs/1909.06989))
+
+
 _Dual-Path Convolutional Image-Text Embedding_<br>
 Zhedong Zheng, Liang Zheng, Michael Garrett, Yi Yang, Yi-Dong Shen <br>
 ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2020.
