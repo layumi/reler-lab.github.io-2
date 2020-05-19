@@ -25,7 +25,7 @@ permalink: /people/
 <h3>Graduate Students</h3>
  {% elsif item == 'visiting' %}
 <h3>Visiting Students</h3>
- --stay for more than 12 months 
+ --who stayed for more than 12 months 
  {% elsif item == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
