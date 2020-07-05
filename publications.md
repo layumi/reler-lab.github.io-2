@@ -15,6 +15,39 @@ Journals: [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 
 ## Conferences
 ### 2020
+
+_SF-Net: Single-Frame Supervision for Temporal Action Localization_<br>
+Fan Ma, Linchao Zhu, Yi Yang, Shengxin Zha, Gourab Kundu, Matt Feiszli, Zheng Shou<br>
+ECCV, 2020 (Spotlight)
+
+_Collaborative Video Object Segmentation by Foreground-Background Integration_<br>
+Zongxin Yang, Yunchao Wei, Yi Yang<br>
+ECCV, 2020 (Spotlight)
+
+_Learning to Transfer Learn: Reinforcement Learning-Based Selection for Adaptive Transfer Learning_<br>
+Linchao Zhu, Sercan O. Arık, Yi Yang, Tomas Pfister<br>
+ECCV, 2020
+
+_Describing Unseen Videos via Multi-Modal Cooperative Dialog Agents_<br>
+Ye Zhu, Yu Wu, Yan Yan, Yi Yang<br>
+ECCV, 2020
+
+_Inter-Image Communication for Weakly Supervised Localization_<br>
+Xiaolin Zhang, Yunchao Wei, Yi Yang<br>
+ECCV, 2020
+
+_Motion-Excited Sampler: Video Adversarial Attack with Sparked Prior_<br>
+Hu Zhang, Linchao Zhu, Yi Zhu, Yi Yang<br>
+ECCV, 2020
+
+_Content-Consistent Matching for Domain Adaptive Semantic Segmentation_<br>
+Guangrui Li, Guoliang Kang, Wu Liu, Yunchao Wei, Yi Yang<br>
+ECCV, 2020
+
+_Learning Object Relation Graph and Tentative Policy for Visual Navigation_<br>
+Heming Du, Xin Yu, Liang Zheng<br>
+ECCV, 2020
+
 _Unsupervised Scene Adaptation with Memory Regularization in vivo_<br>
 Zhedong Zheng, Yi Yang<br>
 IJCAI, 2020 ([URL](https://arxiv.org/abs/1912.11164)) [[Code]](https://github.com/layumi/Seg_Uncertainty)
