@@ -438,6 +438,16 @@ IJCAI, 2016
 
 ## Journals
 ### 20
+
+_Label Independent Memory for Semi-Supervised Few-shot Video Classification_<br>
+Linchao Zhu, Yi Yang<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
+
+_Hierarchical Temporal Modeling with Mutual Distance Matching for Video Based Person Re-Identification_<br>
+Peike Li , Pingbo Pan , Ping Liu , Mingliang Xu , Yi Yang<br>
+IEEE Transactions on Circuits and Systems for Video Technology, 2020
+ 
+
 _Unsupervised Eyeglasses Removal in the Wild_<br>
 Bingwen Hu, Zhedong Zheng, Ping Liu, Wankou Yang, Mingwu Ren<br>
 IEEE Transactions on Cybernetics, 2020. ([URL](https://arxiv.org/abs/1909.06989))
