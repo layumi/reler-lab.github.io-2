@@ -16,6 +16,17 @@ Journals: [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 ## Conferences
 ### 2020
 
+
+_Meta Parsing Networks: Towards Generalized Few-shot Scene Parsing with Adaptive Metric Learning_<br>
+Peike Li, Yunchao Wei, Yi Yang<br>
+ACM Multimedia, 2020
+
+
+
+_University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization_<br>
+Zhedong Zheng, Yunchao Wei, Yi Yang<br>
+ACM Multimedia, 2020
+
 _SF-Net: Single-Frame Supervision for Temporal Action Localization_<br>
 Fan Ma, Linchao Zhu, Yi Yang, Shengxin Zha, Gourab Kundu, Matt Feiszli, Zheng Shou<br>
 ECCV, 2020 (Spotlight)
