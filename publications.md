@@ -25,7 +25,12 @@ ACM Multimedia, 2020
 
 _University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization_<br>
 Zhedong Zheng, Yunchao Wei, Yi Yang<br>
-ACM Multimedia, 2020
+ACM Multimedia, 2020 [[Paper]](https://arxiv.org/abs/2002.12186) 
+[[Explore Drone-view Data]](https://github.com/layumi/University1652-Baseline/blob/master/docs/index_files/sample_drone.jpg?raw=true)
+[[Explore Satellite-view Data]](https://github.com/layumi/University1652-Baseline/blob/master/docs/index_files/sample_satellite.jpg?raw=true)
+[[Explore Street-view Data]](https://github.com/layumi/University1652-Baseline/blob/master/docs/index_files/sample_street.jpg?raw=true)
+[[Video Sample]](https://www.youtube.com/embed/dzxXPp8tVn4?vq=hd1080)
+[[Code]](https://github.com/layumi/University1652-Baseline)
 
 _SF-Net: Single-Frame Supervision for Temporal Action Localization_<br>
 Fan Ma, Linchao Zhu, Yi Yang, Shengxin Zha, Gourab Kundu, Matt Feiszli, Zheng Shou<br>
