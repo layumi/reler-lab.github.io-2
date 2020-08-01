@@ -487,6 +487,9 @@ IJCAI, 2016
 
 ## Journals
 ### 20
+_VehicleNet: Learning Robust Feature Representation for Vehicle Re-identification_<br>
+Zhedong Zheng, Tao Ruan, Yunchao Wei, Yi Yang, Mei Tao<br>
+IEEE Transactions on Multimedia, 2020. ([URL](https://arxiv.org/abs/2004.06305))[[Code](https://github.com/layumi/AICIty-reID-2020)]
 
 _Label Independent Memory for Semi-Supervised Few-shot Video Classification_<br>
 Linchao Zhu, Yi Yang<br>
