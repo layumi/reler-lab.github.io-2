@@ -494,6 +494,15 @@ IJCAI, 2016
 
 ## Journals
 ### 20
+
+_Symbiotic Attention for Egocentric Action Recognition with Object-centric Alignment_<br>
+Xiaohan Wang, Linchao Zhu, Yu Wu, Yi Yang<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
+
+_Recurrent Attention Network with Reinforced Generator for Visual Dialog_<br>
+Hehe Fan, Linchao Zhu, Yi Yang and Fei Wu<br>
+ACM Transactions on Multimedia Computing, Communications and Applications (ACM TOMM) 2020
+
 _VehicleNet: Learning Robust Feature Representation for Vehicle Re-identification_<br>
 Zhedong Zheng, Tao Ruan, Yunchao Wei, Yi Yang, Mei Tao<br>
 IEEE Transactions on Multimedia, 2020. ([URL](https://arxiv.org/abs/2004.06305))[[Code](https://github.com/layumi/AICIty-reID-2020)]
