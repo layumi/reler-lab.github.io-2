@@ -16,6 +16,13 @@ Journals: [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 ## Conferences
 ### 2020
 
+_6DoF Object Pose Estimation via Differentiable Proxy Voting Loss_<br>
+Xin Yu, Zheyu Zhuang, Piotr Koniusz, Hongdong Li<br>
+BMVC, 2020.
+
+_When Humans Meet Machines: Towards Efficient Segmentation Networks_<br>
+Peike Li, Xuanyi Dong, Xin Yu, Yi Yang<br>
+BMVC, 2020
 
 _Meta Parsing Networks: Towards Generalized Few-shot Scene Parsing with Adaptive Metric Learning_<br>
 Peike Li, Yunchao Wei, Yi Yang<br>
