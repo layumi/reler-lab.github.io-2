@@ -1,6 +1,6 @@
 ---
 name: Hehe Fan
-position: gradstudent
+position: alumni
 avatar: hehefan.jpg
 ---
 
@@ -11,5 +11,5 @@ avatar: hehefan.jpg
 
 <i class="fa fa-envelope-o"></i> `crane.h.fan@gmail.com`
 
-[Hehe Fan](https://hehefan.github.io/) is currently a third-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+[Hehe Fan](https://hehefan.github.io/) was Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
 
