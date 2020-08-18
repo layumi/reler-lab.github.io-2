@@ -494,6 +494,9 @@ IJCAI, 2016
 
 ## Journals
 ### 20
+_Tasks Integrated Networks: Joint Detection and Retrieval for Image Search_<br>
+Lei Zhang, Zhenwei He, Yi Yang, Liang Wang, and Xinbo Gao<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
 
 _Symbiotic Attention for Egocentric Action Recognition with Object-centric Alignment_<br>
 Xiaohan Wang, Linchao Zhu, Yu Wu, Yi Yang<br>
