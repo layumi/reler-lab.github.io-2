@@ -494,6 +494,12 @@ IJCAI, 2016
 
 ## Journals
 ### 20
+
+
+_Label Independent Memory for Semi-Supervised Few-shot Video Classification_<br>
+Linchao Zhu, Yi Yang<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
+
 _Tasks Integrated Networks: Joint Detection and Retrieval for Image Search_<br>
 Lei Zhang, Zhenwei He, Yi Yang, Liang Wang, and Xinbo Gao<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
@@ -509,10 +515,6 @@ ACM Transactions on Multimedia Computing, Communications and Applications (ACM T
 _VehicleNet: Learning Robust Feature Representation for Vehicle Re-identification_<br>
 Zhedong Zheng, Tao Ruan, Yunchao Wei, Yi Yang, Mei Tao<br>
 IEEE Transactions on Multimedia, 2020. ([URL](https://arxiv.org/abs/2004.06305))[[Code](https://github.com/layumi/AICIty-reID-2020)]
-
-_Label Independent Memory for Semi-Supervised Few-shot Video Classification_<br>
-Linchao Zhu, Yi Yang<br>
-IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
 
 _Hierarchical Temporal Modeling with Mutual Distance Matching for Video Based Person Re-Identification_<br>
 Peike Li , Pingbo Pan , Ping Liu , Mingliang Xu , Yi Yang<br>
