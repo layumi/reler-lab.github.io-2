@@ -16,6 +16,22 @@ Journals: [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 ## Conferences
 ### 2020
 
+_Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation_<br>
+Guoliang Kang, Yunchao Wei, Yi Yang, Alex Hauptmann<br>
+Neural Information Processing Systems (NeurIPS), 2020 (oral)
+
+_Consistent Structural Relation Learning for Generalized Zero-Shot Segmentation_<br>
+Peike Li, Yunchao Wei, Yi Yang(<br>
+Neural Information Processing Systems (NeurIPS), 2020 (spotlight) 
+
+_Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation_<br>
+Yawei Luo, Ping Liu, Tao Guan, Junqing Yu, Yi Yang<br>
+Neural Information Processing Systems (NeurIPS), 2020
+
+_TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation_<br>
+Dongxu Li, Chenchen Xu, Xin Yu, Kaihao Zhang, Benjamin Swift, Hanna Suominen, Hongdong Li<br>
+Neural Information Processing Systems (NeurIPS), 2020
+
 _6DoF Object Pose Estimation via Differentiable Proxy Voting Loss_<br>
 Xin Yu, Zheyu Zhuang, Piotr Koniusz, Hongdong Li<br>
 BMVC, 2020.
