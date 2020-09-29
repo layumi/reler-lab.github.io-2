@@ -21,7 +21,7 @@ Guoliang Kang, Yunchao Wei, Yi Yang, Alex Hauptmann<br>
 Neural Information Processing Systems (NeurIPS), 2020 (oral)
 
 _Consistent Structural Relation Learning for Generalized Zero-Shot Segmentation_<br>
-Peike Li, Yunchao Wei, Yi Yang(<br>
+Peike Li, Yunchao Wei, Yi Yang<br>
 Neural Information Processing Systems (NeurIPS), 2020 (spotlight) 
 
 _Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation_<br>
