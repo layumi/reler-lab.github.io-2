@@ -510,7 +510,9 @@ IJCAI, 2016
 
 ## Journals
 ### 20
-
+_Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation_<br>
+Zhedong Zheng, Yi Yang<br>
+International Journal of Computer Vision (IJCV), 2020 ([URL](https://arxiv.org/abs/2003.03773))[[Code](https://github.com/layumi/Seg-Uncertainty)][[中文介绍](https://zhuanlan.zhihu.com/p/130220572)]
 
 _Label Independent Memory for Semi-Supervised Few-shot Video Classification_<br>
 Linchao Zhu, Yi Yang<br>
