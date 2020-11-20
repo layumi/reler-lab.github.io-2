@@ -1,6 +1,6 @@
 ---
 name: Aming Wu
-position: visiting
+position: alumni
 avatar: aming_wu.jpg
 ---
 
@@ -11,4 +11,4 @@ avatar: aming_wu.jpg
 
 <i class="fa fa-envelope-o"></i> `tjwam@tju.edu.cn`
 
-Aming Wu is currently a visiting student at University of Technology Sydney from Tianjin University.
+Aming Wu was a visiting student at University of Technology Sydney from Tianjin University.
