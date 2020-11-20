@@ -1,6 +1,6 @@
 ---
 name: Tingyu Wang
-position: visiting
+position: alumni
 avatar: tingyu_wang.jpeg
 ---
 
@@ -11,4 +11,4 @@ avatar: tingyu_wang.jpeg
 
 <i class="fa fa-envelope-o"></i> `wongtyu@foxmail.com`
 
-Tingyu Wang is currently a visiting student at University of Technology Sydney from Hangzhou Dianzi University.
+Tingyu Wang was a visiting student at University of Technology Sydney from Hangzhou Dianzi University.
