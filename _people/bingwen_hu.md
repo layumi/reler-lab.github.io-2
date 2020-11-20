@@ -11,4 +11,4 @@ avatar: bingwen_hu.JPG
 
 <i class="fa fa-envelope-o"></i> `hubw.sky@gmail.com`
 
-Bingwen Hu is a visiting student at UTS.
+Bingwen Hu was a visiting student at UTS.
