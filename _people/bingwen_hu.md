@@ -1,6 +1,6 @@
 ---
 name: Bingwen Hu
-position: visiting
+position: alumni
 avatar: bingwen_hu.JPG
 ---
 
