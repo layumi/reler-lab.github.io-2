@@ -24,7 +24,7 @@ knowledge extraction, relation mapping, structural graph reasoning.
 
 Our ReLER Lab actively
 collaborates with the industry partners to build effective systems and make impacts in real-
-world.
+world. We also present our works and share insights at [[Zhihu]](https://www.zhihu.com/column/reler-lab) in Chinese.
 
 
 ### **Lab News**
