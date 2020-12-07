@@ -1,6 +1,6 @@
 ---
 name: Pingbo Pan
-position: gradstudent
+position: alumni
 avatar: ppb.jpg
 ---
 
