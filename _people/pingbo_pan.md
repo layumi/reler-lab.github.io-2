@@ -11,4 +11,4 @@ avatar: ppb.jpg
 
 <i class="fa fa-envelope-o"></i> `lighnt001@gmail.com`
 
-Pingbo Pan is currently a third-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Pingbo Pan was a Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
