@@ -14,6 +14,20 @@ Journals: [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 <hr>
 
 ## Conferences
+
+### 2021
+_Modeling the Probabilistic Distribution of Unlabeled Data for One-shot Medical Image Segmentation_<br>
+Yuhang Ding, Xin Yu, Yi Yang<br>
+AAAI, 2021
+
+_Decoupled and Memory-Reinforced Networks: Towards Effective Feature Learning for One-Step Person Search_<br>
+Chuchu Han, Zhedong Zheng, Changxin Gao, Nong Sang, Yi Yang<br>
+AAAI, 2021
+
+_Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation_<br>
+Lincheng Li, Suzhen Wang, Zhimeng Zhang, Yu Ding, Yixing Zheng, Xin Yu, Changjie Fan<br>
+AAAI, 2021
+
 ### 2020
 
 _Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation_<br>
@@ -43,7 +57,6 @@ BMVC, 2020
 _Meta Parsing Networks: Towards Generalized Few-shot Scene Parsing with Adaptive Metric Learning_<br>
 Peike Li, Yunchao Wei, Yi Yang<br>
 ACM Multimedia, 2020
-
 
 
 _University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization_<br>
