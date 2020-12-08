@@ -1,6 +1,6 @@
 ---
 name: Chuchu Han
-position: visiting
+position: Alumni
 avatar: chuchu_han.jpg
 ---
 
@@ -11,4 +11,4 @@ avatar: chuchu_han.jpg
 
 <i class="fa fa-envelope-o"></i> `hcc@hust.edu.cn`
 
-Chuchu Han is currently a visiting student at University of Technology Sydney from Huazhong University of Science & Technology.
+Chuchu Han was a visiting student at University of Technology Sydney from Huazhong University of Science & Technology.
