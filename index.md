@@ -49,5 +49,5 @@ Level 10, Building 11,
 [81 Broadway, UTS](https://www.google.com/maps/place/UTS+Faculty+of+Engineering+and+IT/@-33.8840299,151.199234,15z/data=!4m5!3m4!1s0x0:0x5aa7383337c73213!8m2!3d-33.8840299!4d151.199234),
 Ultimo, Sydney
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R6kkJJHFXSfn-rkx6x5IRy0LT3iCdn0ZZmgCGudK2RA&cl=ffffff&w=a"></script>
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=R6kkJJHFXSfn-rkx6x5IRy0LT3iCdn0ZZmgCGudK2RA"></script>
