@@ -50,4 +50,4 @@ Level 10, Building 11,
 Ultimo, Sydney
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=R6kkJJHFXSfn-rkx6x5IRy0LT3iCdn0ZZmgCGudK2RA"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=R6kkJJHFXSfn-rkx6x5IRy0LT3iCdn0ZZmgCGudK2RA" style="width: 600px;"></script>
