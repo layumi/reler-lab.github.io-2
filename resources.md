@@ -33,3 +33,9 @@ We provide our generated images and make a large-scale synthetic dataset called 
 |---|--------------|-------------|
 | #identity| 	-   |  751        |
 | #images| 128,307 |  12,936     |
+
+### 3. Awesome Lists
+- [Awesome Segmentation Domain Adaptation](https://github.com/layumi/Seg-Uncertainty/tree/master/awesome-SegDA)
+- [Awesome Vehicle Retrieval](https://github.com/layumi/Vehicle_reID-Collection)
+- [Awesome AutoDL](https://github.com/D-X-Y/Awesome-AutoDL)
+- [Awesome Fools](https://github.com/layumi/Awesome-Fools)
