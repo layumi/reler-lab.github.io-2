@@ -28,6 +28,10 @@ _Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation_<br>
 Lincheng Li, Suzhen Wang, Zhimeng Zhang, Yu Ding, Yixing Zheng, Xin Yu, Changjie Fan<br>
 AAAI, 2021
 
+_Auto-Navigator: Decoupled Neural Architecture Search for Visual Navigation_<br>
+Tianqi Tang, Xin Yu, Xuanyi Dong, Yi Yang<br>
+WACV, 2021
+
 ### 2020
 
 _Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation_<br>
