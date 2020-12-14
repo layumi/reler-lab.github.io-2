@@ -1,6 +1,6 @@
 ---
 name: Chuchu Han
-position: Alumni
+position: alumni
 avatar: chuchu_han.jpg
 ---
 
