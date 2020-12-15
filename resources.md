@@ -42,3 +42,4 @@ We provide our generated images and make a large-scale synthetic dataset called 
 - [Awesome Vehicle Retrieval](https://github.com/layumi/Vehicle_reID-Collection)
 - [Awesome AutoDL](https://github.com/D-X-Y/Awesome-AutoDL)
 - [Awesome Fools](https://github.com/layumi/Awesome-Fools)
+- [Awesome Geo-localization](https://github.com/layumi/University1652-Baseline/tree/master/State-of-the-art)
