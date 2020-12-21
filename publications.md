@@ -547,7 +547,7 @@ _Recurrent Attention Network with Reinforced Generator for Visual Dialog_<br>
 Hehe Fan, Linchao Zhu, Yi Yang and Fei Wu<br>
 ACM Transactions on Multimedia Computing, Communications and Applications (ACM TOMM) 2020
 
-_VehicleNet: Learning Robust Feature Representation for Vehicle Re-identification_<br>
+_VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification_<br>
 Zhedong Zheng, Tao Ruan, Yunchao Wei, Yi Yang, Mei Tao<br>
 IEEE Transactions on Multimedia, 2020. ([URL](https://arxiv.org/abs/2004.06305))[[Code](https://github.com/layumi/AICIty-reID-2020)]
 
