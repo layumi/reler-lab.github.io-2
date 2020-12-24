@@ -9,7 +9,7 @@ This is the full publication list of ReLER since 2016.
 
 Conferences:  [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
 
-Journals: [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
+Journals: [2021](#21)， [2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 
 <hr>
 
@@ -526,6 +526,12 @@ IJCAI, 2016
 
 
 ## Journals
+
+### 21
+_Self-Correction for Human Parsing_<br>
+Peike Li , Yunqiu Xu , Yunchao Wei , Yi Yang<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
+
 ### 20
 _Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation_<br>
 Zhedong Zheng, Yi Yang<br>
