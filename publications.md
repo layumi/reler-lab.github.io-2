@@ -533,6 +533,10 @@ Peike Li , Yunqiu Xu , Yunchao Wei , Yi Yang<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
 
 ### 20
+_Learning to Anticipate Egocentric Actions by Imagination_<br>
+Yu Wu, Linchao Zhu, Xiaohan Wang, Yi Yang, Fei Wu<br>
+IEEE Transactions on Image Processing, 2020
+
 _Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation_<br>
 Zhedong Zheng, Yi Yang<br>
 International Journal of Computer Vision (IJCV), 2020 ([URL](https://arxiv.org/abs/2003.03773))[[Code](https://github.com/layumi/Seg-Uncertainty)][[中文介绍](https://zhuanlan.zhihu.com/p/130220572)]
