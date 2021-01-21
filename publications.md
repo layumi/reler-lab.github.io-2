@@ -16,6 +16,15 @@ Journals: [2021](#21)， [2020](#20), [2019](#19), [2018](#18), [2017](#17), [20
 ## Conferences
 
 ### 2021
+
+_PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences_<br>
+Hehe Fan, Xin Yu, Yuhang Ding, Yi Yang, Mohan Kankanhalli<br>
+ICLR, 2021
+
+_VTNet: Visual Transformer Network for Object Goal Navigation_<br>
+Heming Du, Xin Yu, Liang Zheng<br>
+ICLR, 2021
+
 _Modeling the Probabilistic Distribution of Unlabeled Data for One-shot Medical Image Segmentation_<br>
 Yuhang Ding, Xin Yu, Yi Yang<br>
 AAAI, 2021
