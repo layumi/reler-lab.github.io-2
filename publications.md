@@ -537,6 +537,15 @@ IJCAI, 2016
 ## Journals
 
 ### 21
+
+_Holistic LSTM for Pedestrian Trajectory Prediction_<br>
+Ruijie Quan, Linchao Zhu, Yu Wu, Yi Yang<br>
+IEEE Transactions on Image Processing, 2021
+
+_Sketch-Guided Scenery Image Outpainting_<br>
+Yaxiong Wang, Yunchao Wei, Xueming Qian, Li Zhu, Yi Yang<br>
+IEEE Transactions on Image Processing, 2021
+
 _Self-Correction for Human Parsing_<br>
 Peike Li , Yunqiu Xu , Yunchao Wei , Yi Yang<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
