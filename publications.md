@@ -538,6 +538,10 @@ IJCAI, 2016
 
 ### 21
 
+_Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement_<br>
+Aming Wu, Yahong Han, Linchao Zhu, Yi Yang<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
+
 _Holistic LSTM for Pedestrian Trajectory Prediction_<br>
 Ruijie Quan, Linchao Zhu, Yu Wu, Yi Yang<br>
 IEEE Transactions on Image Processing, 2021
