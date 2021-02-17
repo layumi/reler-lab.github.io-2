@@ -562,6 +562,10 @@ _Sketch-Guided Scenery Image Outpainting_<br>
 Yaxiong Wang, Yunchao Wei, Xueming Qian, Li Zhu, Yi Yang<br>
 IEEE Transactions on Image Processing, 2021
 
+_Discriminative Feature Learning for Thorax Disease Classification in Chest X-ray Images_<br>
+Qingji Guan, Yaping Huang, Yawei Luo, Ping Liu, Mingliang Xu, Yi Yang<br>
+IEEE Transactions on Image Processing, 2021
+
 _Self-Correction for Human Parsing_<br>
 Peike Li , Yunqiu Xu , Yunchao Wei , Yi Yang<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
