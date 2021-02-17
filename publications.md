@@ -538,6 +538,18 @@ IJCAI, 2016
 
 ### 21
 
+_Pyramidal Multiple Instance Detection Network with Mask Guided Self-correction for Weakly Supervised Object Detection_<br>
+Yunqiu Xu, Chunluan Zhou, Xin Yu, Bin Xiao, Yi Yang<br>
+IEEE Transactions on Image Processing, 2021
+
+_Understanding Atomic Hand-Object Interaction with Human Intention_<br>
+Hehe Fan, Tao Zhuo, Xin Yu, Yi Yang, Mohan Kankanhalli<br>
+IEEE Transactions on Circuits and Systems for Video Technology, 2021
+
+_Temporal Cross-Layer Correlation Mining for Action Recognition_<br>
+Linchao Zhu, Hehe Fan, Yawei Luo, Mingliang Xu, Yi Yang<br>
+IEEE Transactions on Multimedia, 2021
+
 _Instance-Invariant Domain Adaptive Object Detection via Progressive Disentanglement_<br>
 Aming Wu, Yahong Han, Linchao Zhu, Yi Yang<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
