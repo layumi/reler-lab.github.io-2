@@ -537,6 +537,9 @@ IJCAI, 2016
 ## Journals
 
 ### 21
+_Each Part Matters: Local Patterns Facilitate Cross-view Geo-localization_<br>
+Tingyu Wang, Zhedong Zheng, Chenggang Yan, Yi Yang<br>
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2021 ([URL](https://arxiv.org/abs/2008.11646))
 
 _Pyramidal Multiple Instance Detection Network with Mask Guided Self-correction for Weakly Supervised Object Detection_<br>
 Yunqiu Xu, Chunluan Zhou, Xin Yu, Bin Xiao, Yi Yang<br>
