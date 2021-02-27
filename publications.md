@@ -629,7 +629,7 @@ IEEE Transactions on Cybernetics, 2019
 
 _Pedestrian alignment network for large-scale person re-identification_<br>
 Zhedong Zheng, Liang Zheng, Yi Yang<br>
-TCSVT, 2019 ([URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8481710)) [[Code]](https://github.com/layumi/Pedestrian_Alignment)
+TCSVT, 2019 ([URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8481710)) [[Code]](https://github.com/layumi/Pedestrian_Alignment) [[Video]](https://www.youtube.com/watch?v=OJR43TzS3a8)
 
 _Improving person re-identification by attribute and identity learning_<br>
 Lin, Y., Zheng, L., Zheng, Z., Wu, Y., Hu, Z., Yan, C., Yang, Y.<br>
