@@ -1,7 +1,7 @@
 ---
 name: Yunqiu Xu
 position: gradstudent
-avatar: yunqiuxu.png
+avatar: yunqiuxu.jpg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
