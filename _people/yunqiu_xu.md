@@ -1,7 +1,7 @@
 ---
-name: Yunqiu Xu
+name: Yanda Li
 position: gradstudent
-avatar: yunqiuxu.png
+avatar: yandali.png
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -9,6 +9,6 @@ avatar: yunqiuxu.png
 - _PhD, University of Technology Sydney_<br>
 <!--- _Science coach. Collaborator. Transdisciplinary optimist._-->
 
-<i class="fa fa-envelope-o"></i> `imyunqiuxu@gmail.com`
+<i class="fa fa-envelope-o"></i> `liyanda95@gmail.com`
 
-Yunqiu Xu is currently a first-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Yanda Li is currently a first-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
