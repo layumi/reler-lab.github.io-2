@@ -1,6 +1,6 @@
 ---
 name: Yanbin Liu
-position: gradstudent
+position: alumni
 avatar: YanbinLiu.jpg
 ---
 
@@ -11,4 +11,4 @@ avatar: YanbinLiu.jpg
 
 <i class="fa fa-envelope-o"></i> `csyanbin@gmail.com`
 
-[Yanbin Liu](https://csyanbin.github.io/) is a second-year Ph.D candidate at University of Technology Sydney (UTS), under the supervision of Prof. Yi Yang. He received his B.E and M.S from Tianjin University, under the supervision of Prof. Yahong Han and Prof. Jianmin Jiang. His research interests include machine learning and deep learning (especially meta-learning and few-shot learning).
+[Yanbin Liu](https://csyanbin.github.io/) was a Ph.D student at University of Technology Sydney (UTS), under the supervision of Prof. Yi Yang. He received his B.E and M.S from Tianjin University, under the supervision of Prof. Yahong Han and Prof. Jianmin Jiang. His research interests include machine learning and deep learning (especially meta-learning and few-shot learning).
