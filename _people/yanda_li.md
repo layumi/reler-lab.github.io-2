@@ -1,7 +1,7 @@
 ---
 name: Yanda Li
 position: gradstudent
-avatar: yandali.png
+avatar: yandali.jpeg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
