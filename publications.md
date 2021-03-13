@@ -542,6 +542,10 @@ _Category-Level Adversarial Adaptation for Semantic Segmentation using Purified 
 Yawei Luo, Ping Liu, Liang Zheng, Tao Guan, Junqing Yu, Yi Yang<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
 
+_Recursive Copy and Paste GAN: Face Hallucination from Shaded Thumbnails_<br>
+Yang Zhang, Ivor W. Tsang, Yawei Luo, Changhui Hu, Xiaobo Lu, Xin Yu<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
+
 _Each Part Matters: Local Patterns Facilitate Cross-view Geo-localization_<br>
 Tingyu Wang, Zhedong Zheng, Chenggang Yan, Yi Yang<br>
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2021 ([URL](https://arxiv.org/abs/2008.11646))
