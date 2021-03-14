@@ -542,6 +542,10 @@ _Category-Level Adversarial Adaptation for Semantic Segmentation using Purified 
 Yawei Luo, Ping Liu, Liang Zheng, Tao Guan, Junqing Yu, Yi Yang<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
 
+_AlignSeg: Feature-Aligned Segmentation Networks_<br>
+Zilong Huang, Yunchao Wei, Xinggang Wang, Honghui Shi, Wenyu Liu, Thomas S. Huang<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
+
 _Recursive Copy and Paste GAN: Face Hallucination from Shaded Thumbnails_<br>
 Yang Zhang, Ivor W. Tsang, Yawei Luo, Changhui Hu, Xiaobo Lu, Xin Yu<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
