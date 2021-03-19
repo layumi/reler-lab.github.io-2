@@ -550,6 +550,14 @@ _Recursive Copy and Paste GAN: Face Hallucination from Shaded Thumbnails_<br>
 Yang Zhang, Ivor W. Tsang, Yawei Luo, Changhui Hu, Xiaobo Lu, Xin Yu<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
 
+_Unsupervised Visual Representation Learning via Dual-Level Progressive Similar Instance Selection_<br>
+Hehe Fan, Ping Liu, Mingliang Xu, Yi Yang<br>
+IEEE Transactions on Cybernetics， 2021
+
+_Identifying Visible Parts via Pose Estimation for Occluded Person Re-Identification_<br>
+Jiaxu Miao, Yu Wu, Yi Yang<br>
+IEEE Transactions on Neural Networks and Learning Systems， 2021
+
 _Each Part Matters: Local Patterns Facilitate Cross-view Geo-localization_<br>
 Tingyu Wang, Zhedong Zheng, Chenggang Yan, Yi Yang<br>
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2021 ([URL](https://arxiv.org/abs/2008.11646))
