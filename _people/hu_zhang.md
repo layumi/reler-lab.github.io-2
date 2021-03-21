@@ -11,4 +11,4 @@ avatar: hu_zhang.jpg
 
 <i class="fa fa-envelope-o"></i> `xiaofanustc@gmail.com`
 
-Hu Zhang is currently a first-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Hu Zhang is currently a third-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
