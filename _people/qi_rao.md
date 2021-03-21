@@ -11,4 +11,4 @@ avatar: qi_rao.jpg
 
 <i class="fa fa-envelope-o"></i> `raoqi1219@gmail.com`
 
-Qi Rao is currently a first-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Qi Rao is currently a second-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
