@@ -11,4 +11,4 @@ avatar: wxh_pic.jpeg
 
 <i class="fa fa-envelope-o"></i> `wxh1996111@gmail.com`
 
-Xiaohan Wang is currently a first-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Xiaohan Wang is currently a third-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
