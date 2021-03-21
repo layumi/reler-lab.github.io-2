@@ -1,7 +1,7 @@
 ---
 name: Jinliang Liu 
 position: gradstudent
-avatar: jinliang_liu.jpg
+avatar: jinliang_liu.jpeg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
