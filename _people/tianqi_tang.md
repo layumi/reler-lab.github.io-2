@@ -11,4 +11,4 @@ avatar: tianqi_tang.jpg
 
 <i class="fa fa-envelope-o"></i> `tangtianqi09@gmail.com`
 
-Tianqi Tang is currently a first-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Tianqi Tang is currently a second-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
