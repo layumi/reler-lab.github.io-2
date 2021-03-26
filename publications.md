@@ -17,6 +17,59 @@ Journals: [2021](#21)，[2020](#20), [2019](#19), [2018](#18), [2017](#17), [201
 
 ### 2021
 
+_Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos_<br>
+Hehe Fan, Yi Yang and Mohan Kankanhalli<br>
+CVPR, 2021
+
+_Faster Meta Update Strategy for Noise-Robust Deep Learning_<br>
+Youjiang Xu,  Linchao Zhu, Lu Jiang, Yi Yang<br>
+CVPR, 2021
+
+_Exploring Heterogeneous Clues for Weakly-Supervised Audio-Visual Video Parsing_<br>
+Yu Wu, Yi Yang<br>
+CVPR, 2021
+
+_DSC-PoseNet: Learning 6DoF Object Pose Estimation via Dual-scale Consistency_<br>
+Zongxin Yang, Xin Yu, Yi Yang<br>
+CVPR, 2021
+
+_T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval_<br>
+Xiaohan Wang, Linchao Zhu, Yi Yang<br>
+CVPR, 2021
+
+_Removing Raindrops and Rain Streaks in One Go_<br>
+Ruijie Quan，Xin Yu，Yuanzhi Liang，Yi Yang<br>
+CVPR, 2021
+
+_Domain Consensus Clustering for Universal Domain Adaptation_<br>
+Guangrui Li, Guoliang Kang, Yi Zhu, Yunchao Wei, Yi Yang<br>
+CVPR, 2021
+
+
+_VSPW: A Large-scale Dataset for Video Scene Parsing in the Wild_<br>
+Jiaxu Miao, Yunchao Wei, Yu Wu, Chen Liang, Guangrui Li, Yi Yang<br>
+CVPR, 2021
+
+_OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in an Open World_<br>
+Zhun Zhong, Linchao Zhu, Zhiming Luo, Shaozi Li, Yi Yang, Nicu Sebe<br>
+CVPR, 2021
+
+_DOTS: Decoupling Operation and Topology in Differentiable Architecture Search_<br>
+Yu-Chao Gu, Li-Juan Wang, Yun Liu, Yi Yang, Yu-Huan Wu, Shao-Ping Lu, Ming-Ming Cheng<br>
+CVPR, 2021
+
+_Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing_<br>
+Tianfei Zhou, Wenguan Wang, Si Liu,  Yi Yang, Luc Van Gool<br>
+CVPR, 2021
+
+_Self-Supervised Visibility Learning for NovelView Synthesis_<br>
+Yujiao Shi, Hongdong Li,Xin Yu<br>
+CVPR, 2021
+
+_ARVo: Learning All-Range Volumetric Correspondencefor Video Deblurring_<br>
+Dongxu  Li,  Chenchen  Xu,  Kaihao  Zhang,Xin Yu,  Yiran  Zhong,  Wenqi  Ren, Hanna Suominen, Hongdong Li<br>
+CVPR, 2021
+
 _PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences_<br>
 Hehe Fan, Xin Yu, Yuhang Ding, Yi Yang, Mohan Kankanhalli<br>
 ICLR, 2021
