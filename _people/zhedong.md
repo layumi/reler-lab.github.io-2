@@ -16,11 +16,11 @@ avatar: zhedong_zheng.png
 
 Contact Me:
 
-✉ Email: zhedong.zheng@student.uts.edu.au
+✉ Email: zhedong.zheng AT student.uts.edu.au
 
-✧ Website: http://zdzheng.xyz
+✧ Website: [http://zdzheng.xyz](http://zdzheng.xyz/)
 
-✧ Linkedin: https://www.linkedin.com/in/zhedongzheng/
+✧ Linkedin: [https://www.linkedin.com/in/zhedongzheng/](https://www.linkedin.com/in/zhedongzheng/)
 
-✧ Google Scholar: https://scholar.google.com/citations?hl=en&user=XT17oUEAAAAJ 
+✧ Google Scholar: [https://scholar.google.com/citations?hl=en&user=XT17oUEAAAAJ](https://scholar.google.com/citations?hl=en&user=XT17oUEAAAAJ) 
 
