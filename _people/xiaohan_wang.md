@@ -1,6 +1,6 @@
 ---
 name: Xiaohan Wang
-position: gradstudent
+position: alumni
 avatar: wxh_pic.jpeg
 ---
 
