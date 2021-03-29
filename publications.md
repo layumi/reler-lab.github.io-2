@@ -591,6 +591,10 @@ IJCAI, 2016
 
 ### 21
 
+_Progressive Transfer Learning for Face Anti-Spoofing_<br>
+Ruijie Quan, Yu Wu, Xin Yu, Yi Yang<br>
+IEEE Transactions on Image Processing, 2021
+
 _Category-Level Adversarial Adaptation for Semantic Segmentation using Purified Features_<br>
 Yawei Luo, Ping Liu, Liang Zheng, Tao Guan, Junqing Yu, Yi Yang<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
