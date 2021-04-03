@@ -1,6 +1,6 @@
 ---
 name: Yaxiong Wang
-position: visiting
+position: alumni
 avatar: yaxiong_wang.jpg
 ---
 
@@ -11,4 +11,4 @@ avatar: yaxiong_wang.jpg
 
 <i class="fa fa-envelope-o"></i> `wangyx15@stu.xjtu.edu.cn`
 
-Yaxiong Wang is a visiting student at UTS.
+Yaxiong Wang was a visiting student at UTS.
