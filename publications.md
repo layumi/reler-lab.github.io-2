@@ -591,6 +591,10 @@ IJCAI, 2016
 
 ### 21
 
+_Few-Shot Common-Object Reasoning using Common-Centric Localization Network_<br>
+Linchao Zhu, Hehe Fan, Yawei Luo, Mingliang Xu, Yi Yang<br>
+IEEE Transactions on Image Processing, 2021
+
 _Progressive Transfer Learning for Face Anti-Spoofing_<br>
 Ruijie Quan, Yu Wu, Xin Yu, Yi Yang<br>
 IEEE Transactions on Image Processing, 2021
