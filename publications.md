@@ -591,6 +591,11 @@ IJCAI, 2016
 
 ### 21
 
+_Art-up: A novel method for generating scanning-robust aesthetic qr codes
+Authors_<br>
+Mingliang Xu, Qingfeng Li, Jianwei Niu, Hao Su, Xiting Liu, Weiwei Xu, Pei Lv, Bing Zhou, Yi Yang<br>
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2021
+
 _Few-Shot Common-Object Reasoning using Common-Centric Localization Network_<br>
 Linchao Zhu, Hehe Fan, Yawei Luo, Mingliang Xu, Yi Yang<br>
 IEEE Transactions on Image Processing, 2021
@@ -656,6 +661,9 @@ Peike Li , Yunqiu Xu , Yunchao Wei , Yi Yang<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
 
 ### 20
+
+
+
 _Learning to Anticipate Egocentric Actions by Imagination_<br>
 Yu Wu, Linchao Zhu, Xiaohan Wang, Yi Yang, Fei Wu<br>
 IEEE Transactions on Image Processing, 2020
