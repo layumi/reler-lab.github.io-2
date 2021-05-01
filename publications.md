@@ -417,7 +417,7 @@ Xiaolin Zhang,Yunchao Wei, Guoliang Kang, Yi Yang, Thomas Huang<br>
 ECCV, 2018 ([URL](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaolin_Zhang_Self-produced_Guidance_for_ECCV_2018_paper.pdf))
 
 _Macro-Micro Adversarial Network for Human Parsing_<br>
-Luo, Y., Zheng, Z., Zheng, L., Tao, G., Junqing, Y. and Yang, Y.<br>
+Yawei Luo, Zhedong Zheng, Liang Zheng, Tao Guan, Junqing Yu, Yi Yang<br>
 ECCV, 2018
 
 _Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline)_<br>
@@ -722,7 +722,7 @@ Zhedong Zheng, Liang Zheng, Yi Yang<br>
 TCSVT, 2019 ([URL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8481710)) [[Code]](https://github.com/layumi/Pedestrian_Alignment) [[Video]](https://www.youtube.com/watch?v=OJR43TzS3a8)
 
 _Improving person re-identification by attribute and identity learning_<br>
-Lin, Y., Zheng, L., Zheng, Z., Wu, Y., Hu, Z., Yan, C., Yang, Y.<br>
+Yutian Lin, Liang Zheng, Zhedong Zheng, Yu Wu, Zhilan Hu, Chenggang Yan, Yi Yang<br>
 Pattern Recognition, 2019
 
 _Modality-Invariant Image-Text Embedding for Image-Sentence Matching_<br>
@@ -847,6 +847,10 @@ ACM Transcations on Multimedia Computing, Communications, and Applications, 2018
 _Personalized Video Recommendation Using Rich Contents from Videos_<br>
 Du, X., Yin, H., Chen, L., Wang, Y., Yang, Y. and Zhou, X.<br>
 IEEE Transcations on Knowledge and Data Engineering, 2018
+
+_Bayesian query expansion for multi-camera person re-identification_<br>
+Yutian Lin, Zhedong Zheng, Hong Zhang, Chenqiang Gao, Yi Yang<br>
+Pattern Recognition Letters, 2018
 
 ### 17
 _Bag-of-Discriminative-Words (BoDW) Representation via Topic Modeling_<br>
