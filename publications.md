@@ -591,6 +591,10 @@ IJCAI, 2016
 
 ### 21
 
+_Collaborative Video Object Segmentation by Multi-Scale Foreground-Background Integration_<br>
+Zongxin Yang, Yunchao Wei, Yi Yang<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
+
 _Art-up: A novel method for generating scanning-robust aesthetic qr codes
 Authors_<br>
 Mingliang Xu, Qingfeng Li, Jianwei Niu, Hao Su, Xiting Liu, Weiwei Xu, Pei Lv, Bing Zhou, Yi Yang<br>
