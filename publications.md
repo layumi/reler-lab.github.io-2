@@ -595,6 +595,10 @@ _Collaborative Video Object Segmentation by Multi-Scale Foreground-Background In
 Zongxin Yang, Yunchao Wei, Yi Yang<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
 
+_DerainCycleGAN: Rain attentive CycleGAN for single image deraining and rainmaking_<br>
+Yanyan Wei, Zhao Zhang, Yang Wang, Mingliang Xu, Yi Yang, Shuicheng Yan, Meng Wang<br>
+IEEE Transactions on Image Processing, 2021
+
 _Art-up: A novel method for generating scanning-robust aesthetic qr codes
 Authors_<br>
 Mingliang Xu, Qingfeng Li, Jianwei Niu, Hao Su, Xiting Liu, Weiwei Xu, Pei Lv, Bing Zhou, Yi Yang<br>
