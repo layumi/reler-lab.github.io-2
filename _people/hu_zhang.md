@@ -1,7 +1,7 @@
 ---
 name: Hu Zhang
 position: gradstudent
-avatar: hu_zhang.jpg
+avatar: hu_zhang.jpeg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
