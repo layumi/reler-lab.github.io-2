@@ -1,7 +1,7 @@
 ---
 name: Kun Zhan
 position: alumni
-avatar: kzhan.jpg
+avatar: kunzhan.jpg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
