@@ -1,6 +1,6 @@
 ---
 name: Guang Li
-position: gradstudent
+position: alumni
 avatar: guang_li.jpg
 ---
 
@@ -11,4 +11,4 @@ avatar: guang_li.jpg
 
 <i class="fa fa-envelope-o"></i> `lguang@live.cn`
 
-Guang Li is currently a second-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Guang Li was a Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
