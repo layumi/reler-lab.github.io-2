@@ -1,6 +1,6 @@
 ---
 name: Qingji Guan
-position: gradstudent
+position: alumni
 avatar: Qingji_Guan.jpeg
 ---
 
@@ -11,5 +11,5 @@ avatar: Qingji_Guan.jpeg
 
 <i class="fa fa-envelope-o"></i> `qingjiguan@gmail.com`
 
-[Qingji Guan] is currently a fourth-year Ph.D. student at University of Technology Sydney, under the supervision of Prof. Yi Yang.
+[Qingji Guan] was Ph.D. student at University of Technology Sydney, under the supervision of Prof. Yi Yang.
 
