@@ -1,6 +1,6 @@
 ---
 name: Hao Wang
-position: visiting
+position: alumni
 avatar: hao_wang.jpg
 ---
 
@@ -11,4 +11,4 @@ avatar: hao_wang.jpg
 
 <i class="fa fa-envelope-o"></i> `haowang.xidian@gmail.com`
 
-Hao Wang is a visiting student at UTS.
+Hao Wang was a visiting student at UTS.
