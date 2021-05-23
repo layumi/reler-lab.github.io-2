@@ -11,4 +11,4 @@ avatar: QYFeng.jpeg
 
 <i class="fa fa-envelope-o"></i> `qianyufeng718@gmail.com`
 
-Qianyu Feng is currently a third-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Qianyu Feng is currently a third-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
