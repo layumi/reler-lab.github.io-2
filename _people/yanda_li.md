@@ -11,4 +11,4 @@ avatar: yandali.jpeg
 
 <i class="fa fa-envelope-o"></i> `liyanda95@gmail.com`
 
-Yanda Li is currently a first-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Dr. Yunchao Wei and Prof. Yi Yang.
+Yanda Li is currently a first-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Dr. Yunchao Wei and Prof. Yi Yang.
