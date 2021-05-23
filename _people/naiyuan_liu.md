@@ -11,4 +11,4 @@ avatar: naiyuanliu.jpeg
 
 <i class="fa fa-envelope-o"></i> `naiyuan.liu@student.uts.edu.au`
 
-Naiyuan Liu is currently a first-year master student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Naiyuan Liu is currently a first-year master student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
