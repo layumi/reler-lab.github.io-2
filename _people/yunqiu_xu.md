@@ -11,4 +11,4 @@ avatar: yunqiuxu.jpg
 
 <i class="fa fa-envelope-o"></i> `imyunqiuxu@gmail.com`
 
-Yunqiu Xu is currently a first-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Yunqiu Xu is currently a first-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
