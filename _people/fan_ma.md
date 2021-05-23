@@ -11,4 +11,4 @@ avatar: mafan.png
 
 <i class="fa fa-envelope-o"></i> `flowerfan524@gmail.com`
 
-Fan Ma is currently a thrid-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Fan Ma is currently a thrid-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
