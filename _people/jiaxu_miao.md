@@ -11,4 +11,4 @@ avatar: jiaxu_miao.jpeg
 
 <i class="fa fa-envelope-o"></i> `Jiaxu.Miao@student.uts.edu.au`
 
-Jiaxu Miao is currently a third-year Ph.D. student at Centre for Artificial Intelligence, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Jiaxu Miao is currently a third-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
