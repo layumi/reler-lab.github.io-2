@@ -34,7 +34,17 @@ We provide our generated images and make a large-scale synthetic dataset called 
 | #identity| 	-   |  751        |
 | #images| 128,307 |  12,936     |
 
-### 3. Awesome Lists
+### 3. VSPW: A large-scale dataset for video scene parsing in the wild 
+![1001623303486_ pic_hd](https://user-images.githubusercontent.com/12868455/121470723-f6d71180-ca01-11eb-93b5-3db9b6305307.jpg)
+[[Project Page]](https://www.vspwdataset.com)
+
+1. Large Scale: 251,632 pixel-level annotated frames from 124 categories, 3,536 videos from 231 scenarios (indoor and  outdoor). 
+2. Well-trimmed long-temporal clips: a complete shot lasting 5 seconds on average.
+3. Dense annotation: The pixel-level annotations are provided at 15 f/s. 
+4. High resolution. Over 96% videos are with high resolutions from 720P to 4K.
+
+
+### 4. Awesome Lists
 
 ![](https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667)
 
