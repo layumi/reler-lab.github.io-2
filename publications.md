@@ -590,6 +590,9 @@ IJCAI, 2016
 ## Journals
 
 ### 21
+_Training Robust Object Detectors from Noisy Category Labels and Imprecise Bounding Boxes_<br>
+Youjiang Xu, Linchao Zhu, Yi Yang, Fei Wu<br>
+IEEE Transactions on Image Processing, 2021
 
 _Collaborative Video Object Segmentation by Multi-Scale Foreground-Background Integration_<br>
 Zongxin Yang, Yunchao Wei, Yi Yang<br>
