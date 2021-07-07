@@ -590,6 +590,12 @@ IJCAI, 2016
 ## Journals
 
 ### 21
+
+
+_Saying the Unseen: Video Descriptions via Dialog Agents_<br>
+Ye Zhu, Yu Wu, Yi Yang, Yan Yan<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
+
 _Training Robust Object Detectors from Noisy Category Labels and Imprecise Bounding Boxes_<br>
 Youjiang Xu, Linchao Zhu, Yi Yang, Fei Wu<br>
 IEEE Transactions on Image Processing, 2021
