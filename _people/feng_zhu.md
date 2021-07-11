@@ -1,7 +1,7 @@
 ---
 name: Feng Zhu
 position: gradstudent
-avatar: feng_zhu.jpeg
+avatar: feng_zhu.jpg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
