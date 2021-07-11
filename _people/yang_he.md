@@ -1,6 +1,6 @@
 ---
 name: Yang He
-position: gradstudent
+position: alumni
 avatar: yanghe.jpg
 ---
 
@@ -11,4 +11,4 @@ avatar: yanghe.jpg
 
 <i class="fa fa-envelope-o"></i> `hyhy1992@gmail.com`
 
-[Yang He](https://he-y.github.io/) is currently a third-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+[Yang He](https://he-y.github.io/) was a Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
