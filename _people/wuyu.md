@@ -12,5 +12,5 @@ avatar: wuyu.jpg
 
 <i class="fa fa-envelope-o"></i> `Yu.Wu-3@student.uts.edu.au`
 
-[Yu Wu](http://yu-wu.net/) is a thrid-year Ph.D student at University of Technology Sydney (UTS). He started his Ph.D. course in July 2017 under the supervision of Prof.Yi Yang. He received the B.Eng degree in Mechanical Engineering from Shanghai Jiao Tong University in 2015. 
+[Yu Wu](http://yu-wu.net/) was a Ph.D student at University of Technology Sydney (UTS). He started his Ph.D. course in July 2017 under the supervision of Prof.Yi Yang. He received the B.Eng degree in Mechanical Engineering from Shanghai Jiao Tong University in 2015. 
 
