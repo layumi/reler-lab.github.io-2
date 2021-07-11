@@ -1,6 +1,6 @@
 ---
 name: Yu Wu 
-position: gradstudent
+position: alumni
 avatar: wuyu.jpg
 <!--twitter: KordingLab-->
 ---
