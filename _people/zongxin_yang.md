@@ -1,6 +1,6 @@
 ---
 name: Zongxin Yang
-position: gradstudent
+position: alumni
 avatar: zongxin_yang.jpeg
 ---
 
@@ -11,4 +11,4 @@ avatar: zongxin_yang.jpeg
 
 <i class="fa fa-envelope-o"></i> `zongxin.yang@student.uts.edu.au`
 
-Zongxin Yang is currently a third-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Zongxin Yang was a Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
