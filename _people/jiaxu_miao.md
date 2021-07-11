@@ -1,6 +1,6 @@
 ---
 name: Jiaxu Miao
-position: gradstudent
+position: alumni
 avatar: jiaxu_miao.jpeg
 ---
 
