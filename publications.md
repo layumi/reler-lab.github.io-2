@@ -596,6 +596,14 @@ _Saying the Unseen: Video Descriptions via Dialog Agents_<br>
 Ye Zhu, Yu Wu, Yi Yang, Yan Yan<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
 
+_Rich Embedding Features for One-Shot Semantic Segmentation_<br>
+Xiaolin Zhang, Yunchao Wei, Zhao Li, Chenggang Yan, Yi Yang<br>
+IEEE Transactions on Neural Networks and Learning Systems
+
+_LayerCAM: Exploring Hierarchical Class Activation Maps for Localization_<br>
+Peng-Tao Jiang, Chang-Bin Zhang, Qibin Hou, Ming-Ming Cheng, Yunchao Wei<br>
+IEEE Transactions on Image Processing, 2021
+
 _Training Robust Object Detectors from Noisy Category Labels and Imprecise Bounding Boxes_<br>
 Youjiang Xu, Linchao Zhu, Yi Yang, Fei Wu<br>
 IEEE Transactions on Image Processing, 2021
