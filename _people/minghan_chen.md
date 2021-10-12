@@ -1,7 +1,7 @@
 ---
 name: Minghan Chen
 position: gradstudent
-avatar: minghan_chen.jpg
+avatar: minghan_chen.jpeg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
