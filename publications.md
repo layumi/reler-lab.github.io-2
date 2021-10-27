@@ -17,6 +17,62 @@ Journals: [2021](#21)，[2020](#20), [2019](#19), [2018](#18), [2017](#17), [201
 
 ### 2021
 
+_Interactive Prototype Learning for Egocentric Action Recognition_<br>
+Xiaohan Wang, Linchao Zhu, Heng Wang, Yi Yang<br>
+ICCV, 2021
+
+_Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar_<br>
+Peike Li, Xin Yu, Yi Yang<br>
+ICCV, 2021
+
+_A Multi-Mode Modulator for Multi-Domain Few-Shot Classification_<br>
+Yanbin Liu, Juho Lee, Linchao Zhu, Ling Chen, Humphrey Shi, Yi Yang<br>
+
+_PR-RRN: Pairwise-Regularized Residual-Recursive Networks for Non-Rigid Structure-From-Motion_<br>
+Haitian Zeng, Yuchao Dai, Xin Yu, Xiaohan Wang, Yi Yang<br>
+ICCV, 2021
+
+_RFNet: Region-Aware Fusion Network for Incomplete Multi-Modal Brain Tumor Segmentation_<br>
+Yuhang Ding, Xin Yu, Yi Yang<br>
+ICCV, 2021
+
+_Vector-Decomposed Disentanglement for Domain-Invariant Object Detection_<br>
+Aming Wu, Rui Liu, Yahong Han, Linchao Zhu, Yi Yang<br>
+ICCV, 2021
+
+_Universal-Prototype Enhancing for Few-Shot Object Detection_<br>
+Aming Wu, Yahong Han, Linchao Zhu, Yi Yang<br>
+ICCV, 2021
+
+_AINet: Association Implantation for Superpixel Segmentation_<br>
+Yaxiong Wang, Yunchao Wei, Xueming Qian, Li Zhu, Yi Yang<br>
+ICCV, 2021
+
+_Weakly Supervised Person Search With Region Siamese Networks_<br>
+Chuchu Han, Kai Su, Dongdong Yu, Zehuan Yuan, Changxin Gao, Nong Sang, Yi Yang, Changhu Wang<br>
+ICCV, 2021
+
+_Adaptive Hierarchical Graph Reasoning With Semantic Coherence for Video-and-Language Inference_<br>
+Juncheng Li, Siliang Tang, Linchao Zhu, Haochen Shi, Xuanwen Huang, Fei Wu, Yi Yang, Yueting Zhuang<br>
+ICCV, 2021
+
+_Gait Recognition via Effective Global-Local Feature Representation and Local Temporal Aggregation_<br>
+Beibei Lin, Shunli Zhang, Xin Yu<br>
+ICCV, 2021
+
+_RGB-D Saliency Detection via Cascaded Mutual Information Minimization_<br>
+Jing Zhang, Deng-Ping Fan, Yuchao Dai, Xin Yu, Yiran Zhong, Nick Barnes, Ling Shao<br>
+ICCV, 2021
+
+_Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-Modal Pretraining_<br>
+Xunlin Zhan, Yangxin Wu, Xiao Dong, Yunchao Wei, Minlong Lu, Yichi Zhang, Hang Xu, Xiaodan Liang<br>
+ICCV, 2021
+
+_Towards Complete Scene and Regular Shape for Distortion Rectification by Curve-Aware Extrapolation_<br>
+Kang Liao, Chunyu Lin, Yunchao Wei, Feng Li, Shangrong Yang, Yao Zhao<br>
+ICCV, 2021
+
+
 _Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos_<br>
 Hehe Fan, Yi Yang and Mohan Kankanhalli<br>
 CVPR, 2021
