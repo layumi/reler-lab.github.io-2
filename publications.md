@@ -27,6 +27,7 @@ ICCV, 2021
 
 _A Multi-Mode Modulator for Multi-Domain Few-Shot Classification_<br>
 Yanbin Liu, Juho Lee, Linchao Zhu, Ling Chen, Humphrey Shi, Yi Yang<br>
+ICCV, 2021
 
 _PR-RRN: Pairwise-Regularized Residual-Recursive Networks for Non-Rigid Structure-From-Motion_<br>
 Haitian Zeng, Yuchao Dai, Xin Yu, Xiaohan Wang, Yi Yang<br>
@@ -71,7 +72,6 @@ ICCV, 2021
 _Towards Complete Scene and Regular Shape for Distortion Rectification by Curve-Aware Extrapolation_<br>
 Kang Liao, Chunyu Lin, Yunchao Wei, Feng Li, Shangrong Yang, Yao Zhao<br>
 ICCV, 2021
-
 
 _Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos_<br>
 Hehe Fan, Yi Yang and Mohan Kankanhalli<br>
