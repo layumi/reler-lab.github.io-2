@@ -1,6 +1,6 @@
 ---
 name: Hu Zhang
-position: gradstudent
+position: alumni
 avatar: hu_zhang.jpeg
 ---
 
@@ -11,4 +11,4 @@ avatar: hu_zhang.jpeg
 
 <i class="fa fa-envelope-o"></i> `xiaofanustc@gmail.com`
 
-Hu Zhang is currently a third-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Hu Zhang was a Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
