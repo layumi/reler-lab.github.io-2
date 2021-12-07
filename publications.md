@@ -9,7 +9,7 @@ This is the full publication list of ReLER since 2016.
 
 Conferences:  [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
 
-Journals: [2021](#21)，[2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
+Journals: [2022](#22), [2021](#21)，[2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 
 <hr>
 
@@ -645,8 +645,13 @@ IJCAI, 2016
 
 ## Journals
 
-### 21
+### 22
 
+_Soft Person Re-identification Network Pruning via Block-wise Adjacent Filter Decaying_<br>
+Wang, Xiaodong and Zheng, Zhedong and He, Yang and Yan, Fei and Zeng, Zhiqiang and Yang, Yi<br>
+IEEE Transactions on Cybernetics, 2021 [[Paper]](https://zdzheng.xyz/files/Wang_Soft.pdf)
+
+### 21
 
 _Saying the Unseen: Video Descriptions via Dialog Agents_<br>
 Ye Zhu, Yu Wu, Yi Yang, Yan Yan<br>
