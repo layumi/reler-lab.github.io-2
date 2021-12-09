@@ -653,7 +653,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
 
 _Soft Person Re-identification Network Pruning via Block-wise Adjacent Filter Decaying_<br>
 Xiaodong Wang and Zhedong Zheng, Yang He, Fei Yan, Zhiqiang Zeng, Yi Yang<br>
-IEEE Transactions on Cybernetics, 2021 [[Paper]](https://zdzheng.xyz/files/Wang_Soft.pdf)
+IEEE Transactions on Cybernetics, 2022 [[Paper]](https://zdzheng.xyz/files/Wang_Soft.pdf)
 
 
 
