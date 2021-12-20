@@ -647,6 +647,8 @@ IJCAI, 2016
 
 ### 22
 
+
+
 _Tasks Integrated Networks: Joint Detection and Retrieval for Image Search_<br>
 Lei Zhang, Zhenwei He, Yi Yang, Liang Wang, Xinbo Gao<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
@@ -658,6 +660,10 @@ IEEE Transactions on Cybernetics, 2022 [[Paper]](https://zdzheng.xyz/files/Wang_
 
 
 ### 21
+
+_Deep Hierarchical Representation of Point Cloud Videos via Spatio-Temporal Decomposition_<br>
+Hehe Fan, Xin Yu, Yi Yang, Mohan Kankanhalli<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
 
 _Saying the Unseen: Video Descriptions via Dialog Agents_<br>
 Ye Zhu, Yu Wu, Yi Yang, Yan Yan<br>
