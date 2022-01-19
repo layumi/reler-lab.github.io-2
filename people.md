@@ -20,9 +20,8 @@ permalink: /people/
  {% elsif item == 'pi' %}
 <h3>Professor</h3> 
 Professor Yi Yang has left UTS and joined Zhejiang University. He is still working closely with the lab members on a few research problems, and advicing some of the students.
- 
  {% elsif item == 'ap' %}
-
+Professor Yi Yang has left UTS and joined Zhejiang University. He is still working closely with the lab members on a few research problems, and advicing some of the students.
 
  
 <h3>Lecturers</h3>
