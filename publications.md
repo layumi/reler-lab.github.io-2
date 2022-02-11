@@ -647,7 +647,9 @@ IJCAI, 2016
 
 ### 22
 
-
+_Switchable Novel Object Captioner_<br>
+Yu Wu, Lu Jiang, Yi Yang<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
 
 _Tasks Integrated Networks: Joint Detection and Retrieval for Image Search_<br>
 Lei Zhang, Zhenwei He, Yi Yang, Liang Wang, Xinbo Gao<br>
