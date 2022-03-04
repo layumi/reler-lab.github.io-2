@@ -1,7 +1,7 @@
 ---
 name: Haitian Zeng
 position: gradstudent
-avatar: haitian_zeng.jpeg
+avatar: haitianzeng.jpeg
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
