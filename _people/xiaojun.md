@@ -1,10 +1,10 @@
 ---
 name: Xiaojun Chang
-position: alumni
+position: pi
 avatar: xiaojun.jpg
 joined: 2013
 ---
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-[Xiaoun Chang](http://www.cs.cmu.edu/~uqxchan1/) is a faculty member at Faculty of Information Technology, Monash University Clayton Campus, Australia.
+[Xiaoun Chang](https://www.xiaojun.ai/) is now the director of ReLER lab, and a professor with AAII at University of Technology Sydney (UTS).
