@@ -7,7 +7,7 @@ avatar: default.jpeg
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Unremunerated Honorary Professor, University of Technology Sydney_<br>
+- _Founding director, Unremunerated Honorary Professor, University of Technology Sydney_<br>
 <!--- _Science coach. Collaborator. Transdisciplinary optimist._-->
 
 <i class="fa fa-envelope-o"></i> `yi.yang@uts.edu.au`
