@@ -647,6 +647,10 @@ IJCAI, 2016
 
 ### 22
 
+_Weakly Supervised Moment Localization with Decoupled Consistent Concept Prediction_<br>
+Fan Ma, Linchao Zhu, Yi Yang<br>
+International Journal of Computer Vision, 2022
+
 _Switchable Novel Object Captioner_<br>
 Yu Wu, Lu Jiang, Yi Yang<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
