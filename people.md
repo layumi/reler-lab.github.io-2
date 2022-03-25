@@ -18,11 +18,11 @@ permalink: /people/
 {% if item == 'postdoc' %}
 <h3>Postdoctoral Fellows</h3>
  {% elsif item == 'pi' %}
-<h3>Professor</h3> 
+<h3>Director</h3> 
  {% elsif item == 'ap' %}
 
  
-<h3>Lecturers</h3>
+<h3>Researchers</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
  {% elsif item == 'visiting' %}
