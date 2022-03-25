@@ -1,6 +1,6 @@
 ---
 name: Yi Yang
-position: aap
+position: adp
 avatar: default.jpeg
 <!--twitter: KordingLab-->
 ---
