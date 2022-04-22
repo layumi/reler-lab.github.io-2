@@ -11,4 +11,4 @@ avatar: quanruijie.jpg
 
 <i class="fa fa-envelope-o"></i> `quanruij@hotmail.com`
 
-Ruijie Quan was Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Ruijie Quan was a Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
