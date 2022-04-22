@@ -1,6 +1,6 @@
 ---
 name: Ruijie Quan
-position: gradstudent
+position: alumni
 avatar: quanruijie.jpg
 ---
 
@@ -11,4 +11,4 @@ avatar: quanruijie.jpg
 
 <i class="fa fa-envelope-o"></i> `quanruij@hotmail.com`
 
-Ruijie Quan is currently a second-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Ruijie Quan was Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
