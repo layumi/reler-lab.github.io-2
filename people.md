@@ -23,10 +23,9 @@ permalink: /people/
 <h3>Adjunct Staffs</h3>
   {% elsif item == 'ap' %}
 
-<!-- 
 <h3>Staffs</h3>
  {% elsif item == 'gradstudent' %}
--->
+
 <h3>Graduate Students</h3>
  {% elsif item == 'visiting' %}
 <h3>Visiting Students</h3>
