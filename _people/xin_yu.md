@@ -1,6 +1,6 @@
 ---
 name: Xin Yu
-position: ap
+position: sl
 avatar: xin_yu.jpg
 ---
 
