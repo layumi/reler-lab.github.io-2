@@ -296,6 +296,10 @@ _Copy and Paste GAN: Face Hallucination from Shaded Thumbnails._<br>
 Yang Zhang, Ivor Tsang, Yawei Luo, Changhui Hu, Xiaobo Lu, Xin Yu<br>
 CVPR(Oral), 2020
 
+_Salience-Guided Cascaded Suppression Network for Person Re-identification_<br>
+Xuesong Chen, Canmiao Fu, Yong Zhao, Feng Zheng, Jingkuan Song, Rongrong Ji, Yi Yang<br>
+CVPR, 2020
+
 _NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search_<br>
 Xuanyi Dong, Yi Yang<br>
 ICLR, 2020
