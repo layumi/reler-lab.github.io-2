@@ -7,7 +7,7 @@ permalink: /publication/
 
 This is the full publication list of ReLER since 2016.
 
-Conferences:  [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
+Conferences:  [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
 
 Journals: [2022](#22), [2021](#21)，[2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 
@@ -120,7 +120,7 @@ Jialun Liu, Wenhui Li, Yifan Sun<br>
 AAAI, 2022
 
 _Switch to Generalize: Domain-Switch Learning for Cross-Domain Few-Shot Classification_<br>
-Zhengdong Hu, Yifan Sun, Yi Yang
+Zhengdong Hu, Yifan Sun, Yi Yang<br>
 ICLR, 2022
 
 ### 2021
