@@ -15,6 +15,97 @@ Journals: [2022](#22), [2021](#21)，[2020](#20), [2019](#19), [2018](#18), [201
 
 ## Conferences
 
+### 2022
+
+_Large-scale Video Panoptic Segmentation in the Wild: A Benchmark_<br>
+Jiaxu Miao, Xiaohan Wang, Yu Wu, Wei Li , Xu Zhang, Yunchao Wei, Yi Yang<br>
+CVPR, 2022
+
+_H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-domain Weakly Supervised Object Detection_<br>
+Yunqiu Xu，Yifan Sun，Zongxin Yang，Jiaxu Miao，Yi Yang<br>
+CVPR, 2022
+
+_Dual-AI: Dual-path Actor Interaction Learning for Group Activity Recognition_<br>
+Mingfei Han, David Junhao Zhang, Yali Wang, Rui Yan, Lina Yao, Xiaojun Chang and Yu Qiao<br>
+CVPR, 2022
+
+_Unified Transformer Tracker for Object Tracking_<br>
+Fan Ma, Mike Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan<br>
+CVPR, 2022
+
+_A Simple Episodic Linear Probe Improves Visual Recognition in the Wild_<br>
+Yuanzhi Liang, Linchao Zhu, Xiaohan Wang, Yi Yang<br>
+CVPR, 2022
+
+_Cross-modal Clinical Graph Transformer For Ophthalmic Report Generation_<br>
+Mingjie Li, Wenjia Cai, Karin Verspoor, Shirui Pan, Xiaodan Liang, and Xiaojun Chang<br>
+CVPR, 2022
+
+_Beyond Fixation: Dynamic Window Visual Transformer_<br>
+Pengzhen Ren, Changlin Li, Guangrun Wang, Yun Xiao, Qing Du, Xiaodan Liang and Xiaojun Chang<br>
+CVPR, 2022
+
+_Automated Progressive Learning for Efficient Training of Vision Transformers_<br>
+Changlin Li, Bohan Zhuang, Guangrun Wang, Xiaodan Liang, Xiaojun Chang and Yi Yang<br>
+CVPR, 2022
+
+_BaLeNAS: Differentiable Architecture Search via Bayesian Learning Rule_<br>
+Miao Zhang, Shirui Pan, Xiaojun Chang, Steven Su, Jilin Hu, Reza Haffari, and Bin Yang<br>
+CVPR, 2022
+
+_Knowledge Distillation via the Target-aware Transformer_<br>
+Sihao Lin, Hongwei Xie, Bing Wang, Kaicheng Yu, Xiaojun Chang, Xiaodan Liang and Gang Wang<br>
+CVPR, 2022
+
+_Self-Supervised Global-Local Structure Modeling for Point Cloud Domain Adaptation with Reliable Voted Pseudo Labels_<br>
+Hehe Fan, Xiaojun Chang, Wanyue Zhang, Yi Cheng, Ying Sun, and Mohan Kankanhalli<br>
+CVPR, 2022
+
+_SEEG: Semantic Energized Co-speech Gesture Generation_<br>
+Yuanzhi Liang, Qianyu Feng, Linchao Zhu, Li Hu, Pan Pan, Yi Yan<br>
+CVPR, 2022
+
+_Visual-based Abductive Reasoning_<br>
+Chen Liang, Tianfei Zhou, Wenguan Wang, Yi Yang<br>
+CVPR, 2022
+
+_Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis_<br>
+Xuanmeng Zhang, Zhedong Zheng, Daiheng Gao, Bang Zhang, Pan Pan, Yi Yang<br>
+CVPR, 2022
+
+_Exploring Semantic Hierarchies for Image Segmentation_<br>
+Liulei Li, Tianfei Zhou, Wenguan Wang, Jianwu Li, Yi Yang<br>
+CVPR, 2022
+
+_Rethinking Semantic Segmentation: A Prototype View_<br>
+Tianfei Zhou, Wenguan Wang, Ender Konukoglu, Luc Van Gool<br>
+CVPR, 2022
+
+_Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation_<br>
+Hanqing Wang, Wei Liang, Jianbing Shen, Luc Van Gool, Wenguan Wang<br>
+CVPR, 2022
+
+_Locality-Aware Inter-and Intra-Video Reconstruction for Self-Supervised Correspondence Learning_<br>
+Liulei Li, Tianfei Zhou, Wenguan Wang, Lu Yang, Jianwu Li, Yi Yang<br>
+CVPR, 2022
+
+_Complex Video Action Reasoning via Learnable Markov Logic Network_<br>
+Yang Jin, Linchao Zhu, Yadong Mu<br>
+CVPR, 2022
+
+_Learning Memory-Augmented Unidirectional Metrics for Cross-modality Person Re-identification_<br>
+Jialun Liu, Yifan Sun, Feng Zhu, Hongbin Pei, Yi Yang, Wenhui Li<br>
+CVPR, 2022
+
+_Learning to Learn by Jointly Optimizing Neural Architecture and Weights_<br>
+Yadong Ding, Yu Wu, Chengyue Huang, Siliang Tang, Yi Yang, Longhui Wei, Yueting Zhuang, Qi Tian<br>
+CVPR, 2022
+
+_Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning_<br>
+Juncheng Li, Junlin Xie,  Long Qian, Linchao Zhu, Siliang Tang, Fei Wu, Yi Yang, Yueting Zhuang, Xin Eric Wang <br>
+CVPR, 2022
+
+
 ### 2021
 
 _Interactive Prototype Learning for Egocentric Action Recognition_<br>
