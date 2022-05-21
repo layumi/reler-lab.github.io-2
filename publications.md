@@ -106,6 +106,23 @@ Juncheng Li, Junlin Xie,  Long Qian, Linchao Zhu, Siliang Tang, Fei Wu, Yi Yang,
 CVPR, 2022
 
 
+_Monocular Camera-Based Point-Goal Navigation by Learning Depth Channel and Cross-Modality Pyramid_<br>
+Fusion
+Tianqi Tang, Heming Du, Xin Yu, Yi Yang<br>
+AAAI, 2022
+
+_Divide-and-Regroup Clustering for Domain Adaptive Person Re-Identification_<br>
+Zhengdong Hu, Yifan Sun, Yi Yang, Jianguang Zhou<br>
+AAAI, 2022
+
+_Memory-Based Jitter: Improving Visual Recognition on Long-Tailed Data with Diversity In Memory_<br>
+Jialun Liu, Wenhui Li, Yifan Sun<br>
+AAAI, 2022
+
+_Switch to Generalize: Domain-Switch Learning for Cross-Domain Few-Shot Classification_<br>
+Zhengdong Hu, Yifan Sun, Yi Yang
+ICLR, 2022
+
 ### 2021
 
 _Interactive Prototype Learning for Egocentric Action Recognition_<br>
