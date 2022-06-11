@@ -106,8 +106,7 @@ Juncheng Li, Junlin Xie,  Long Qian, Linchao Zhu, Siliang Tang, Fei Wu, Yi Yang,
 CVPR, 2022
 
 
-_Monocular Camera-Based Point-Goal Navigation by Learning Depth Channel and Cross-Modality Pyramid_<br>
-Fusion
+_Monocular Camera-Based Point-Goal Navigation by Learning Depth Channel and Cross-Modality Pyramid Fusion_<br>
 Tianqi Tang, Heming Du, Xin Yu, Yi Yang<br>
 AAAI, 2022
 
