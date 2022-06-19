@@ -758,6 +758,11 @@ IJCAI, 2016
 
 ### 22
 
+
+_Video Pivoting Unsupervised Multi-Modal Machine Translation_<br>
+Mingjie Li, Po-Yao Huang, Xiaojun Chang, Junjie Hu, Yi Yang, Alex Hauptmann<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
+
 _Weakly Supervised Moment Localization with Decoupled Consistent Concept Prediction_<br>
 Fan Ma, Linchao Zhu, Yi Yang<br>
 International Journal of Computer Vision, 2022
