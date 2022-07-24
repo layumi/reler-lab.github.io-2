@@ -758,6 +758,13 @@ IJCAI, 2016
 
 ### 22
 
+_Adaptive Boosting for Domain Adaptation: Towards Robust Predictions in Scene Segmentation_<br>
+Zhedong Zheng, Yi Yang <br>
+IEEE Transactions on Image Processing, 2022 [[Paper]](https://zdzheng.xyz/files/TIP_Adaboost.pdf)
+
+_Joint Representation Learning and Keypoint Detection for Cross-view Geo-localization_<br>
+Jinliang Lin, Zhedong Zheng, Zhun Zhong, Zhiming Luo, Shaozi Li, Yi Yang, Sebe Nicu <br>
+IEEE Transactions on Image Processing, 2022 [[Paper]](https://zdzheng.xyz/files/TIP_RKNet.pdf)
 
 _Video Pivoting Unsupervised Multi-Modal Machine Translation_<br>
 Mingjie Li, Po-Yao Huang, Xiaojun Chang, Junjie Hu, Yi Yang, Alex Hauptmann<br>
@@ -776,7 +783,7 @@ Lei Zhang, Zhenwei He, Yi Yang, Liang Wang, Xinbo Gao<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
 
 _Soft Person Re-identification Network Pruning via Block-wise Adjacent Filter Decaying_<br>
-Xiaodong Wang and Zhedong Zheng, Yang He, Fei Yan, Zhiqiang Zeng, Yi Yang<br>
+Xiaodong Wang, Zhedong Zheng, Yang He, Fei Yan, Zhiqiang Zeng, Yi Yang<br>
 IEEE Transactions on Cybernetics, 2022 [[Paper]](https://zdzheng.xyz/files/Wang_Soft.pdf)
 
 
