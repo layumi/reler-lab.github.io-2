@@ -758,6 +758,10 @@ IJCAI, 2016
 
 ### 22
 
+_Action Keypoint Network for Efficient Video Recognition_<br>
+Xu Chen, Yahong Han, Xiaohan Wang, Yifan Sun, Yi Yang<br>
+IEEE Transactions on Image Processing, 2022
+
 _Adaptive Boosting for Domain Adaptation: Towards Robust Predictions in Scene Segmentation_<br>
 Zhedong Zheng, Yi Yang <br>
 IEEE Transactions on Image Processing, 2022 [[Paper]](https://zdzheng.xyz/files/TIP_Adaboost.pdf)
