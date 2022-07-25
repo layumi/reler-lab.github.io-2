@@ -1,6 +1,6 @@
 ---
 name: Linchao Zhu
-position: ap
+position: alumni
 avatar: default.jpeg
 
 ---
@@ -12,4 +12,4 @@ avatar: default.jpeg
 
 <i class="fa fa-envelope-o"></i> `zhulinchao7@gmail.com`
 
-[Linchao Zhu](http://ffmpbgrnn.github.io/)  is currently a lecturer at University of Technology Sydney.
+[Linchao Zhu](http://ffmpbgrnn.github.io/) was a lecturer at University of Technology Sydney.
