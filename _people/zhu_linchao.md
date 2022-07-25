@@ -12,4 +12,4 @@ avatar: default.jpeg
 
 <i class="fa fa-envelope-o"></i> `zhulinchao7@gmail.com`
 
-[Linchao Zhu](http://ffmpbgrnn.github.io/) was a lecturer at University of Technology Sydney.
+Dr. [Linchao Zhu](http://ffmpbgrnn.github.io/) was a lecturer at University of Technology Sydney. He left UTS in July 2022.
