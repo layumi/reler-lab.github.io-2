@@ -764,11 +764,11 @@ IEEE Transactions on Image Processing, 2022
 
 _Adaptive Boosting for Domain Adaptation: Towards Robust Predictions in Scene Segmentation_<br>
 Zhedong Zheng, Yi Yang <br>
-IEEE Transactions on Image Processing, 2022 [[Paper]](https://zdzheng.xyz/files/TIP_Adaboost.pdf)
+IEEE Transactions on Image Processing, 2022 [[Paper]](https://zdzheng.xyz/files/TIP_Adaboost.pdf) [[Code]](https://github.com/layumi/AdaBoost_Segb)
 
 _Joint Representation Learning and Keypoint Detection for Cross-view Geo-localization_<br>
 Jinliang Lin, Zhedong Zheng, Zhun Zhong, Zhiming Luo, Shaozi Li, Yi Yang, Sebe Nicu <br>
-IEEE Transactions on Image Processing, 2022 [[Paper]](https://zdzheng.xyz/files/TIP_RKNet.pdf)
+IEEE Transactions on Image Processing, 2022 [[Paper]](https://zdzheng.xyz/files/TIP_RKNet.pdf) [[Code]](https://github.com/AggMan96/RK-Net)
 
 _Video Pivoting Unsupervised Multi-Modal Machine Translation_<br>
 Mingjie Li, Po-Yao Huang, Xiaojun Chang, Junjie Hu, Yi Yang, Alex Hauptmann<br>
