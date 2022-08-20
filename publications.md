@@ -105,6 +105,9 @@ _Compositional Temporal Grounding with Structured Variational Cross-Graph Corres
 Juncheng Li, Junlin Xie,  Long Qian, Linchao Zhu, Siliang Tang, Fei Wu, Yi Yang, Yueting Zhuang, Xin Eric Wang <br>
 CVPR, 2022
 
+_Policy Diagnosis via Measuring Role Diversity in Cooperative Multi-agent RL_<br>
+Siyi Hu, Chuanlong Xie, Xiaodan Liang and Xiaojun Chang <br>
+ICML, 2022
 
 _Monocular Camera-Based Point-Goal Navigation by Learning Depth Channel and Cross-Modality Pyramid Fusion_<br>
 Tianqi Tang, Heming Du, Xin Yu, Yi Yang<br>
