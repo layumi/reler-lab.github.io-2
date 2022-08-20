@@ -3,6 +3,16 @@ title: Resources
 permalink: /resources/
 ---
 
+## Benchmarks
+<hr>
+
+### 1. Multi-Agent RLlib (MARLlib)
+Multi-Agent RLlib (MARLlib) is a Multi-Agent Reinforcement Learning benchmark based on Ray and one of its toolkits RLlib. It provides MARL research community a unified platform for developing and evaluating the new ideas in various multi-agent environments. There are four core features of MARLlib.
+-- it collects most of the existing MARL algorithms widely acknowledged by the community and unifies them under one framework.
+-- it gives a solution that enables different multi-agent environments using the same interface to interact with the agents.
+-- it guarantees excellent efficiency in both the training and sampling process.
+-- it provides trained results, including learning curves and pretrained models specific to each task and algorithm's combination, with finetuned hyper-parameters to guarantee credibility.
+
 
 ## Datasets
 <hr>
