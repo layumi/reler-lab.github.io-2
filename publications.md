@@ -760,6 +760,9 @@ IJCAI, 2016
 ## Journals
 
 ### 22
+_Self-supervised Point Cloud Representation Learning via Separating Mixed Shapes_<br>
+Chao Sun, Zhedong Zheng, Xiaohan Wang, Mingliang Xu, Yi Yang  <br>
+IEEE Transactions on Multimedia, 2022 [[Paper]](https://zdzheng.xyz/files/TMM_3D_Pre_Training.pdf)
 
 _Action Keypoint Network for Efficient Video Recognition_<br>
 Xu Chen, Yahong Han, Xiaohan Wang, Yifan Sun, Yi Yang<br>
