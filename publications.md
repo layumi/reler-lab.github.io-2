@@ -760,6 +760,10 @@ IJCAI, 2016
 ## Journals
 
 ### 22
+_Parameter-Efficient Person Re-identification in the 3D Space_<br>
+Zhedong Zheng, Xiaohan Wang, Nenggan Zheng, Yi Yang <br>
+IEEE Transactions on Neural Networks and Learning Systems, 2022 [[Code]](https://github.com/layumi/person-reid-3d)
+
 _Self-supervised Point Cloud Representation Learning via Separating Mixed Shapes_<br>
 Chao Sun, Zhedong Zheng, Xiaohan Wang, Mingliang Xu, Yi Yang  <br>
 IEEE Transactions on Multimedia, 2022 [[Paper]](https://zdzheng.xyz/files/TMM_3D_Pre_Training.pdf)
