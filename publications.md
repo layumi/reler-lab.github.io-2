@@ -117,10 +117,6 @@ _Divide-and-Regroup Clustering for Domain Adaptive Person Re-Identification_<br>
 Zhengdong Hu, Yifan Sun, Yi Yang, Jianguang Zhou<br>
 AAAI, 2022
 
-_Memory-Based Jitter: Improving Visual Recognition on Long-Tailed Data with Diversity In Memory_<br>
-Jialun Liu, Wenhui Li, Yifan Sun<br>
-AAAI, 2022
-
 _Switch to Generalize: Domain-Switch Learning for Cross-Domain Few-Shot Classification_<br>
 Zhengdong Hu, Yifan Sun, Yi Yang<br>
 ICLR, 2022
