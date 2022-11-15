@@ -71,7 +71,7 @@ CVPR, 2022
 
 _Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis_<br>
 Xuanmeng Zhang, Zhedong Zheng, Daiheng Gao, Bang Zhang, Pan Pan, Yi Yang<br>
-CVPR, 2022
+CVPR, 2022 [[code](https://github.com/Xuanmeng-Zhang/MVCGAN)]
 
 _Exploring Semantic Hierarchies for Image Segmentation_<br>
 Liulei Li, Tianfei Zhou, Wenguan Wang, Jianwu Li, Yi Yang<br>
@@ -334,7 +334,7 @@ IJCAI, 2020 ([URL](https://arxiv.org/abs/1912.11164)) [[Code]](https://github.co
 
 _Real-World Automatic Makeup via Identity Preservation Makeup Net_<br>
 Zhikun Huang, Zhedong Zheng, Chenggang Yan, Hongtao Xie, Yaoqi Sun, Jianzhong Wang, Jiyong Zhang <br>
-IJCAI, 2020 ([URL](https://github.com/huangzhikun1995/IPM-Net/blob/master/Real_World_Automatic_Makeup_via_Identity_Preservation_Makeup_Net.pdf)) [[Code]](https://github.com/huangzhikun1995/IPM-Net)[[Paper](https://zdzheng.xyz/files/Huang_ijcai20.pdf)]
+IJCAI, 2020 ([URL](https://github.com/huangzhikun1995/IPM-Net/blob/master/Real_World_Automatic_Makeup_via_Identity_Preservation_Makeup_Net.pdf)) [[Code]](https://github.com/huangzhikun1995/IPM-Net)[[Paper](https://zdzheng.xyz/files/Huang_ijcai20.pdf)][[中文介绍](https://zhuanlan.zhihu.com/p/150116945)]
 
 _ActBERT: Learning Global-Local Video-Text Representations._<br> 
 Linchao Zhu, Yi Yang<br>
@@ -758,7 +758,7 @@ IJCAI, 2016
 ### 22
 _Parameter-Efficient Person Re-identification in the 3D Space_<br>
 Zhedong Zheng, Xiaohan Wang, Nenggan Zheng, Yi Yang <br>
-IEEE Transactions on Neural Networks and Learning Systems, 2022 [[Code]](https://github.com/layumi/person-reid-3d)
+IEEE Transactions on Neural Networks and Learning Systems, 2022 [[Code]](https://github.com/layumi/person-reid-3d)[[中文介绍]](https://zhuanlan.zhihu.com/p/149121098)
 
 _Self-supervised Point Cloud Representation Learning via Separating Mixed Shapes_<br>
 Chao Sun, Zhedong Zheng, Xiaohan Wang, Mingliang Xu, Yi Yang  <br>
@@ -863,7 +863,7 @@ IEEE Transactions on Neural Networks and Learning Systems， 2021
 
 _Each Part Matters: Local Patterns Facilitate Cross-view Geo-localization_<br>
 Tingyu Wang, Zhedong Zheng, Chenggang Yan, Yi Yang<br>
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2021 ([URL](https://arxiv.org/abs/2008.11646))[[Paper](https://zdzheng.xyz/files/Wang_LPN.pdf)]
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2021 ([URL](https://arxiv.org/abs/2008.11646))[[Paper](https://zdzheng.xyz/files/Wang_LPN.pdf)][[中文介绍]](https://zhuanlan.zhihu.com/p/365043015)
 
 _Pyramidal Multiple Instance Detection Network with Mask Guided Self-correction for Weakly Supervised Object Detection_<br>
 Yunqiu Xu, Chunluan Zhou, Xin Yu, Bin Xiao, Yi Yang<br>
@@ -899,8 +899,6 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021
 
 ### 20
 
-
-
 _Learning to Anticipate Egocentric Actions by Imagination_<br>
 Yu Wu, Linchao Zhu, Xiaohan Wang, Yi Yang, Fei Wu<br>
 IEEE Transactions on Image Processing, 2020
@@ -927,7 +925,7 @@ ACM Transactions on Multimedia Computing, Communications and Applications (ACM T
 
 _VehicleNet: Learning Robust Visual Representation for Vehicle Re-identification_<br>
 Zhedong Zheng, Tao Ruan, Yunchao Wei, Yi Yang, Mei Tao<br>
-IEEE Transactions on Multimedia, 2020. ([URL](https://arxiv.org/abs/2004.06305))[[Code](https://github.com/layumi/AICIty-reID-2020)][[Paper](https://zdzheng.xyz/files/TMM20.pdf)]
+IEEE Transactions on Multimedia, 2020. ([URL](https://arxiv.org/abs/2004.06305))[[Code](https://github.com/layumi/AICIty-reID-2020)][[Paper](https://zdzheng.xyz/files/TMM20.pdf)][[中文介绍]](https://zhuanlan.zhihu.com/p/186905783)
 
 _Hierarchical Temporal Modeling with Mutual Distance Matching for Video Based Person Re-Identification_<br>
 Peike Li , Pingbo Pan , Ping Liu , Mingliang Xu , Yi Yang<br>
@@ -942,7 +940,7 @@ IEEE Transactions on Cybernetics, 2020. ([URL](https://arxiv.org/abs/1909.06989)
 _Dual-Path Convolutional Image-Text Embedding_<br>
 Zhedong Zheng, Liang Zheng, Michael Garrett, Yi Yang, Yi-Dong Shen <br>
 ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2020.
-([URL](https://arxiv.org/abs/1711.05535)) [[Slide]](http://zdzheng.xyz/ZhedongZheng_CA_Talk_DualPath.pdf)[[Code]](https://github.com/layumi/Image-Text-Embedding)
+([URL](https://arxiv.org/abs/1711.05535)) [[Slide]](http://zdzheng.xyz/ZhedongZheng_CA_Talk_DualPath.pdf)[[Code]](https://github.com/layumi/Image-Text-Embedding)[[中文介绍](https://zhuanlan.zhihu.com/p/33163432)]
 
 ### 19
 
