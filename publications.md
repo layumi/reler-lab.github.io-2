@@ -756,6 +756,16 @@ IJCAI, 2016
 ## Journals
 
 ### 22
+
+_Penalizing the Hard Example But Not Too Much: A Strong Baseline for Fine-Grained Visual Classification_<br>
+Yuanzhi Liang, Linchao Zhu, Xiaohan Wang, Yi Yang<br>
+IEEE Transactions on Neural Networks and Learning Systems, 2022
+
+
+_Align and tell: Boosting text-video retrieval with local alignment and fine-grained supervision_<br>
+Xiaohan Wang, Linchao Zhu, Zhedong Zheng, Mingliang Xu, Yi Yang
+IEEE Transactions on Multimedia, 2022
+
 _Parameter-Efficient Person Re-identification in the 3D Space_<br>
 Zhedong Zheng, Xiaohan Wang, Nenggan Zheng, Yi Yang <br>
 IEEE Transactions on Neural Networks and Learning Systems, 2022 [[Code]](https://github.com/layumi/person-reid-3d)[[中文介绍]](https://zhuanlan.zhihu.com/p/149121098)
