@@ -763,7 +763,7 @@ IEEE Transactions on Neural Networks and Learning Systems, 2022
 
 
 _Align and tell: Boosting text-video retrieval with local alignment and fine-grained supervision_<br>
-Xiaohan Wang, Linchao Zhu, Zhedong Zheng, Mingliang Xu, Yi Yang
+Xiaohan Wang, Linchao Zhu, Zhedong Zheng, Mingliang Xu, Yi Yang <br>
 IEEE Transactions on Multimedia, 2022
 
 _Parameter-Efficient Person Re-identification in the 3D Space_<br>
