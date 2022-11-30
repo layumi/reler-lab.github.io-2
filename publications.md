@@ -17,6 +17,35 @@ Journals: [2022](#22), [2021](#21)，[2020](#20), [2019](#19), [2018](#18), [201
 
 ### 2022
 
+
+_Decoupling Features in Hierarchical Propagation for Video Object Segmentation_<br>
+Zongxin Yang, Yi Yang <br>
+NeurIPS, 2022
+
+_GMMSeg: Gaussian Mixture Based Generative Semantic Segmentation Models_<br>
+Chen Liang, Wenguan Wang, Jiaxu Miao, Yi Yang <br>
+NeurIPS, 2022
+
+_Towards Versatile Embodied Navigation_<br>
+Hanqing Wang, Wei Liang, Luc V Gool, Wenguan Wang<br>
+NeurIPS, 2022
+
+_Learning Equivariant Segmentation with Instance-Unique Querying_<br>
+Wenguan Wang, James Liang, Dongfang Liu<br>
+NeurIPS, 2022
+
+_Fine-Grained Semantically Aligned Vision-Language Pre-Training_<br>
+Juncheng Li, Xin He, Longhui Wei, Long Qian, Linchao Zhu, Lingxi Xie, Yueting Zhuang, Qi Tian, Siliang Tang<br>
+NeurIPS, 2022
+
+_MHR-Net: Multiple-Hypothesis Reconstruction of Non-rigid Shapes from 2D Views_<br>
+Haitian Zeng, Xin Yu, Jiaxu Miao, Yi Yang <br>
+ECCV, 2022
+
+_Instance As Identity: A Generic Online Paradigm for Video Instance Segmentation_<br>
+Feng Zhu, Zongxin Yang, Xin Yu, Yi Yang, Yunchao Wei<br>
+ECCV, 2022
+
 _Large-scale Video Panoptic Segmentation in the Wild: A Benchmark_<br>
 Jiaxu Miao, Xiaohan Wang, Yu Wu, Wei Li , Xu Zhang, Yunchao Wei, Yi Yang<br>
 CVPR, 2022
