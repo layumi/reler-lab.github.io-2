@@ -9,7 +9,7 @@ This is the full publication list of ReLER since 2016.
 
 Conferences:  [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
 
-Journals: [2022](#22), [2021](#21)，[2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
+Journals: [2023](#23), [2022](#22), [2021](#21)，[2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 
 <hr>
 
@@ -784,7 +784,15 @@ IJCAI, 2016
 
 ## Journals
 
+### 23
+_U-turn: Crafting Adversarial Queries with Opposite-direction Features_<br>
+Zhedong Zheng, Liang Zheng, Yi Yang, Fei Wu <br>
+International Journal of Computer Vision (IJCV), 2023 [[Url]](https://zdzheng.xyz/publication/U-turn-C2022)[[Code]](https://github.com/layumi/U_turn)
+
 ### 22
+_DMRNet++: Learning Discriminative Features with Decoupled Networks and Enriched Pairs for One-Step Person Search_<br>
+Chuchu Han, Zhedong Zheng, Kai Su, Dongdong Yu, Zehuan Yuan, Changxin Gao, Nong Sang, Yi Yang <br>
+IEEE Transactions on Pattern Analysis & Machine Intelligence, 2022
 
 _Penalizing the Hard Example But Not Too Much: A Strong Baseline for Fine-Grained Visual Classification_<br>
 Yuanzhi Liang, Linchao Zhu, Xiaohan Wang, Yi Yang<br>
