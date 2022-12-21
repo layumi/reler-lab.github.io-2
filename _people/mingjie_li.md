@@ -1,6 +1,6 @@
 ---
 name: Mingjie Li
-position: gradstudent
+position: alumni
 avatar: mingjie_li.jpeg
 ---
 
@@ -11,4 +11,4 @@ avatar: mingjie_li.jpeg
 
 <i class="fa fa-envelope-o"></i> ``
 
-Mingjie Li is currently a Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Xiaojun Chang.
+Mingjie Li has obtained his PhD degree at AAII, University of Technology, Sydney, under the supervision of Prof. Xiaojun Chang. He is currently a Postdoc Research Fellow at Stanford University. 
