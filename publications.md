@@ -785,11 +785,13 @@ IJCAI, 2016
 ## Journals
 
 ### 23
-_U-turn: Crafting Adversarial Queries with Opposite-direction Features_<br>
-Zhedong Zheng, Liang Zheng, Yi Yang, Fei Wu <br>
-International Journal of Computer Vision (IJCV), 2023 [[Url]](https://zdzheng.xyz/publication/U-turn-C2022)[[Code]](https://github.com/layumi/U_turn)
+
 
 ### 22
+_U-turn: Crafting Adversarial Queries with Opposite-direction Features_<br>
+Zhedong Zheng, Liang Zheng, Yi Yang, Fei Wu <br>
+International Journal of Computer Vision (IJCV), 2022 [[Url]](https://zdzheng.xyz/publication/U-turn-C2022)[[Code]](https://github.com/layumi/U_turn)
+
 _DMRNet++: Learning Discriminative Features with Decoupled Networks and Enriched Pairs for One-Step Person Search_<br>
 Chuchu Han, Zhedong Zheng, Kai Su, Dongdong Yu, Zehuan Yuan, Changxin Gao, Nong Sang, Yi Yang <br>
 IEEE Transactions on Pattern Analysis & Machine Intelligence, 2022
