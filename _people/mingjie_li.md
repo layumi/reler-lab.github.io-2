@@ -6,6 +6,7 @@ avatar: mingjie_li.jpeg
 
 <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
+- _Postdoc Research Fellow, Stanford University
 - _PhD, University of Technology Sydney_<br>
 <!--- _Science coach. Collaborator. Transdisciplinary optimist._-->
 
