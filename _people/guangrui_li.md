@@ -11,4 +11,4 @@ avatar: guangrui_li.jpeg
 
 <i class="fa fa-envelope-o"></i> `guangrui.li@outlook.com`
 
-[Guangrui Li](https://www.guangrui.li) is currently a second-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+[Guangrui Li](https://www.guangrui.li) is currently a Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
