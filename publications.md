@@ -786,6 +786,9 @@ IJCAI, 2016
 
 ### 23
 
+_Progressive Local Filter Pruning for Image Retrieval Acceleration_<br>
+Xiaodong Wang, Zhedong Zheng, Yang He, Fei Yan, Zhiqiang Zeng, Yi Yang <br>
+IEEE Transactions on Multimedia, 2023
 
 ### 22
 _U-turn: Crafting Adversarial Queries with Opposite-direction Features_<br>
