@@ -11,4 +11,4 @@ avatar: default.jpeg
 
 <i class="fa fa-envelope-o"></i> `liulei.li@student.uts.edu.au`
 
-Liulei Li is currently a Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+Liulei Li is currently a first-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
