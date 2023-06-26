@@ -6,12 +6,43 @@ permalink: /resources/
 ## Benchmarks
 <hr>
 
-### 1. Multi-Agent RLlib (MARLlib)
-Multi-Agent RLlib (MARLlib) is a Multi-Agent Reinforcement Learning benchmark based on Ray and one of its toolkits RLlib. It provides MARL research community a unified platform for developing and evaluating the new ideas in various multi-agent environments. There are four core features of MARLlib.
--- it collects most of the existing MARL algorithms widely acknowledged by the community and unifies them under one framework.
--- it gives a solution that enables different multi-agent environments using the same interface to interact with the agents.
--- it guarantees excellent efficiency in both the training and sampling process.
--- it provides trained results, including learning curves and pretrained models specific to each task and algorithm's combination, with finetuned hyper-parameters to guarantee credibility.
+### 1. MARLlib
+**Multi-agent Reinforcement Learning Library ([MARLlib](https://arxiv.org/abs/2210.13708))** is ***a MARL library*** that utilizes [**Ray**](https://github.com/ray-project/ray) and one of its toolkits [**RLlib**](https://github.com/ray-project/ray/tree/master/rllib). It offers a comprehensive platform for developing, training, and testing MARL algorithms across various tasks and environments. 
+
+
+:beginner: MARLlib offers several key features that make it stand out:
+
+- MARLlib unifies diverse algorithm pipelines with agent-level distributed dataflow, allowing researchers to develop, test, and evaluate MARL algorithms across different tasks and environments.
+- MARLlib supports all task modes, including cooperative, collaborative, competitive, and mixed. This makes it easier for researchers to train and evaluate MARL algorithms across a wide range of tasks.
+- MARLlib provides a new interface that follows the structure of Gym, making it easier for researchers to work with multi-agent environments.
+- MARLlib provides flexible and customizable parameter-sharing strategies, allowing researchers to optimize their algorithms for different tasks and environments.
+
+:rocket: Using MARLlib, you can take advantage of various benefits, such as:
+
+- **Zero knowledge of MARL**: MARLlib provides 18 pre-built algorithms with an intuitive API, allowing researchers to start experimenting with MARL without prior knowledge of the field.
+- **Support for all task modes**: MARLlib supports almost all multi-agent environments, making it easier for researchers to experiment with different task modes.
+- **Customizable model architecture**: Researchers can choose their preferred model architecture from the model zoo, or build their own.
+- **Customizable policy sharing**: MARLlib provides grouping options for policy sharing, or researchers can create their own.
+- **Access to over a thousand released experiments**: Researchers can access over a thousand released experiments to see how other researchers have used MARLlib.
+
+
+Here's an example of how MARLlib can be used:
+
+```py
+from marllib import marl
+
+# prepare env
+env = marl.make_env(environment_name="mpe", map_name="simple_spread", force_coop=True)
+
+# initialize algorithm with appointed hyper-parameters
+mappo = marl.algos.mappo(hyperparam_source='mpe')
+
+# build agent model based on env + algorithms + user preference
+model = marl.build_model(env, mappo, {"core_arch": "mlp", "encode_layer": "128-256"})
+
+# start training
+mappo.fit(env, model, stop={'timesteps_total': 1000000}, share_policy='group')
+```
 
 
 ## Datasets
