@@ -9,30 +9,9 @@ permalink: /resources/
 ### 1. MARLlib
 **Multi-agent Reinforcement Learning Library ([MARLlib](https://arxiv.org/abs/2210.13708))** is ***a MARL library*** that utilizes [**Ray**](https://github.com/ray-project/ray) and one of its toolkits [**RLlib**](https://github.com/ray-project/ray/tree/master/rllib). It offers a comprehensive platform for developing, training, and testing MARL algorithms across various tasks and environments. 
 
-<div align="center">
+<img width="1508" alt="image" src="https://github.com/Replicable-MARL/MARLlib/blob/master/docs/source/images/allenv.gif">
 
-<img src=https://github.com/Replicable-MARL/MARLlib/blob/master/docs/source/images/allenv.gif width=99% />
-
-</div>
-
-
-**MARLlib offers several key features that make it stand out:**
-
-- MARLlib unifies diverse algorithm pipelines with agent-level distributed dataflow, allowing researchers to develop, test, and evaluate MARL algorithms across different tasks and environments.
-- MARLlib supports all task modes, including cooperative, collaborative, competitive, and mixed. This makes it easier for researchers to train and evaluate MARL algorithms across a wide range of tasks.
-- MARLlib provides a new interface that follows the structure of Gym, making it easier for researchers to work with multi-agent environments.
-- MARLlib provides flexible and customizable parameter-sharing strategies, allowing researchers to optimize their algorithms for different tasks and environments.
-
-**Using MARLlib, you can take advantage of various benefits, such as:**
-
-- Zero knowledge of MARL: MARLlib provides 18 pre-built algorithms with an intuitive API, allowing researchers to start experimenting with MARL without prior knowledge of the field.
-- Support for all task modes: MARLlib supports almost all multi-agent environments, making it easier for researchers to experiment with different task modes.
-- Customizable model architecture: Researchers can choose their preferred model architecture from the model zoo, or build their own.
-- Customizable policy sharing: MARLlib provides grouping options for policy sharing, or researchers can create their own.
-- Access to over a thousand released experiments: Researchers can access over a thousand released experiments to see how other researchers have used MARLlib.
-
-
-Here's an example of how MARLlib can be used:
+Here's an example of MARLlib's API usage:
 
 ```py
 from marllib import marl
