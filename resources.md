@@ -3,13 +3,13 @@ title: Resources
 permalink: /resources/
 ---
 
-## Benchmarks
+## Platforms
 <hr>
 
 ### 1. MARLlib
 **Multi-agent Reinforcement Learning Library ([MARLlib](https://arxiv.org/abs/2210.13708))** is ***a MARL library*** that utilizes [**Ray**](https://github.com/ray-project/ray) and one of its toolkits [**RLlib**](https://github.com/ray-project/ray/tree/master/rllib). It offers a comprehensive platform for developing, training, and testing MARL algorithms across various tasks and environments. 
 
-<img width="1508" alt="image" src="https://github.com/Replicable-MARL/MARLlib/blob/master/docs/source/images/allenv.gif">
+<img width="1508" alt="image" src="https://github.com/Replicable-MARL/MARLlib/blob/docs/docs/source/images/reler_marllib_source.png?raw=true">
 
 Here's an example of MARLlib's API usage:
 
