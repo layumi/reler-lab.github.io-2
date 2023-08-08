@@ -15,6 +15,15 @@ Journals: [2023](#23), [2022](#22), [2021](#21)，[2020](#20), [2019](#19), [201
 
 ## Conferences
 
+### 2023
+_PiPa: Pixel-and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation_<br>
+Mu Chen, Zhedong Zheng, Yi Yang, Tat-seng Chua <br>
+ACM Multimedia, 2023 [[Project]](https://www.zdzheng.xyz/publication/PiPa-Pix2023)
+
+_Context-aware Pretraining for Efficient Blind Image Decomposition_<br>
+Chao Wang, Zhedong Zheng, Ruijie Quan, Yifan Sun, Yi Yang <br>
+CVPR, 2023 [[Project]](https://www.zdzheng.xyz/publication/Context-2023)
+
 ### 2022
 
 
@@ -47,7 +56,7 @@ Feng Zhu, Zongxin Yang, Xin Yu, Yi Yang, Yunchao Wei<br>
 ECCV, 2022
 
 _Large-scale Video Panoptic Segmentation in the Wild: A Benchmark_<br>
-Jiaxu Miao, Xiaohan Wang, Yu Wu, Wei Li , Xu Zhang, Yunchao Wei, Yi Yang<br>
+Jiaxu Miao, Xiaohan Wang, Yu Wu, Wei Li, Xu Zhang, Yunchao Wei, Yi Yang<br>
 CVPR, 2022
 
 _H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-domain Weakly Supervised Object Detection_<br>
@@ -275,7 +284,7 @@ AAAI, 2021
 
 _Decoupled and Memory-Reinforced Networks: Towards Effective Feature Learning for One-Step Person Search_<br>
 Chuchu Han, Zhedong Zheng, Changxin Gao, Nong Sang, Yi Yang<br>
-AAAI, 2021 [[Paper](https://zdzheng.xyz/files/Han_Person_Search.pdf)]
+AAAI, 2021 [[Paper](https://zdzheng.xyz/files/Han_Person_Search.pdf)] 
 
 _Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation_<br>
 Lincheng Li, Suzhen Wang, Zhimeng Zhang, Yu Ding, Yixing Zheng, Xin Yu, Changjie Fan<br>
@@ -785,10 +794,14 @@ IJCAI, 2016
 ## Journals
 
 ### 23
+_Multi-View Consistent Generative Adversarial Networks for Compositional 3D-aware Image Synthesis_<br>
+Xuanmeng Zhang, Zhedong Zheng, Daiheng Gao, Bang Zhang, Yi Yang, Tat-Seng Chua
+International Journal of Computer Vision (IJCV), 2023 [[Project]](https://www.zdzheng.xyz/publication/Multi-Vi2023)
 
 _Progressive Local Filter Pruning for Image Retrieval Acceleration_<br>
 Xiaodong Wang, Zhedong Zheng, Yang He, Fei Yan, Zhiqiang Zeng, Yi Yang <br>
 IEEE Transactions on Multimedia, 2023
+
 
 ### 22
 _U-turn: Crafting Adversarial Queries with Opposite-direction Features_<br>
@@ -814,7 +827,7 @@ IEEE Transactions on Neural Networks and Learning Systems, 2022 [[Code]](https:/
 
 _Self-supervised Point Cloud Representation Learning via Separating Mixed Shapes_<br>
 Chao Sun, Zhedong Zheng, Xiaohan Wang, Mingliang Xu, Yi Yang  <br>
-IEEE Transactions on Multimedia, 2022 [[Paper]](https://zdzheng.xyz/files/TMM_3D_Pre_Training.pdf)
+IEEE Transactions on Multimedia, 2022 [[Paper]](https://zdzheng.xyz/files/TMM_3D_Pre_Training.pdf) [[Project]](https://www.zdzheng.xyz/publication/Self-sup2022)
 
 _Action Keypoint Network for Efficient Video Recognition_<br>
 Xu Chen, Yahong Han, Xiaohan Wang, Yifan Sun, Yi Yang<br>
