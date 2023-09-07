@@ -23,7 +23,7 @@ permalink: /people/
 <h3>Adjunct Staffs</h3>
   {% elsif item == 'ap' %}
 
-<h3>Staffs</h3>
+<h3>Postdoc Research Fellow</h3>
  {% elsif item == 'gradstudent' %}
 
 <h3>Graduate Students</h3>
