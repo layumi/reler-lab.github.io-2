@@ -1,6 +1,6 @@
 ---
 name: Wenguan Wang
-position: ap
+position: alumni
 avatar: wenguan.jpg
 joined: 2022
 ---
