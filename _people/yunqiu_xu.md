@@ -1,6 +1,6 @@
----
+![image](https://github.com/reler-lab/reler-lab.github.io/assets/61669044/832c74f4-c12b-413c-9c0a-739824db304f)---
 name: Yunqiu Xu
-position: gradstudent
+position: alumni
 avatar: yunqiuxu.jpg
 ---
 
