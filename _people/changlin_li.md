@@ -1,6 +1,6 @@
 ---
 name: Changlin Li
-position: gradstudent
+position: postdoc
 avatar: changlin_li.jpeg
 ---
 
