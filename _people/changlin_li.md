@@ -1,6 +1,6 @@
 ---
 name: Changlin Li
-position: postdoc
+position: ap
 avatar: changlin_li.jpeg
 ---
 
