@@ -24,6 +24,22 @@ _Context-aware Pretraining for Efficient Blind Image Decomposition_<br>
 Chao Wang, Zhedong Zheng, Ruijie Quan, Yifan Sun, Yi Yang <br>
 CVPR, 2023 [[Project]](https://www.zdzheng.xyz/publication/Context-2023)
 
+_Dynamic Graph Enhanced Contrastive Learning for Chest X-Ray Report Generation_<br>
+Mingjie Li, Bingqian Lin, Zicong Chen, Haokun Lin, Xiaodan Liang and Xiaojun Chang <br> 
+CVPR, 2023
+
+_HTML: Hybrid Temporal-scale Multimodal Learning Framework for Referring Video Object Segmentation_<br>
+Mingfei Han, Yali Wang, Zhihui Li, Lina Yao, Xiaojun Chang and Yu Qiao <br> 
+ICCV, 2023.
+
+_FULLER: Unified Multi-modality Multi-task 3D Perception via Multi-level Gradient Calibration_<br>
+Zhijian Huang, Sihao Lin, Guiyu Liu, Mukun Luo, Chaoqiang Ye, Hang Xu, Xiaojun Chang and Xiaodan Liang <br>
+ICCV, 2023
+
+_ViewCo: Discovering Text-Supervised Segmentation Masks via Multi-View Semantic Consistency_<br>
+Pengzhen Ren, Changlin Li, Hang Xu, Yi Zhu, Guangrun Wang, Jianzhuang Liu, Xiaojun Chang and Xiaodan Liang <br>
+ICLR, 2023
+
 ### 2022
 
 
