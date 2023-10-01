@@ -11,4 +11,4 @@ avatar: shuai_zhao.jpeg
 
 <i class="fa fa-envelope-o"></i> `zhaoshuaimcc@gmail.com`
 
-Shuai Zhao is currently a first-year Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
+[Shuai Zhao](https://mzhaoshuai.github.io) is currently a Ph.D. student at AAII, University of Technology, Sydney, under the supervision of Prof. Yi Yang.
