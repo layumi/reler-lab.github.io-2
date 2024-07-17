@@ -7,13 +7,23 @@ permalink: /publication/
 
 This is the full publication list of ReLER since 2016.
 
-Conferences:  [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
+Conferences:  [2024](#2024),[2023](#2023),[2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016)
 
-Journals: [2023](#23), [2022](#22), [2021](#21)，[2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
+Journals: [2024](#24),[2023](#23), [2022](#22), [2021](#21)，[2020](#20), [2019](#19), [2018](#18), [2017](#17), [2016](#16)
 
 <hr>
 
 ## Conferences
+
+### 2024
+_Transferring to Real-World Layouts: A Depth-aware Framework for Scene Adaptation_<br>
+Mu Chen, Zhedong Zheng, Yi Yang <br>
+ACM Multimedia, 2024
+
+_Depth-aware blind image decomposition for real-world adverse weather recovery_<br>
+Chao Wang, Zhedong Zheng, Ruijie Quan, Yi Yang <br>
+ECCV, 2024
+
 
 ### 2023
 _PiPa: Pixel-and Patch-wise Self-supervised Learning for Domain Adaptative Semantic Segmentation_<br>
